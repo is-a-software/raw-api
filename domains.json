@@ -27,6 +27,24 @@
     }
   },
   {
+    "domain": "firebase1._domainkey.mail",
+    "owner": {
+      "github": "oyepriyansh"
+    },
+    "record": {
+      "CNAME": "mail-mail-is--a-software.dkim1._domainkey.firebasemail.com"
+    }
+  },
+  {
+    "domain": "firebase2._domainkey.mail",
+    "owner": {
+      "github": "oyepriyansh"
+    },
+    "record": {
+      "CNAME": "mail-mail-is--a-software.dkim2._domainkey.firebasemail.com"
+    }
+  },
+  {
     "domain": "githubroaster",
     "owner": {
       "github": "mohammad-abrar"
@@ -133,6 +151,16 @@
     "record": {
       "CNAME": "oyepriyansh.github.io"
     }
+  },
+  {
+    "domain": "raw",
+    "owner": {
+      "github": "oyepriyansh"
+    },
+    "record": {
+      "CNAME": "raw-api.pages.dev"
+    },
+    "proxy": true
   },
   {
     "domain": "relivemusic",
