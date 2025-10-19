@@ -1,1 +1,164 @@
-
+[
+  {
+    "domain": "campusmarketplace",
+    "owner": {
+      "github": "arnoldmidalla"
+    },
+    "record": {
+      "CNAME": "2c4b8f2901fcb273.vercel-dns-017.com."
+    }
+  },
+  {
+    "domain": "covergenius",
+    "owner": {
+      "github": "theprinceraj"
+    },
+    "record": {
+      "CNAME": "478f1177df1911e0.vercel-dns-017.com"
+    }
+  },
+  {
+    "domain": "devprofiles",
+    "owner": {
+      "github": "oyepriyansh"
+    },
+    "record": {
+      "CNAME": "e861db2c7b146bef.vercel-dns-017.com"
+    }
+  },
+  {
+    "domain": "githubroaster",
+    "owner": {
+      "github": "mohammad-abrar"
+    },
+    "record": {
+      "CNAME": "b8bfb10e689f24d3.vercel-dns-017.com"
+    }
+  },
+  {
+    "domain": "glasschat",
+    "owner": {
+      "github": "iFreaku"
+    },
+    "record": {
+      "CNAME": "glasschat.onrender.com"
+    }
+  },
+  {
+    "domain": "hingedev",
+    "owner": {
+      "github": "rahulkumarpahwa"
+    },
+    "record": {
+      "CNAME": "ns1.vercel-dns.com"
+    }
+  },
+  {
+    "domain": "larconic",
+    "owner": {
+      "github": "larconic"
+    },
+    "record": {
+      "CNAME": "larconic.github.io"
+    }
+  },
+  {
+    "domain": "maxlol",
+    "owner": {
+      "github": "motionzlol"
+    },
+    "record": {
+      "CNAME": "2674e4418ba142f1.vercel-dns-017.com"
+    }
+  },
+  {
+    "domain": "mines",
+    "owner": {
+      "github": "AbdulWashid"
+    },
+    "record": {
+      "CNAME": "22de7a03007081bf.vercel-dns-017.com"
+    }
+  },
+  {
+    "domain": "mockai",
+    "owner": {
+      "github": "iFreaku"
+    },
+    "record": {
+      "CNAME": "aimockdata.onrender.com"
+    }
+  },
+  {
+    "domain": "motiq-ai",
+    "owner": {
+      "github": "valentinvera"
+    },
+    "record": {
+      "CNAME": "462838183b71ce80.vercel-dns-017.com"
+    }
+  },
+  {
+    "domain": "nishantgaurav",
+    "owner": {
+      "github": "codewithevilxd"
+    },
+    "record": {
+      "CNAME": "codewithevilxd.github.io"
+    }
+  },
+  {
+    "domain": "parsespy",
+    "owner": {
+      "github": "theprinceraj"
+    },
+    "record": {
+      "CNAME": "c5024b8e3497d0d3.vercel-dns-017.com"
+    }
+  },
+  {
+    "domain": "pattycoder",
+    "owner": {
+      "github": "pattycoder01"
+    },
+    "record": {
+      "CNAME": "pattycoder01.github.io"
+    }
+  },
+  {
+    "domain": "prasad",
+    "owner": {
+      "github": "oyepriyansh"
+    },
+    "record": {
+      "CNAME": "oyepriyansh.github.io"
+    }
+  },
+  {
+    "domain": "relivemusic",
+    "owner": {
+      "github": "relivemusic"
+    },
+    "record": {
+      "CNAME": "relivemusic.github.io"
+    }
+  },
+  {
+    "domain": "resend._domainkey.motiq-ai",
+    "owner": {
+      "github": "valentinvera"
+    },
+    "record": {
+      "TXT": "p=MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDVlRiPLhe8WBPZBMl3fqFXKRoTP3LVy6VVrmH8OaUmMUAKRVQln2CflfbaLTCnJJfHKSGbnvn5+kwmE6NFoewliiYJeeqZFtObT7zccfg0FglnxCTZpRPpUMxiBImj2/IrPhzq9nepRy6r1SSoag5tD0U/9yzbCKHqFzkIjkLnKQIDAQAB"
+    }
+  },
+  {
+    "domain": "www",
+    "owner": {
+      "github": "oyepriyansh"
+    },
+    "record": {
+      "CNAME": "is-a-software.github.io"
+    }
+  }
+]
