@@ -181,6 +181,15 @@
     }
   },
   {
+    "domain": "test",
+    "owner": {
+      "github": "oyepriyansh"
+    },
+    "record": {
+      "CNAME": "test"
+    }
+  },
+  {
     "domain": "www",
     "owner": {
       "github": "oyepriyansh"
