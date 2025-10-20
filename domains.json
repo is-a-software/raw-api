@@ -181,13 +181,14 @@
     }
   },
   {
-    "domain": "test",
+    "domain": "testingfromdashboard",
     "owner": {
       "github": "oyepriyansh"
     },
     "record": {
-      "CNAME": "test"
-    }
+      "CNAME": "priyansh.com"
+    },
+    "proxy": true
   },
   {
     "domain": "www",
