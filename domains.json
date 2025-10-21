@@ -191,6 +191,16 @@
     }
   },
   {
+    "domain": "saksham",
+    "owner": {
+      "github": "OshekharO"
+    },
+    "record": {
+      "CNAME": "oshekharo.github.io"
+    },
+    "proxy": true
+  },
+  {
     "domain": "something",
     "owner": {
       "github": "Spigey"
