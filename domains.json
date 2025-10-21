@@ -191,6 +191,15 @@
     }
   },
   {
+    "domain": "something",
+    "owner": {
+      "github": "Spigey"
+    },
+    "record": {
+      "A": "127.0.0.1"
+    }
+  },
+  {
     "domain": "testingfromdashboard",
     "owner": {
       "github": "oyepriyansh"
