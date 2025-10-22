@@ -115,7 +115,8 @@
     },
     "record": {
       "CNAME": "modeliqint.vercel.app"
-    }
+    },
+    "proxy": true
   },
   {
     "domain": "motiq-ai",
