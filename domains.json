@@ -73,6 +73,16 @@
     }
   },
   {
+    "domain": "jaiyankargupta",
+    "owner": {
+      "github": "jaiyankargupta"
+    },
+    "record": {
+      "CNAME": "jaiyankargupta.vercel.app"
+    },
+    "proxy": true
+  },
+  {
     "domain": "larconic",
     "owner": {
       "github": "larconic"
