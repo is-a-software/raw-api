@@ -27,6 +27,15 @@
     }
   },
   {
+    "domain": "farmbot",
+    "owner": {
+      "github": "DogIcing"
+    },
+    "record": {
+      "CNAME": "farmbot-discord.vercel.app"
+    }
+  },
+  {
     "domain": "firebase1._domainkey.mail",
     "owner": {
       "github": "oyepriyansh"
