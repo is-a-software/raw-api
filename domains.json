@@ -33,7 +33,8 @@
     },
     "record": {
       "CNAME": "farmbot-discord.vercel.app"
-    }
+    },
+    "proxy": true
   },
   {
     "domain": "firebase1._domainkey.mail",
