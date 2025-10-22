@@ -109,6 +109,15 @@
     }
   },
   {
+    "domain": "modeliq",
+    "owner": {
+      "github": "dewabillionaire"
+    },
+    "record": {
+      "CNAME": "modeliqint.vercel.app"
+    }
+  },
+  {
     "domain": "motiq-ai",
     "owner": {
       "github": "valentinvera"
