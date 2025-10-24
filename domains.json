@@ -36,6 +36,15 @@
     }
   },
   {
+    "domain": "ennbx",
+    "owner": {
+      "github": "FWEEaaaa1"
+    },
+    "record": {
+      "A": "128.204.223.115"
+    }
+  },
+  {
     "domain": "farmbot",
     "owner": {
       "github": "DogIcing"
