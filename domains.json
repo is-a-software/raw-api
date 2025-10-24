@@ -9,6 +9,15 @@
     }
   },
   {
+    "domain": "chadindev",
+    "owner": {
+      "github": "PingHuskar"
+    },
+    "record": {
+      "CNAME": "chadindev.in.th"
+    }
+  },
+  {
     "domain": "covergenius",
     "owner": {
       "github": "theprinceraj"
