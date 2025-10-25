@@ -36,6 +36,15 @@
     }
   },
   {
+    "domain": "docs",
+    "owner": {
+      "github": "oyepriyansh"
+    },
+    "record": {
+      "CNAME": "is-a-software.github.io"
+    }
+  },
+  {
     "domain": "ennbx",
     "owner": {
       "github": "FWEEaaaa1"
