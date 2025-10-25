@@ -129,6 +129,15 @@
     }
   },
   {
+    "domain": "manstral",
+    "owner": {
+      "github": "zannbjir"
+    },
+    "record": {
+      "CNAME": "3eda046845788e7d.vercel-dns-017.com."
+    }
+  },
+  {
     "domain": "maxlol",
     "owner": {
       "github": "motionzlol"
