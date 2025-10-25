@@ -110,6 +110,15 @@
     }
   },
   {
+    "domain": "home.pulse",
+    "owner": {
+      "github": "mxsznnnn"
+    },
+    "record": {
+      "CNAME": "aas-hazel-seven.vercel.app"
+    }
+  },
+  {
     "domain": "jaiyankargupta",
     "owner": {
       "github": "jaiyankargupta"
