@@ -166,15 +166,6 @@
     }
   },
   {
-    "domain": "nfservic",
-    "owner": {
-      "github": "devp59187-lab"
-    },
-    "record": {
-      "CNAME": "https://is-a.dev/?d=nfservice"
-    }
-  },
-  {
     "domain": "nishantgaurav",
     "owner": {
       "github": "codewithevilxd"
