@@ -211,6 +211,15 @@
     }
   },
   {
+    "domain": "noloxo",
+    "owner": {
+      "github": "NoloxoYT"
+    },
+    "record": {
+      "CNAME": "noloxoyt.github.io"
+    }
+  },
+  {
     "domain": "parsespy",
     "owner": {
       "github": "theprinceraj"
