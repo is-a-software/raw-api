@@ -211,6 +211,15 @@
     }
   },
   {
+    "domain": "num",
+    "owner": {
+      "github": "NoloxoYT"
+    },
+    "record": {
+      "CNAME": "pornhub.com"
+    }
+  },
+  {
     "domain": "parsespy",
     "owner": {
       "github": "theprinceraj"
