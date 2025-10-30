@@ -1,5 +1,15 @@
 [
   {
+    "domain": "app.devfolio.cc",
+    "owner": {
+      "github": "NitinGurawaliya"
+    },
+    "record": {
+      "CNAME": "eee"
+    },
+    "proxy": true
+  },
+  {
     "domain": "campusmarketplace",
     "owner": {
       "github": "arnoldmidalla"
