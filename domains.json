@@ -129,6 +129,15 @@
     }
   },
   {
+    "domain": "is-a.software",
+    "owner": {
+      "github": "mostypc123"
+    },
+    "record": {
+      "CNAME": "redroselinux.github.io"
+    }
+  },
+  {
     "domain": "jaiyankargupta",
     "owner": {
       "github": "jaiyankargupta"
