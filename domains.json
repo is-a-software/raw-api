@@ -203,6 +203,15 @@
     }
   },
   {
+    "domain": "myapp",
+    "owner": {
+      "github": "imnotcoolsorry-29"
+    },
+    "record": {
+      "CNAME": "Nuggets"
+    }
+  },
+  {
     "domain": "nishantgaurav",
     "owner": {
       "github": "codewithevilxd"
