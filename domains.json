@@ -276,6 +276,15 @@
     "proxy": true
   },
   {
+    "domain": "redroselinux",
+    "owner": {
+      "github": "mostypc123"
+    },
+    "record": {
+      "CNAME": "redroselinux.github.io"
+    }
+  },
+  {
     "domain": "relivemusic",
     "owner": {
       "github": "relivemusic"
