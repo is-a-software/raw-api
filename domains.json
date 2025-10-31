@@ -209,7 +209,8 @@
     },
     "record": {
       "CNAME": "Nuggets"
-    }
+    },
+    "proxy": true
   },
   {
     "domain": "nishantgaurav",
