@@ -332,6 +332,15 @@
     "proxy": true
   },
   {
+    "domain": "unspoken",
+    "owner": {
+      "github": "pygod7"
+    },
+    "record": {
+      "A": "192.168.1.1"
+    }
+  },
+  {
     "domain": "www",
     "owner": {
       "github": "oyepriyansh"
