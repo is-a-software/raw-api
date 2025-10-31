@@ -277,6 +277,16 @@
     "proxy": true
   },
   {
+    "domain": "psychox",
+    "owner": {
+      "github": "ItzRealexit"
+    },
+    "record": {
+      "CNAME": "psychoXdevs.fun"
+    },
+    "proxy": true
+  },
+  {
     "domain": "quiz",
     "owner": {
       "github": "zaselalk"
