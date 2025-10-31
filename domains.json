@@ -267,6 +267,16 @@
     }
   },
   {
+    "domain": "psycho",
+    "owner": {
+      "github": "ItzRealexit"
+    },
+    "record": {
+      "CNAME": "psycho.is-a.software"
+    },
+    "proxy": true
+  },
+  {
     "domain": "quiz",
     "owner": {
       "github": "zaselalk"
