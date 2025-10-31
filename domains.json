@@ -92,6 +92,15 @@
     }
   },
   {
+    "domain": "gh-redroselinux-o.redroselinux",
+    "owner": {
+      "github": "mostypc123"
+    },
+    "record": {
+      "TXT": "0917389d20"
+    }
+  },
+  {
     "domain": "githubroaster",
     "owner": {
       "github": "mohammad-abrar"
