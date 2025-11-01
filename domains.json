@@ -391,6 +391,16 @@
     "proxy": true
   },
   {
+    "domain": "unregistered",
+    "owner": {
+      "github": "oyepriyansh"
+    },
+    "record": {
+      "CNAME": "is-a-software.pages.dev"
+    },
+    "proxy": true
+  },
+  {
     "domain": "unspoken",
     "owner": {
       "github": "pygod7"
