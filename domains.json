@@ -6,8 +6,7 @@
     },
     "record": {
       "CNAME": "saksham-shekher.github.io"
-    },
-    "proxy": true
+    }
   },
   {
     "domain": "app.devfolio.cc",
@@ -16,8 +15,7 @@
     },
     "record": {
       "CNAME": "eee"
-    },
-    "proxy": true
+    }
   },
   {
     "domain": "campusmarketplace",
@@ -80,8 +78,7 @@
     },
     "record": {
       "CNAME": "farmbot-discord.vercel.app"
-    },
-    "proxy": true
+    }
   },
   {
     "domain": "firebase1._domainkey.mail",
@@ -108,8 +105,7 @@
     },
     "record": {
       "CNAME": "b8bfb10e689f24d3.vercel-dns-017.com"
-    },
-    "proxy": true
+    }
   },
   {
     "domain": "glasschat",
@@ -145,8 +141,7 @@
     },
     "record": {
       "CNAME": "jaiyankargupta.vercel.app"
-    },
-    "proxy": true
+    }
   },
   {
     "domain": "larconic",
@@ -200,8 +195,7 @@
     },
     "record": {
       "CNAME": "modeliqint.vercel.app"
-    },
-    "proxy": true
+    }
   },
   {
     "domain": "motiq-ai",
@@ -219,8 +213,7 @@
     },
     "record": {
       "CNAME": "Nuggets"
-    },
-    "proxy": true
+    }
   },
   {
     "domain": "nishantgaurav",
@@ -292,8 +285,7 @@
     },
     "record": {
       "CNAME": "abhishekjaat.vercel.app"
-    },
-    "proxy": true
+    }
   },
   {
     "domain": "psychodev",
@@ -302,8 +294,7 @@
     },
     "record": {
       "CNAME": "abhishekjaat.vercel.app"
-    },
-    "proxy": true
+    }
   },
   {
     "domain": "psychox",
@@ -312,8 +303,7 @@
     },
     "record": {
       "CNAME": "psychoXdevs.fun"
-    },
-    "proxy": true
+    }
   },
   {
     "domain": "quiz",
@@ -331,8 +321,7 @@
     },
     "record": {
       "CNAME": "raw-api.pages.dev"
-    },
-    "proxy": true
+    }
   },
   {
     "domain": "redroselinux",
@@ -368,8 +357,7 @@
     },
     "record": {
       "CNAME": "oshekharo.github.io"
-    },
-    "proxy": true
+    }
   },
   {
     "domain": "snakegame",
@@ -396,8 +384,7 @@
     },
     "record": {
       "CNAME": "oyepriyansh.github.io"
-    },
-    "proxy": true
+    }
   },
   {
     "domain": "unregistered",
@@ -406,8 +393,7 @@
     },
     "record": {
       "CNAME": "is-a-software.pages.dev"
-    },
-    "proxy": true
+    }
   },
   {
     "domain": "unspoken",
@@ -416,8 +402,7 @@
     },
     "record": {
       "CNAME": "b1d6a5515f7d666d.vercel-dns-017.com"
-    },
-    "proxy": true
+    }
   },
   {
     "domain": "www",
