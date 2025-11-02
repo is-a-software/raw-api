@@ -387,15 +387,6 @@
     }
   },
   {
-    "domain": "unregistered",
-    "owner": {
-      "github": "oyepriyansh"
-    },
-    "record": {
-      "CNAME": "is-a-software.pages.dev"
-    }
-  },
-  {
     "domain": "unspoken",
     "owner": {
       "github": "pygod7"
