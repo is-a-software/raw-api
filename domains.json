@@ -378,15 +378,6 @@
     }
   },
   {
-    "domain": "testingfromdashboard",
-    "owner": {
-      "github": "oyepriyansh"
-    },
-    "record": {
-      "CNAME": "oyepriyansh.github.io"
-    }
-  },
-  {
     "domain": "unspoken",
     "owner": {
       "github": "pygod7"
