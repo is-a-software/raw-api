@@ -27,15 +27,6 @@
     }
   },
   {
-    "domain": "boostify.is-a.software",
-    "owner": {
-      "github": "pygod7"
-    },
-    "record": {
-      "CNAME": "dfddbb53c8d2392c.vercel-dns-017.com"
-    }
-  },
-  {
     "domain": "campusmarketplace",
     "owner": {
       "github": "arnoldmidalla"
