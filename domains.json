@@ -243,6 +243,15 @@
     }
   },
   {
+    "domain": "nexi.com",
+    "owner": {
+      "github": "khaliqnoor"
+    },
+    "record": {
+      "CNAME": "nexi-bay.vercel.app"
+    }
+  },
+  {
     "domain": "nishantgaurav",
     "owner": {
       "github": "codewithevilxd"
