@@ -63,6 +63,15 @@
     }
   },
   {
+    "domain": "devlop",
+    "owner": {
+      "github": "DnyaneshwariRode"
+    },
+    "record": {
+      "CNAME": "portfolio.com"
+    }
+  },
+  {
     "domain": "devprofiles",
     "owner": {
       "github": "oyepriyansh"
