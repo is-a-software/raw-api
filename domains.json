@@ -90,6 +90,15 @@
     }
   },
   {
+    "domain": "discord",
+    "owner": {
+      "github": "harunabdullahrakin"
+    },
+    "record": {
+      "CNAME": "target.amarworld.me"
+    }
+  },
+  {
     "domain": "docs",
     "owner": {
       "github": "oyepriyansh"
