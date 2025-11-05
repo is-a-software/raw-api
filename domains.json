@@ -9,6 +9,15 @@
     }
   },
   {
+    "domain": "apis",
+    "owner": {
+      "github": "harunabdullahrakin"
+    },
+    "record": {
+      "CNAME": "dictionary.zone.id"
+    }
+  },
+  {
     "domain": "app.devfolio.cc",
     "owner": {
       "github": "NitinGurawaliya"
