@@ -405,6 +405,15 @@
     }
   },
   {
+    "domain": "software",
+    "owner": {
+      "github": "harunabdullahrakin"
+    },
+    "record": {
+      "CNAME": "dictionary.zone.id"
+    }
+  },
+  {
     "domain": "something",
     "owner": {
       "github": "Spigey"
