@@ -396,15 +396,6 @@
     }
   },
   {
-    "domain": "snakegame",
-    "owner": {
-      "github": "oyepriyansh"
-    },
-    "record": {
-      "CNAME": "89e9c672faeddccd.vercel-dns-017.com."
-    }
-  },
-  {
     "domain": "something",
     "owner": {
       "github": "Spigey"
