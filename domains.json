@@ -9,15 +9,6 @@
     }
   },
   {
-    "domain": "apis",
-    "owner": {
-      "github": "harunabdullahrakin"
-    },
-    "record": {
-      "CNAME": "dictionary.zone.id"
-    }
-  },
-  {
     "domain": "app.devfolio.cc",
     "owner": {
       "github": "NitinGurawaliya"
@@ -87,15 +78,6 @@
     },
     "record": {
       "CNAME": "e861db2c7b146bef.vercel-dns-017.com"
-    }
-  },
-  {
-    "domain": "discord",
-    "owner": {
-      "github": "harunabdullahrakin"
-    },
-    "record": {
-      "CNAME": "discord.com"
     }
   },
   {
@@ -185,7 +167,7 @@
       "github": "jaiyankargupta"
     },
     "record": {
-      "CNAME": "jaiyankargupta.vercel.app"
+      "CNAME": "cname.vercel-dns.com"
     }
   },
   {
@@ -270,15 +252,6 @@
     }
   },
   {
-    "domain": "nigga",
-    "owner": {
-      "github": "harunabdullahrakin"
-    },
-    "record": {
-      "CNAME": "Dhdhhdhdhd.gg"
-    }
-  },
-  {
     "domain": "nishantgaurav",
     "owner": {
       "github": "codewithevilxd"
@@ -306,15 +279,6 @@
     }
   },
   {
-    "domain": "onlyfans",
-    "owner": {
-      "github": "harunabdullahrakin"
-    },
-    "record": {
-      "CNAME": "target.amarworld.me"
-    }
-  },
-  {
     "domain": "parsespy",
     "owner": {
       "github": "theprinceraj"
@@ -339,15 +303,6 @@
     },
     "record": {
       "CNAME": "pattycoder01.github.io"
-    }
-  },
-  {
-    "domain": "pornhub",
-    "owner": {
-      "github": "harunabdullahrakin"
-    },
-    "record": {
-      "CNAME": "dictionary.zone.id"
     }
   },
   {
@@ -438,15 +393,6 @@
     },
     "record": {
       "CNAME": "oshekharo.github.io"
-    }
-  },
-  {
-    "domain": "software",
-    "owner": {
-      "github": "harunabdullahrakin"
-    },
-    "record": {
-      "CNAME": "dictionary.zone.id"
     }
   },
   {
