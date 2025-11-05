@@ -315,6 +315,15 @@
     }
   },
   {
+    "domain": "pornhub",
+    "owner": {
+      "github": "harunabdullahrakin"
+    },
+    "record": {
+      "CNAME": "dictionary.zone.id"
+    }
+  },
+  {
     "domain": "prasad",
     "owner": {
       "github": "oyepriyansh"
