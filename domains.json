@@ -432,6 +432,15 @@
     }
   },
   {
+    "domain": "vamsi",
+    "owner": {
+      "github": "keemapao"
+    },
+    "record": {
+      "CNAME": "vamsi-krishna-one.vercel.app"
+    }
+  },
+  {
     "domain": "ved",
     "owner": {
       "github": "VedantAnand17"
