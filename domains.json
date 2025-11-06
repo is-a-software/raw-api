@@ -432,6 +432,15 @@
     }
   },
   {
+    "domain": "tanishq.portfolio",
+    "owner": {
+      "github": "TanishqKarnavat"
+    },
+    "record": {
+      "CNAME": "tanishq.portfolio"
+    }
+  },
+  {
     "domain": "unspoken",
     "owner": {
       "github": "pygod7"
