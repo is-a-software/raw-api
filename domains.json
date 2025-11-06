@@ -360,6 +360,15 @@
     }
   },
   {
+    "domain": "raptor7197",
+    "owner": {
+      "github": "keemapao"
+    },
+    "record": {
+      "CNAME": "vamsi-krishna-one.vercel.app"
+    }
+  },
+  {
     "domain": "raw",
     "owner": {
       "github": "oyepriyansh"
