@@ -387,15 +387,6 @@
     }
   },
   {
-    "domain": "rustyn",
-    "owner": {
-      "github": "jaiyankargupta"
-    },
-    "record": {
-      "TXT": "vc-domain-verify=rustyn.is-a.software,a6ae18883f061fe80796"
-    }
-  },
-  {
     "domain": "saksham",
     "owner": {
       "github": "OshekharO"
