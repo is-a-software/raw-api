@@ -405,6 +405,15 @@
     }
   },
   {
+    "domain": "shubham",
+    "owner": {
+      "github": "krshubham21"
+    },
+    "record": {
+      "CNAME": "krshubham21.vercel.app"
+    }
+  },
+  {
     "domain": "something",
     "owner": {
       "github": "Spigey"
