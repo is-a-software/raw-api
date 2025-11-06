@@ -414,6 +414,15 @@
     }
   },
   {
+    "domain": "ved",
+    "owner": {
+      "github": "VedantAnand17"
+    },
+    "record": {
+      "CNAME": "7c419eace12ad61e.vercel-dns-017.com."
+    }
+  },
+  {
     "domain": "www",
     "owner": {
       "github": "oyepriyansh"
