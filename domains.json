@@ -459,6 +459,15 @@
     }
   },
   {
+    "domain": "void-57",
+    "owner": {
+      "github": "void-57"
+    },
+    "record": {
+      "CNAME": "void-57.dev"
+    }
+  },
+  {
     "domain": "www",
     "owner": {
       "github": "oyepriyansh"
