@@ -171,6 +171,15 @@
     }
   },
   {
+    "domain": "kishore",
+    "owner": {
+      "github": "kishoredhondhu"
+    },
+    "record": {
+      "CNAME": "kishore.com"
+    }
+  },
+  {
     "domain": "larconic",
     "owner": {
       "github": "larconic"
