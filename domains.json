@@ -369,6 +369,15 @@
     }
   },
   {
+    "domain": "quillkeys",
+    "owner": {
+      "github": "bedigambar"
+    },
+    "record": {
+      "CNAME": "quill-keys.vercel.app"
+    }
+  },
+  {
     "domain": "quiz",
     "owner": {
       "github": "zaselalk"
