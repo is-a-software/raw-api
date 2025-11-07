@@ -171,6 +171,15 @@
     }
   },
   {
+    "domain": "karangholap",
+    "owner": {
+      "github": "karangholap154"
+    },
+    "record": {
+      "CNAME": "karangholap"
+    }
+  },
+  {
     "domain": "kyun",
     "owner": {
       "github": "zLancx"
