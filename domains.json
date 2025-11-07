@@ -171,6 +171,15 @@
     }
   },
   {
+    "domain": "kyun",
+    "owner": {
+      "github": "zLancx"
+    },
+    "record": {
+      "TXT": "%"
+    }
+  },
+  {
     "domain": "larconic",
     "owner": {
       "github": "larconic"
