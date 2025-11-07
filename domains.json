@@ -180,15 +180,6 @@
     }
   },
   {
-    "domain": "lovekeshanand",
-    "owner": {
-      "github": "LovekeshAnand"
-    },
-    "record": {
-      "CNAME": "lovekeshanand.vercel.app"
-    }
-  },
-  {
     "domain": "manstral",
     "owner": {
       "github": "zannbjir"
