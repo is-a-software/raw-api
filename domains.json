@@ -468,6 +468,15 @@
     }
   },
   {
+    "domain": "shivanandasai",
+    "owner": {
+      "github": "ssk090"
+    },
+    "record": {
+      "CNAME": "cname.vercel-dns-017.com."
+    }
+  },
+  {
     "domain": "shubham",
     "owner": {
       "github": "krshubham21"
