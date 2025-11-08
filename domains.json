@@ -468,6 +468,15 @@
     }
   },
   {
+    "domain": "shivanandasai",
+    "owner": {
+      "github": "ssk090"
+    },
+    "record": {
+      "CNAME": "www.shivanandasai.xyz"
+    }
+  },
+  {
     "domain": "shubham",
     "owner": {
       "github": "krshubham21"
