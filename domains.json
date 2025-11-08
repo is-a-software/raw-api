@@ -27,6 +27,15 @@
     }
   },
   {
+    "domain": "bikeapp",
+    "owner": {
+      "github": "sonawat"
+    },
+    "record": {
+      "CNAME": "aniketbike.netlify.app."
+    }
+  },
+  {
     "domain": "boostify",
     "owner": {
       "github": "pygod7"
