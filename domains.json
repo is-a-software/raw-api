@@ -9,6 +9,15 @@
     }
   },
   {
+    "domain": "amarevents",
+    "owner": {
+      "github": "harunabdullahrakin"
+    },
+    "record": {
+      "CNAME": "amarevents.alwaysdata.net"
+    }
+  },
+  {
     "domain": "app.devfolio.cc",
     "owner": {
       "github": "NitinGurawaliya"
