@@ -270,6 +270,15 @@
     }
   },
   {
+    "domain": "mockhick",
+    "owner": {
+      "github": "HakkanShah"
+    },
+    "record": {
+      "CNAME": "0e386641946f51e9.vercel-dns-017.com."
+    }
+  },
+  {
     "domain": "modeliq",
     "owner": {
       "github": "dewabillionaire"
