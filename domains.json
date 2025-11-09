@@ -684,6 +684,15 @@
     }
   },
   {
+    "domain": "veu",
+    "owner": {
+      "github": "chinfosieeuw9-prog"
+    },
+    "record": {
+      "CNAME": "vitaljobs.nl"
+    }
+  },
+  {
     "domain": "void-57",
     "owner": {
       "github": "void-57"
