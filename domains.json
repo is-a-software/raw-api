@@ -522,6 +522,15 @@
     }
   },
   {
+    "domain": "stonks",
+    "owner": {
+      "github": "stopthegears"
+    },
+    "record": {
+      "CNAME": "stopthegears.github.io"
+    }
+  },
+  {
     "domain": "tanishq.portfolio",
     "owner": {
       "github": "TanishqKarnavat"
