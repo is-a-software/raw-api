@@ -486,6 +486,15 @@
     }
   },
   {
+    "domain": "project",
+    "owner": {
+      "github": "chinfosieeuw9-prog"
+    },
+    "record": {
+      "CNAME": "vitaljobs.nl"
+    }
+  },
+  {
     "domain": "psycho",
     "owner": {
       "github": "ItzRealexit"
