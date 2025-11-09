@@ -135,6 +135,15 @@
     }
   },
   {
+    "domain": "develop",
+    "owner": {
+      "github": "chinfosieeuw9-prog"
+    },
+    "record": {
+      "CNAME": "vitaljobs.nl"
+    }
+  },
+  {
     "domain": "devlop",
     "owner": {
       "github": "DnyaneshwariRode"
