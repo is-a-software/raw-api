@@ -18,6 +18,15 @@
     }
   },
   {
+    "domain": "app",
+    "owner": {
+      "github": "chinfosieeuw9-prog"
+    },
+    "record": {
+      "CNAME": "vitaljobs.nl"
+    }
+  },
+  {
     "domain": "app.devfolio.cc",
     "owner": {
       "github": "NitinGurawaliya"
