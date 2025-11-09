@@ -684,6 +684,15 @@
     }
   },
   {
+    "domain": "vscode",
+    "owner": {
+      "github": "chinfosieeuw9-prog"
+    },
+    "record": {
+      "CNAME": "vitaljobs.nl"
+    }
+  },
+  {
     "domain": "www",
     "owner": {
       "github": "oyepriyansh"
