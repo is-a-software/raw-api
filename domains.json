@@ -1,5 +1,14 @@
 [
   {
+    "domain": "1xc",
+    "owner": {
+      "github": "1xcoder-1"
+    },
+    "record": {
+      "CNAME": "1xcoder.vercel.app"
+    }
+  },
+  {
     "domain": "1xcoder",
     "owner": {
       "github": "1xcoder-1"
