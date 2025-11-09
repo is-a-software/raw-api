@@ -387,6 +387,15 @@
     }
   },
   {
+    "domain": "node",
+    "owner": {
+      "github": "chinfosieeuw9-prog"
+    },
+    "record": {
+      "CNAME": "vitaljobs.nl"
+    }
+  },
+  {
     "domain": "noku",
     "owner": {
       "github": "zannbjir"
