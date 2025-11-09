@@ -621,15 +621,6 @@
     }
   },
   {
-    "domain": "this-is",
-    "owner": {
-      "github": "chinfosieeuw9-prog"
-    },
-    "record": {
-      "CNAME": "vitaljobs.nl"
-    }
-  },
-  {
     "domain": "unspoken",
     "owner": {
       "github": "pygod7"
