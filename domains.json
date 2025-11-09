@@ -27,6 +27,15 @@
     }
   },
   {
+    "domain": "appbox",
+    "owner": {
+      "github": "techbot11"
+    },
+    "record": {
+      "TXT": "hellotest"
+    }
+  },
+  {
     "domain": "bikeapp",
     "owner": {
       "github": "sonawat"
