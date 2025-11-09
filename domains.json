@@ -234,6 +234,15 @@
     }
   },
   {
+    "domain": "henry",
+    "owner": {
+      "github": "hunguy"
+    },
+    "record": {
+      "CNAME": "h3nry.us"
+    }
+  },
+  {
     "domain": "hingedev",
     "owner": {
       "github": "rahulkumarpahwa"
