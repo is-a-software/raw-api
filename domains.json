@@ -63,6 +63,15 @@
     }
   },
   {
+    "domain": "code",
+    "owner": {
+      "github": "chinfosieeuw9-prog"
+    },
+    "record": {
+      "CNAME": "vitaljobs.nl"
+    }
+  },
+  {
     "domain": "code.is-a.software",
     "owner": {
       "github": "chinfosieeuw9-prog"
