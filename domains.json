@@ -54,6 +54,15 @@
     }
   },
   {
+    "domain": "bta",
+    "owner": {
+      "github": "chinfosieeuw9-prog"
+    },
+    "record": {
+      "CNAME": "vitaljobs.nl"
+    }
+  },
+  {
     "domain": "campusmarketplace",
     "owner": {
       "github": "arnoldmidalla"
