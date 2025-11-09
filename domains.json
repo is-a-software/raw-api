@@ -207,15 +207,6 @@
     }
   },
   {
-    "domain": "kynex",
-    "owner": {
-      "github": "CubeZockii"
-    },
-    "record": {
-      "CNAME": "kynex.pages.dev"
-    }
-  },
-  {
     "domain": "kyun",
     "owner": {
       "github": "zLancx"
