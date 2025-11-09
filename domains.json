@@ -108,6 +108,15 @@
     }
   },
   {
+    "domain": "cool",
+    "owner": {
+      "github": "chinfosieeuw9-prog"
+    },
+    "record": {
+      "CNAME": "vitaljobs.nl"
+    }
+  },
+  {
     "domain": "covergenius",
     "owner": {
       "github": "theprinceraj"
