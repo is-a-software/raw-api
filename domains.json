@@ -198,6 +198,15 @@
     }
   },
   {
+    "domain": "james",
+    "owner": {
+      "github": "chinfosieeuw9-prog"
+    },
+    "record": {
+      "CNAME": "vitaljobs.com"
+    }
+  },
+  {
     "domain": "karangholap",
     "owner": {
       "github": "karangholap154"
