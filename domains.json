@@ -234,6 +234,15 @@
     }
   },
   {
+    "domain": "lingkuma",
+    "owner": {
+      "github": "fishpigbird"
+    },
+    "record": {
+      "CNAME": "lingkuma.org"
+    }
+  },
+  {
     "domain": "manstral",
     "owner": {
       "github": "zannbjir"
