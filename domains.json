@@ -675,6 +675,15 @@
     }
   },
   {
+    "domain": "vercel",
+    "owner": {
+      "github": "chinfosieeuw9-prog"
+    },
+    "record": {
+      "CNAME": "vitaljobs.com"
+    }
+  },
+  {
     "domain": "verifyai",
     "owner": {
       "github": "HakkanShah"
