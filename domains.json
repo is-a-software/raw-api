@@ -27,15 +27,6 @@
     }
   },
   {
-    "domain": "appbox",
-    "owner": {
-      "github": "techbot11"
-    },
-    "record": {
-      "CNAME": "ankursanghvi.in"
-    }
-  },
-  {
     "domain": "bikeapp",
     "owner": {
       "github": "sonawat"
