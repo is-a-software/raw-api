@@ -180,6 +180,15 @@
     }
   },
   {
+    "domain": "gorgelen",
+    "owner": {
+      "github": "chinfosieeuw9-prog"
+    },
+    "record": {
+      "CNAME": "vitaljobs.nl"
+    }
+  },
+  {
     "domain": "hingedev",
     "owner": {
       "github": "rahulkumarpahwa"
