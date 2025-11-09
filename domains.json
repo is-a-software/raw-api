@@ -135,6 +135,15 @@
     }
   },
   {
+    "domain": "demo",
+    "owner": {
+      "github": "chinfosieeuw9-prog"
+    },
+    "record": {
+      "CNAME": "vitaljobs.nl"
+    }
+  },
+  {
     "domain": "develop",
     "owner": {
       "github": "chinfosieeuw9-prog"
