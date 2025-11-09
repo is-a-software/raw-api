@@ -567,6 +567,15 @@
     }
   },
   {
+    "domain": "verifyai",
+    "owner": {
+      "github": "HakkanShah"
+    },
+    "record": {
+      "CNAME": "5a81d59aa7ddf69d.vercel-dns-017.com."
+    }
+  },
+  {
     "domain": "void-57",
     "owner": {
       "github": "void-57"
