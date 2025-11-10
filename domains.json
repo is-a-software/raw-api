@@ -754,5 +754,14 @@
     "record": {
       "CNAME": "msp7hutaw4gt861.static2.studio"
     }
+  },
+  {
+    "domain": "zuki",
+    "owner": {
+      "github": "zqiv"
+    },
+    "record": {
+      "TXT": "dh=29db1273360b55962aaf4f5934efc583904 69763"
+    }
   }
 ]
