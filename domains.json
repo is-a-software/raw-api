@@ -630,6 +630,15 @@
     }
   },
   {
+    "domain": "snowclik",
+    "owner": {
+      "github": "Snowclik"
+    },
+    "record": {
+      "TXT": "_vercel"
+    }
+  },
+  {
     "domain": "something",
     "owner": {
       "github": "Spigey"
