@@ -288,6 +288,15 @@
     }
   },
   {
+    "domain": "jotes",
+    "owner": {
+      "github": "Basim-Shahzad"
+    },
+    "record": {
+      "CNAME": "jotes"
+    }
+  },
+  {
     "domain": "karangholap",
     "owner": {
       "github": "karangholap154"
