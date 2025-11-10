@@ -513,6 +513,15 @@
     }
   },
   {
+    "domain": "pratik",
+    "owner": {
+      "github": "pratikdas018"
+    },
+    "record": {
+      "CNAME": "pratik-code-stride-delta.vercel.app"
+    }
+  },
+  {
     "domain": "project",
     "owner": {
       "github": "chinfosieeuw9-prog"
