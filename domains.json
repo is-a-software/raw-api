@@ -315,15 +315,6 @@
     }
   },
   {
-    "domain": "larconic",
-    "owner": {
-      "github": "larconic"
-    },
-    "record": {
-      "CNAME": "larconic.github.io"
-    }
-  },
-  {
     "domain": "lingkuma",
     "owner": {
       "github": "fishpigbird"
