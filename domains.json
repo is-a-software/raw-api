@@ -333,6 +333,15 @@
     }
   },
   {
+    "domain": "lwyang",
+    "owner": {
+      "github": "lw-yang"
+    },
+    "record": {
+      "A": "192.168.1.1"
+    }
+  },
+  {
     "domain": "manstral",
     "owner": {
       "github": "zannbjir"
