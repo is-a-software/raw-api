@@ -36,6 +36,15 @@
     }
   },
   {
+    "domain": "basescript",
+    "owner": {
+      "github": "NishithP2004"
+    },
+    "record": {
+      "CNAME": "bs-playground.nishithp.page"
+    }
+  },
+  {
     "domain": "beta",
     "owner": {
       "github": "chinfosieeuw9-prog"
