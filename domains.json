@@ -315,6 +315,15 @@
     }
   },
   {
+    "domain": "kartofwork",
+    "owner": {
+      "github": "MrKartof"
+    },
+    "record": {
+      "CNAME": "kartofwork.is-a.software"
+    }
+  },
+  {
     "domain": "kyun",
     "owner": {
       "github": "zLancx"
