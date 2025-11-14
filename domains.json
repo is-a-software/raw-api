@@ -504,6 +504,15 @@
     }
   },
   {
+    "domain": "neuro",
+    "owner": {
+      "github": "neurofumo"
+    },
+    "record": {
+      "CNAME": "nurox.pages.dev"
+    }
+  },
+  {
     "domain": "nexi.com",
     "owner": {
       "github": "khaliqnoor"
