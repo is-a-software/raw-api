@@ -702,6 +702,15 @@
     }
   },
   {
+    "domain": "smegrc",
+    "owner": {
+      "github": "gvhees"
+    },
+    "record": {
+      "CNAME": "closely-wired-leech.ngrok-free.app."
+    }
+  },
+  {
     "domain": "snowclik",
     "owner": {
       "github": "Snowclik"
