@@ -18,6 +18,15 @@
     }
   },
   {
+    "domain": "api.g3",
+    "owner": {
+      "github": "gschaefer3"
+    },
+    "record": {
+      "CNAME": "gthree.io"
+    }
+  },
+  {
     "domain": "app",
     "owner": {
       "github": "chinfosieeuw9-prog"
