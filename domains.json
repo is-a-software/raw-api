@@ -252,6 +252,15 @@
     }
   },
   {
+    "domain": "g3",
+    "owner": {
+      "github": "gschaefer3"
+    },
+    "record": {
+      "CNAME": "g3codes.com"
+    }
+  },
+  {
     "domain": "githubroaster",
     "owner": {
       "github": "mohammad-abrar"
