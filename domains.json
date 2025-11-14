@@ -558,6 +558,15 @@
     }
   },
   {
+    "domain": "nur",
+    "owner": {
+      "github": "neurofumo"
+    },
+    "record": {
+      "CNAME": "nurox.pages.dev"
+    }
+  },
+  {
     "domain": "parsespy",
     "owner": {
       "github": "theprinceraj"
