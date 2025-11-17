@@ -252,6 +252,15 @@
     }
   },
   {
+    "domain": "farharbor",
+    "owner": {
+      "github": "almalyuk"
+    },
+    "record": {
+      "CNAME": "rustdevils.ru"
+    }
+  },
+  {
     "domain": "farmbot",
     "owner": {
       "github": "DogIcing"
