@@ -585,6 +585,15 @@
     }
   },
   {
+    "domain": "officialrajdeepsingh",
+    "owner": {
+      "github": "officialrajdeepsingh"
+    },
+    "record": {
+      "CNAME": "officialrajdeepsingh.netlify.app"
+    }
+  },
+  {
     "domain": "parsespy",
     "owner": {
       "github": "theprinceraj"
