@@ -90,6 +90,15 @@
     }
   },
   {
+    "domain": "bookkeeping",
+    "owner": {
+      "github": "zgrummedical"
+    },
+    "record": {
+      "CNAME": "bookkeeping.zgrum.com"
+    }
+  },
+  {
     "domain": "boostify",
     "owner": {
       "github": "pygod7"
