@@ -342,6 +342,15 @@
     }
   },
   {
+    "domain": "httpscasebooks.netlify.app",
+    "owner": {
+      "github": "casebooks"
+    },
+    "record": {
+      "CNAME": "casebooks.netlify.app"
+    }
+  },
+  {
     "domain": "huygd",
     "owner": {
       "github": "HuyHuynhQuocGD"
