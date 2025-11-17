@@ -846,6 +846,15 @@
     }
   },
   {
+    "domain": "tests",
+    "owner": {
+      "github": "patelg07"
+    },
+    "record": {
+      "A": "134.122.6.172"
+    }
+  },
+  {
     "domain": "this",
     "owner": {
       "github": "chinfosieeuw9-prog"
