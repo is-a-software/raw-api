@@ -774,6 +774,15 @@
     }
   },
   {
+    "domain": "rrobles",
+    "owner": {
+      "github": "rroblsgo"
+    },
+    "record": {
+      "CNAME": "03-astro-blog-rrobles.netlify.app"
+    }
+  },
+  {
     "domain": "saksham",
     "owner": {
       "github": "OshekharO"
