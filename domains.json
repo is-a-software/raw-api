@@ -234,6 +234,15 @@
     }
   },
   {
+    "domain": "devpulse",
+    "owner": {
+      "github": "ComradeMohan"
+    },
+    "record": {
+      "CNAME": "devpulseweb.netlify.app"
+    }
+  },
+  {
     "domain": "docs",
     "owner": {
       "github": "oyepriyansh"
