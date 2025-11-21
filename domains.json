@@ -414,6 +414,15 @@
     }
   },
   {
+    "domain": "kapa",
+    "owner": {
+      "github": "parthj000"
+    },
+    "record": {
+      "CNAME": "parth-j.vercel.app"
+    }
+  },
+  {
     "domain": "karangholap",
     "owner": {
       "github": "karangholap154"
