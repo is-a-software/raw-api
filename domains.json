@@ -999,15 +999,6 @@
     }
   },
   {
-    "domain": "xxxx",
-    "owner": {
-      "github": "Useless007"
-    },
-    "record": {
-      "CNAME": "4e1d4568686258e1.vercel-dns-017.com."
-    }
-  },
-  {
     "domain": "yeyenmulus",
     "owner": {
       "github": "tasyaku1"
