@@ -450,6 +450,15 @@
     }
   },
   {
+    "domain": "lmao",
+    "owner": {
+      "github": "Useless007"
+    },
+    "record": {
+      "CNAME": "4e1d4568686258e1.vercel-dns-017.com."
+    }
+  },
+  {
     "domain": "lwyang",
     "owner": {
       "github": "lw-yang"
