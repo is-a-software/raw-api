@@ -522,15 +522,6 @@
     }
   },
   {
-    "domain": "mittiverse",
-    "owner": {
-      "github": "madhavansingh"
-    },
-    "record": {
-      "CNAME": "mitti-verse.vercel.app"
-    }
-  },
-  {
     "domain": "mkmatter",
     "owner": {
       "github": "IotaSpencer"
