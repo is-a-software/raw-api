@@ -522,6 +522,15 @@
     }
   },
   {
+    "domain": "mittiverse",
+    "owner": {
+      "github": "madhavansingh"
+    },
+    "record": {
+      "TXT": "vc-domain-verify=mittiverse.is-a.software,4ff502c5ba3d994a29fb"
+    }
+  },
+  {
     "domain": "mkmatter",
     "owner": {
       "github": "IotaSpencer"
