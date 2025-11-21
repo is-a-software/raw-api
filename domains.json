@@ -864,6 +864,15 @@
     }
   },
   {
+    "domain": "siyar",
+    "owner": {
+      "github": "Siiyar"
+    },
+    "record": {
+      "CNAME": "siiyar.github.io"
+    }
+  },
+  {
     "domain": "smegrc",
     "owner": {
       "github": "gvhees"
