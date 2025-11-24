@@ -603,6 +603,15 @@
     }
   },
   {
+    "domain": "nigga",
+    "owner": {
+      "github": "Sahil-Gulihar"
+    },
+    "record": {
+      "CNAME": "Sahilgulihar.com"
+    }
+  },
+  {
     "domain": "nishantgaurav",
     "owner": {
       "github": "codewithevilxd"
