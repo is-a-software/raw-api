@@ -801,6 +801,15 @@
     }
   },
   {
+    "domain": "radioquran",
+    "owner": {
+      "github": "salmaahmed2026"
+    },
+    "record": {
+      "A": "185.199.109.153"
+    }
+  },
+  {
     "domain": "raptor7197",
     "owner": {
       "github": "keemapao"
