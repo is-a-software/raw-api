@@ -387,6 +387,15 @@
     }
   },
   {
+    "domain": "ilyasabdat",
+    "owner": {
+      "github": "breabdat"
+    },
+    "record": {
+      "A": "103.171.148.160"
+    }
+  },
+  {
     "domain": "jaiyankargupta",
     "owner": {
       "github": "jaiyankargupta"
