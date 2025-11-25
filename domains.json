@@ -306,6 +306,15 @@
     }
   },
   {
+    "domain": "francotranslate",
+    "owner": {
+      "github": "salmaahmed2026"
+    },
+    "record": {
+      "TXT": "salmaahmed2026.github.io/francotranslate/"
+    }
+  },
+  {
     "domain": "g3",
     "owner": {
       "github": "gschaefer3"
