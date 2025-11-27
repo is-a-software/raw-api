@@ -738,6 +738,15 @@
     }
   },
   {
+    "domain": "pandasmp",
+    "owner": {
+      "github": "Gaiizhhhzvqll"
+    },
+    "record": {
+      "CNAME": "Gggg"
+    }
+  },
+  {
     "domain": "parsespy",
     "owner": {
       "github": "theprinceraj"
