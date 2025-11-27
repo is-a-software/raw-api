@@ -621,6 +621,15 @@
     }
   },
   {
+    "domain": "naman",
+    "owner": {
+      "github": "naman-0804"
+    },
+    "record": {
+      "CNAME": "namansrivastava.is-a.dev"
+    }
+  },
+  {
     "domain": "neuro",
     "owner": {
       "github": "neurofumo"
