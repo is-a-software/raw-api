@@ -236,7 +236,7 @@
   {
     "domain": "devprofiles",
     "owner": {
-      "github": "oyepriyansh"
+      "github": "priyanzsh"
     },
     "record": {
       "CNAME": "e861db2c7b146bef.vercel-dns-017.com"
@@ -254,7 +254,7 @@
   {
     "domain": "docs",
     "owner": {
-      "github": "oyepriyansh"
+      "github": "priyanzsh"
     },
     "record": {
       "CNAME": "is-a-software.github.io"
@@ -308,7 +308,7 @@
   {
     "domain": "firebase1._domainkey.mail",
     "owner": {
-      "github": "oyepriyansh"
+      "github": "priyanzsh"
     },
     "record": {
       "CNAME": "mail-mail-is--a-software.dkim1._domainkey.firebasemail.com"
@@ -317,7 +317,7 @@
   {
     "domain": "firebase2._domainkey.mail",
     "owner": {
-      "github": "oyepriyansh"
+      "github": "priyanzsh"
     },
     "record": {
       "CNAME": "mail-mail-is--a-software.dkim2._domainkey.firebasemail.com"
@@ -749,10 +749,10 @@
   {
     "domain": "prasad",
     "owner": {
-      "github": "oyepriyansh"
+      "github": "priyanzsh"
     },
     "record": {
-      "CNAME": "oyepriyansh.github.io"
+      "CNAME": "priyanzsh.github.io"
     }
   },
   {
@@ -848,7 +848,7 @@
   {
     "domain": "raw",
     "owner": {
-      "github": "oyepriyansh"
+      "github": "priyanzsh"
     },
     "record": {
       "CNAME": "raw-api.pages.dev"
@@ -1073,7 +1073,7 @@
   {
     "domain": "www",
     "owner": {
-      "github": "oyepriyansh"
+      "github": "priyanzsh"
     },
     "record": {
       "CNAME": "0847c7d52365cc5b.vercel-dns-017.com."
