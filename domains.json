@@ -738,15 +738,6 @@
     }
   },
   {
-    "domain": "oshpaz-ai-backend",
-    "owner": {
-      "github": "nbn2000"
-    },
-    "record": {
-      "A": "77.237.245.47"
-    }
-  },
-  {
     "domain": "parsespy",
     "owner": {
       "github": "theprinceraj"
