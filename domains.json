@@ -1,5 +1,14 @@
 [
   {
+    "domain": "4realwilly",
+    "owner": {
+      "github": "4realwilly"
+    },
+    "record": {
+      "CNAME": "my-website-9et.pages.dev"
+    }
+  },
+  {
     "domain": "algorithms",
     "owner": {
       "github": "saksham-shekher"
