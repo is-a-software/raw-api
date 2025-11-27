@@ -36,6 +36,15 @@
     }
   },
   {
+    "domain": "api.oshpaz-ai",
+    "owner": {
+      "github": "nbn2000"
+    },
+    "record": {
+      "A": "77.237.245.47"
+    }
+  },
+  {
     "domain": "app",
     "owner": {
       "github": "chinfosieeuw9-prog"
