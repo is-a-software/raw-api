@@ -9,6 +9,15 @@
     }
   },
   {
+    "domain": "adguard",
+    "owner": {
+      "github": "ApexAcer"
+    },
+    "record": {
+      "A": "192.168.1.107"
+    }
+  },
+  {
     "domain": "algorithms",
     "owner": {
       "github": "saksham-shekher"
