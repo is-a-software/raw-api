@@ -450,6 +450,15 @@
     }
   },
   {
+    "domain": "itoady",
+    "owner": {
+      "github": "iToady1977"
+    },
+    "record": {
+      "A": "74.207.230.194"
+    }
+  },
+  {
     "domain": "jaiyankargupta",
     "owner": {
       "github": "jaiyankargupta"
