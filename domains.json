@@ -1143,6 +1143,15 @@
     }
   },
   {
+    "domain": "zakhrafa",
+    "owner": {
+      "github": "salmaahmed2026"
+    },
+    "record": {
+      "A": "185.199.109.153"
+    }
+  },
+  {
     "domain": "zuki",
     "owner": {
       "github": "zqiv"
