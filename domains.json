@@ -972,6 +972,15 @@
     }
   },
   {
+    "domain": "sakellarios",
+    "owner": {
+      "github": "sakellarios"
+    },
+    "record": {
+      "CNAME": "sandbox.sakellarios.org"
+    }
+  },
+  {
     "domain": "saksham",
     "owner": {
       "github": "OshekharO"
