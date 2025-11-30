@@ -18,6 +18,15 @@
     }
   },
   {
+    "domain": "ai",
+    "owner": {
+      "github": "Xeven777"
+    },
+    "record": {
+      "CNAME": "cerebras-ai.vercel.app"
+    }
+  },
+  {
     "domain": "algorithms",
     "owner": {
       "github": "saksham-shekher"
