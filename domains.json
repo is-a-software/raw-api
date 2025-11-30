@@ -549,15 +549,6 @@
     }
   },
   {
-    "domain": "lemonfellow",
-    "owner": {
-      "github": "l1203012"
-    },
-    "record": {
-      "TXT": "vc-domain-verify=lemonfellow.is-a.software,4b20fc14ea635e2ae952"
-    }
-  },
-  {
     "domain": "lingkuma",
     "owner": {
       "github": "fishpigbird"
