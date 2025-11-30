@@ -1080,6 +1080,15 @@
     }
   },
   {
+    "domain": "srmcgpacalculator",
+    "owner": {
+      "github": "salmaahmed2026"
+    },
+    "record": {
+      "A": "185.199.109.153"
+    }
+  },
+  {
     "domain": "stonks",
     "owner": {
       "github": "stopthegears"
