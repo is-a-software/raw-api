@@ -549,6 +549,15 @@
     }
   },
   {
+    "domain": "lemonportfolio",
+    "owner": {
+      "github": "l1203012"
+    },
+    "record": {
+      "TXT": "_vercel"
+    }
+  },
+  {
     "domain": "lingkuma",
     "owner": {
       "github": "fishpigbird"
