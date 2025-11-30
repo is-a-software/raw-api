@@ -1233,6 +1233,15 @@
     }
   },
   {
+    "domain": "xeven",
+    "owner": {
+      "github": "Xeven777"
+    },
+    "record": {
+      "CNAME": "anishbiswas.vercel.app"
+    }
+  },
+  {
     "domain": "yeyenmulus",
     "owner": {
       "github": "tasyaku1"
