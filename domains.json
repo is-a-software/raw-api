@@ -549,6 +549,15 @@
     }
   },
   {
+    "domain": "lemonfellow",
+    "owner": {
+      "github": "l1203012"
+    },
+    "record": {
+      "CNAME": "lemonportfolio.vercel.app"
+    }
+  },
+  {
     "domain": "lingkuma",
     "owner": {
       "github": "fishpigbird"
