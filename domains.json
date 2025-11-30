@@ -720,6 +720,15 @@
     }
   },
   {
+    "domain": "nodenaga6767",
+    "owner": {
+      "github": "Kyoura-DE"
+    },
+    "record": {
+      "A": "159.195.33.255"
+    }
+  },
+  {
     "domain": "noku",
     "owner": {
       "github": "zannbjir"
