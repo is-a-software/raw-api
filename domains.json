@@ -81,15 +81,6 @@
     }
   },
   {
-    "domain": "arabicnamesmeaning",
-    "owner": {
-      "github": "salmaahmed2026"
-    },
-    "record": {
-      "A": "185.199.109.153"
-    }
-  },
-  {
     "domain": "baffo",
     "owner": {
       "github": "griccitiello"
