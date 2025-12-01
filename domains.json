@@ -378,15 +378,6 @@
     }
   },
   {
-    "domain": "francotranslate",
-    "owner": {
-      "github": "salmaahmed2026"
-    },
-    "record": {
-      "A": "185.199.109.153"
-    }
-  },
-  {
     "domain": "g3",
     "owner": {
       "github": "gschaefer3"
@@ -1095,15 +1086,6 @@
     },
     "record": {
       "A": "127.0.0.1"
-    }
-  },
-  {
-    "domain": "srmcgpacalculator",
-    "owner": {
-      "github": "salmaahmed2026"
-    },
-    "record": {
-      "A": "185.199.109.153"
     }
   },
   {
