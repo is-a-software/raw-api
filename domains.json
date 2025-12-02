@@ -126,15 +126,6 @@
     }
   },
   {
-    "domain": "blanktextgenerator",
-    "owner": {
-      "github": "salmaahmed2026"
-    },
-    "record": {
-      "A": "185.199.109.153"
-    }
-  },
-  {
     "domain": "bookkeeping",
     "owner": {
       "github": "zgrummedical"
@@ -528,6 +519,15 @@
     },
     "record": {
       "TXT": "%"
+    }
+  },
+  {
+    "domain": "legalmentortest",
+    "owner": {
+      "github": "asliddinburanov-prog"
+    },
+    "record": {
+      "CNAME": "asliddinburanov-prog.github.io"
     }
   },
   {
