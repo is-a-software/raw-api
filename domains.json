@@ -9,24 +9,6 @@
     }
   },
   {
-    "domain": "adguard",
-    "owner": {
-      "github": "ApexAcer"
-    },
-    "record": {
-      "A": "192.168.1.107"
-    }
-  },
-  {
-    "domain": "ai",
-    "owner": {
-      "github": "Xeven777"
-    },
-    "record": {
-      "TXT": "vc-domain-verify=ai.is-a.software,32fef2d034ddc75c5257"
-    }
-  },
-  {
     "domain": "algorithms",
     "owner": {
       "github": "saksham-shekher"
@@ -45,15 +27,6 @@
     }
   },
   {
-    "domain": "api.g3",
-    "owner": {
-      "github": "gschaefer3"
-    },
-    "record": {
-      "CNAME": "gthree.io"
-    }
-  },
-  {
     "domain": "api.oshpaz-ai",
     "owner": {
       "github": "nbn2000"
@@ -69,15 +42,6 @@
     },
     "record": {
       "CNAME": "vitaljobs.nl"
-    }
-  },
-  {
-    "domain": "app.devfolio.cc",
-    "owner": {
-      "github": "NitinGurawaliya"
-    },
-    "record": {
-      "CNAME": "eee"
     }
   },
   {
@@ -108,15 +72,6 @@
     }
   },
   {
-    "domain": "beta",
-    "owner": {
-      "github": "chinfosieeuw9-prog"
-    },
-    "record": {
-      "CNAME": "vitaljobs.nl"
-    }
-  },
-  {
     "domain": "bikeapp",
     "owner": {
       "github": "sonawat"
@@ -141,24 +96,6 @@
     },
     "record": {
       "CNAME": "dfddbb53c8d2392c.vercel-dns-017.com"
-    }
-  },
-  {
-    "domain": "bricksandcode",
-    "owner": {
-      "github": "jameslineuk-hue"
-    },
-    "record": {
-      "CNAME": "v0-lego-set-lookup.vercel.app"
-    }
-  },
-  {
-    "domain": "bridgenote",
-    "owner": {
-      "github": "faeemxccc"
-    },
-    "record": {
-      "CNAME": "nb-notes.vercel.app"
     }
   },
   {
@@ -189,33 +126,6 @@
     }
   },
   {
-    "domain": "cloud",
-    "owner": {
-      "github": "chinfosieeuw9-prog"
-    },
-    "record": {
-      "CNAME": "vitaljobs.nl"
-    }
-  },
-  {
-    "domain": "code",
-    "owner": {
-      "github": "chinfosieeuw9-prog"
-    },
-    "record": {
-      "CNAME": "vitaljobs.nl"
-    }
-  },
-  {
-    "domain": "code.is-a.software",
-    "owner": {
-      "github": "chinfosieeuw9-prog"
-    },
-    "record": {
-      "CNAME": "vitaljobs.nl"
-    }
-  },
-  {
     "domain": "coding-dairies",
     "owner": {
       "github": "visu-25"
@@ -225,48 +135,12 @@
     }
   },
   {
-    "domain": "cool",
-    "owner": {
-      "github": "chinfosieeuw9-prog"
-    },
-    "record": {
-      "CNAME": "vitaljobs.nl"
-    }
-  },
-  {
     "domain": "covergenius",
     "owner": {
       "github": "theprinceraj"
     },
     "record": {
       "CNAME": "478f1177df1911e0.vercel-dns-017.com"
-    }
-  },
-  {
-    "domain": "demo",
-    "owner": {
-      "github": "chinfosieeuw9-prog"
-    },
-    "record": {
-      "CNAME": "vitaljobs.nl"
-    }
-  },
-  {
-    "domain": "develop",
-    "owner": {
-      "github": "chinfosieeuw9-prog"
-    },
-    "record": {
-      "CNAME": "vitaljobs.nl"
-    }
-  },
-  {
-    "domain": "devlop",
-    "owner": {
-      "github": "DnyaneshwariRode"
-    },
-    "record": {
-      "CNAME": "portfolio.com"
     }
   },
   {
@@ -297,15 +171,6 @@
     }
   },
   {
-    "domain": "ds",
-    "owner": {
-      "github": "danielseow"
-    },
-    "record": {
-      "CNAME": "ds"
-    }
-  },
-  {
     "domain": "emperornaedmcportfolio",
     "owner": {
       "github": "dinonaedytwastaken-netizen"
@@ -321,15 +186,6 @@
     },
     "record": {
       "A": "128.204.223.115"
-    }
-  },
-  {
-    "domain": "falconsangola",
-    "owner": {
-      "github": "mostafanasser775"
-    },
-    "record": {
-      "TXT": "vc-domain-verify=falconsangola.is-a.software,e86f568e964292060939"
     }
   },
   {
@@ -378,15 +234,6 @@
     }
   },
   {
-    "domain": "g3",
-    "owner": {
-      "github": "gschaefer3"
-    },
-    "record": {
-      "CNAME": "g3codes.com"
-    }
-  },
-  {
     "domain": "githubroaster",
     "owner": {
       "github": "mohammad-abrar"
@@ -429,15 +276,6 @@
     },
     "record": {
       "CNAME": "ns1.vercel-dns.com"
-    }
-  },
-  {
-    "domain": "home.pulse",
-    "owner": {
-      "github": "mxsznnnn"
-    },
-    "record": {
-      "CNAME": "aas-hazel-seven.vercel.app"
     }
   },
   {
@@ -486,48 +324,12 @@
     }
   },
   {
-    "domain": "james",
-    "owner": {
-      "github": "chinfosieeuw9-prog"
-    },
-    "record": {
-      "CNAME": "vitaljobs.nl"
-    }
-  },
-  {
-    "domain": "jamesline",
-    "owner": {
-      "github": "jameslineuk-hue"
-    },
-    "record": {
-      "CNAME": "v0-lego-set-lookup.vercel.app"
-    }
-  },
-  {
-    "domain": "jotes",
-    "owner": {
-      "github": "Basim-Shahzad"
-    },
-    "record": {
-      "CNAME": "jotes"
-    }
-  },
-  {
     "domain": "kapa",
     "owner": {
       "github": "parthj000"
     },
     "record": {
       "CNAME": "parth-j.vercel.app"
-    }
-  },
-  {
-    "domain": "karangholap",
-    "owner": {
-      "github": "karangholap154"
-    },
-    "record": {
-      "CNAME": "karangholap"
     }
   },
   {
@@ -540,15 +342,6 @@
     }
   },
   {
-    "domain": "kyun",
-    "owner": {
-      "github": "zLancx"
-    },
-    "record": {
-      "TXT": "%"
-    }
-  },
-  {
     "domain": "legalmentortest",
     "owner": {
       "github": "asliddinburanov-prog"
@@ -558,30 +351,12 @@
     }
   },
   {
-    "domain": "lemonportfolio",
-    "owner": {
-      "github": "l1203012"
-    },
-    "record": {
-      "TXT": "vc-domain-verify=lemonportfolio.is-a.software,6ebae76a3c051a889d2e"
-    }
-  },
-  {
     "domain": "lingkuma",
     "owner": {
       "github": "fishpigbird"
     },
     "record": {
       "CNAME": "lingkuma.org"
-    }
-  },
-  {
-    "domain": "lwyang",
-    "owner": {
-      "github": "lw-yang"
-    },
-    "record": {
-      "A": "192.168.1.1"
     }
   },
   {
@@ -648,15 +423,6 @@
     }
   },
   {
-    "domain": "mira",
-    "owner": {
-      "github": "zqiv"
-    },
-    "record": {
-      "TXT": "dh=70e5db2ef084889e 704e6420337871e440d836da"
-    }
-  },
-  {
     "domain": "mittiverse",
     "owner": {
       "github": "madhavansingh"
@@ -693,30 +459,12 @@
     }
   },
   {
-    "domain": "modeliq",
-    "owner": {
-      "github": "dewabillionaire"
-    },
-    "record": {
-      "CNAME": "modeliqint.vercel.app"
-    }
-  },
-  {
     "domain": "motiq-ai",
     "owner": {
       "github": "valentinvera"
     },
     "record": {
       "CNAME": "462838183b71ce80.vercel-dns-017.com"
-    }
-  },
-  {
-    "domain": "myapp",
-    "owner": {
-      "github": "imnotcoolsorry-29"
-    },
-    "record": {
-      "CNAME": "Nuggets"
     }
   },
   {
@@ -738,39 +486,12 @@
     }
   },
   {
-    "domain": "nexi.com",
-    "owner": {
-      "github": "khaliqnoor"
-    },
-    "record": {
-      "CNAME": "nexi-bay.vercel.app"
-    }
-  },
-  {
-    "domain": "nigga",
-    "owner": {
-      "github": "Sahil-Gulihar"
-    },
-    "record": {
-      "CNAME": "Sahilgulihar.com"
-    }
-  },
-  {
     "domain": "nishantgaurav",
     "owner": {
       "github": "codewithevilxd"
     },
     "record": {
       "CNAME": "b4bdd540a4b739e3.vercel-dns-017.com"
-    }
-  },
-  {
-    "domain": "node",
-    "owner": {
-      "github": "chinfosieeuw9-prog"
-    },
-    "record": {
-      "CNAME": "vitaljobs.nl"
     }
   },
   {
@@ -798,15 +519,6 @@
     },
     "record": {
       "CNAME": "b6e7c84db676792c.vercel-dns-017.com."
-    }
-  },
-  {
-    "domain": "num",
-    "owner": {
-      "github": "NoloxoYT"
-    },
-    "record": {
-      "CNAME": "pornhub.com"
     }
   },
   {
@@ -843,15 +555,6 @@
     },
     "record": {
       "A": "77.237.245.47"
-    }
-  },
-  {
-    "domain": "pandasmp",
-    "owner": {
-      "github": "Gaiizhhhzvqll"
-    },
-    "record": {
-      "CNAME": "Gggg"
     }
   },
   {
@@ -945,34 +648,7 @@
     }
   },
   {
-    "domain": "pratik-das",
-    "owner": {
-      "github": "pratikdas018"
-    },
-    "record": {
-      "TXT": "vc-domain-verify=pratik.is-a.software,e0caaa0917e53428b248"
-    }
-  },
-  {
-    "domain": "project",
-    "owner": {
-      "github": "chinfosieeuw9-prog"
-    },
-    "record": {
-      "CNAME": "vitaljobs.nl"
-    }
-  },
-  {
     "domain": "psycho",
-    "owner": {
-      "github": "ItzRealexit"
-    },
-    "record": {
-      "CNAME": "abhishekjaat.vercel.app"
-    }
-  },
-  {
-    "domain": "psychodev",
     "owner": {
       "github": "ItzRealexit"
     },
@@ -990,30 +666,12 @@
     }
   },
   {
-    "domain": "quillkeys",
-    "owner": {
-      "github": "bedigambar"
-    },
-    "record": {
-      "CNAME": "quill-keys.vercel.app"
-    }
-  },
-  {
     "domain": "quiz",
     "owner": {
       "github": "zaselalk"
     },
     "record": {
       "CNAME": "zaselalk.github.io/JS-QuizApp"
-    }
-  },
-  {
-    "domain": "raptor7197",
-    "owner": {
-      "github": "keemapao"
-    },
-    "record": {
-      "TXT": "_vercel.vamsi-krishna-one.vercel.app"
     }
   },
   {
@@ -1089,15 +747,6 @@
     }
   },
   {
-    "domain": "shubham",
-    "owner": {
-      "github": "krshubham21"
-    },
-    "record": {
-      "CNAME": "krshubham21.vercel.app"
-    }
-  },
-  {
     "domain": "smegrc",
     "owner": {
       "github": "gvhees"
@@ -1122,15 +771,6 @@
     },
     "record": {
       "CNAME": "777e3af2e79a4a37.vercel-dns-017.com"
-    }
-  },
-  {
-    "domain": "something",
-    "owner": {
-      "github": "Spigey"
-    },
-    "record": {
-      "A": "127.0.0.1"
     }
   },
   {
@@ -1170,15 +810,6 @@
     }
   },
   {
-    "domain": "this",
-    "owner": {
-      "github": "chinfosieeuw9-prog"
-    },
-    "record": {
-      "CNAME": "vitaljobs.nl"
-    }
-  },
-  {
     "domain": "ues",
     "owner": {
       "github": "vinothkumar2"
@@ -1197,30 +828,12 @@
     }
   },
   {
-    "domain": "vamsi",
-    "owner": {
-      "github": "keemapao"
-    },
-    "record": {
-      "TXT": "vamsi-krishna-one.vercel.app"
-    }
-  },
-  {
     "domain": "ved",
     "owner": {
       "github": "VedantAnand17"
     },
     "record": {
       "CNAME": "7c419eace12ad61e.vercel-dns-017.com."
-    }
-  },
-  {
-    "domain": "vercel",
-    "owner": {
-      "github": "chinfosieeuw9-prog"
-    },
-    "record": {
-      "CNAME": "vitaljobs.com"
     }
   },
   {
@@ -1251,15 +864,6 @@
     }
   },
   {
-    "domain": "vscode",
-    "owner": {
-      "github": "chinfosieeuw9-prog"
-    },
-    "record": {
-      "CNAME": "vitaljobs.nl"
-    }
-  },
-  {
     "domain": "www",
     "owner": {
       "github": "priyanzsh"
@@ -1269,30 +873,12 @@
     }
   },
   {
-    "domain": "xeven",
-    "owner": {
-      "github": "Xeven777"
-    },
-    "record": {
-      "CNAME": "anishbiswas.vercel.app"
-    }
-  },
-  {
     "domain": "yeyenmulus",
     "owner": {
       "github": "tasyaku1"
     },
     "record": {
       "CNAME": "msp7hutaw4gt861.static2.studio"
-    }
-  },
-  {
-    "domain": "zuki",
-    "owner": {
-      "github": "zqiv"
-    },
-    "record": {
-      "TXT": "dh=29db1273360b55962aaf4f5934efc58390469763"
     }
   }
 ]
