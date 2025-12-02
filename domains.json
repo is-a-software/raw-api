@@ -441,6 +441,15 @@
     }
   },
   {
+    "domain": "it",
+    "owner": {
+      "github": "schizoverse"
+    },
+    "record": {
+      "CNAME": "schizoverse.github.io"
+    }
+  },
+  {
     "domain": "itoady",
     "owner": {
       "github": "iToady1977"
