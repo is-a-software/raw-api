@@ -594,6 +594,15 @@
     }
   },
   {
+    "domain": "maxvel",
+    "owner": {
+      "github": "MAXVEL187"
+    },
+    "record": {
+      "CNAME": "Test.com"
+    }
+  },
+  {
     "domain": "message",
     "owner": {
       "github": "pygod7"
