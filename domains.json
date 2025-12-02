@@ -1017,15 +1017,6 @@
     }
   },
   {
-    "domain": "robowhisperer",
-    "owner": {
-      "github": "RoboWhisperer"
-    },
-    "record": {
-      "TXT": "vc-domain-verify=robowhisperer.is-a.software,baff1a160c5d96b90af3"
-    }
-  },
-  {
     "domain": "rrobles",
     "owner": {
       "github": "rroblsgo"
