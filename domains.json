@@ -1179,6 +1179,15 @@
     }
   },
   {
+    "domain": "vercel.maxvel",
+    "owner": {
+      "github": "MAXVEL187"
+    },
+    "record": {
+      "TXT": "vc-domain-verify=maxvel.is-a.software,b3b753bd61ddd808ed0f"
+    }
+  },
+  {
     "domain": "verifyai",
     "owner": {
       "github": "HakkanShah"
