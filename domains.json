@@ -297,6 +297,15 @@
     }
   },
   {
+    "domain": "ds",
+    "owner": {
+      "github": "danielseow"
+    },
+    "record": {
+      "CNAME": "ds"
+    }
+  },
+  {
     "domain": "emperornaedmcportfolio",
     "owner": {
       "github": "dinonaedytwastaken-netizen"
