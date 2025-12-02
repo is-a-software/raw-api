@@ -819,6 +819,15 @@
     }
   },
   {
+    "domain": "openbothost",
+    "owner": {
+      "github": "oyepriyansh"
+    },
+    "record": {
+      "CNAME": "589a650f66611301.vercel-dns-017.com."
+    }
+  },
+  {
     "domain": "oshpaz-ai",
     "owner": {
       "github": "nbn2000"
