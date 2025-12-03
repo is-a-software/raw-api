@@ -81,6 +81,15 @@
     }
   },
   {
+    "domain": "basicwebsite",
+    "owner": {
+      "github": "pygod7"
+    },
+    "record": {
+      "CNAME": "c1fb8274d1526b78.vercel-dns-017.com."
+    }
+  },
+  {
     "domain": "bikeapp",
     "owner": {
       "github": "sonawat"
