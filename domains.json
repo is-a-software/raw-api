@@ -63,6 +63,15 @@
     }
   },
   {
+    "domain": "baffo3",
+    "owner": {
+      "github": "griccitiello"
+    },
+    "record": {
+      "A": "34.154.146.225"
+    }
+  },
+  {
     "domain": "basescript",
     "owner": {
       "github": "NishithP2004"
