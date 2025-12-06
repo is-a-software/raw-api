@@ -765,6 +765,15 @@
     }
   },
   {
+    "domain": "rifan",
+    "owner": {
+      "github": "rifnganadha"
+    },
+    "record": {
+      "CNAME": "talentanusantara.com"
+    }
+  },
+  {
     "domain": "rrobles",
     "owner": {
       "github": "rroblsgo"
