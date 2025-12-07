@@ -522,6 +522,15 @@
     }
   },
   {
+    "domain": "myown",
+    "owner": {
+      "github": "bpnschool55-source"
+    },
+    "record": {
+      "CNAME": "idk"
+    }
+  },
+  {
     "domain": "naman",
     "owner": {
       "github": "naman-0804"
