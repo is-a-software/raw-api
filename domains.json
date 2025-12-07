@@ -45,6 +45,15 @@
     }
   },
   {
+    "domain": "avishkardevportfolio",
+    "owner": {
+      "github": "AvishkarMandlik"
+    },
+    "record": {
+      "CNAME": "avishkar-mandlik-portfolio.netlify.app."
+    }
+  },
+  {
     "domain": "baffo",
     "owner": {
       "github": "griccitiello"
