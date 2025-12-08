@@ -936,15 +936,6 @@
     }
   },
   {
-    "domain": "that",
-    "owner": {
-      "github": "Stay-Toxicsec"
-    },
-    "record": {
-      "CNAME": "6b1138646e38d35f.vercel-dns-017.com."
-    }
-  },
-  {
     "domain": "this",
     "owner": {
       "github": "Stay-Toxicsec"
