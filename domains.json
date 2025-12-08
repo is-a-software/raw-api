@@ -1006,5 +1006,14 @@
     "record": {
       "CNAME": "msp7hutaw4gt861.static2.studio"
     }
+  },
+  {
+    "domain": "your-mom",
+    "owner": {
+      "github": "MAXVEL187"
+    },
+    "record": {
+      "CNAME": "b6e7c84db676792c.vercel-dns-017.com."
+    }
   }
 ]
