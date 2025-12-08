@@ -27,6 +27,15 @@
     }
   },
   {
+    "domain": "api.expense-income",
+    "owner": {
+      "github": "nbn2000"
+    },
+    "record": {
+      "A": "77.237.245.47"
+    }
+  },
+  {
     "domain": "api.oshpaz-ai",
     "owner": {
       "github": "nbn2000"
