@@ -936,6 +936,15 @@
     }
   },
   {
+    "domain": "that",
+    "owner": {
+      "github": "Stay-Toxicsec"
+    },
+    "record": {
+      "CNAME": "nextjs-ai-chatbot-five-sigma-ht8mhiwfjn.vercel.app"
+    }
+  },
+  {
     "domain": "this",
     "owner": {
       "github": "Stay-Toxicsec"
