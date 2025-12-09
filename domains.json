@@ -63,15 +63,6 @@
     }
   },
   {
-    "domain": "baa4ts",
-    "owner": {
-      "github": "baa4ts"
-    },
-    "record": {
-      "CNAME": "baa4ts.is-a.dev"
-    }
-  },
-  {
     "domain": "baffo",
     "owner": {
       "github": "griccitiello"
