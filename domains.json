@@ -216,6 +216,15 @@
     }
   },
   {
+    "domain": "ecommerce",
+    "owner": {
+      "github": "alraakib"
+    },
+    "record": {
+      "A": "217.76.63.183"
+    }
+  },
+  {
     "domain": "emperornaedmcportfolio",
     "owner": {
       "github": "dinonaedytwastaken-netizen"
