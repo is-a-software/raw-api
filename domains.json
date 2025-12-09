@@ -171,6 +171,15 @@
     }
   },
   {
+    "domain": "clash-reward",
+    "owner": {
+      "github": "baa4ts"
+    },
+    "record": {
+      "CNAME": "clash-reward-frontend.pages.dev"
+    }
+  },
+  {
     "domain": "coding-dairies",
     "owner": {
       "github": "visu-25"
