@@ -216,6 +216,15 @@
     }
   },
   {
+    "domain": "drthesmos",
+    "owner": {
+      "github": "truthwhisper"
+    },
+    "record": {
+      "CNAME": "drsatanic.netlify.app"
+    }
+  },
+  {
     "domain": "ecommerce",
     "owner": {
       "github": "alraakib"
