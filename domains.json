@@ -567,6 +567,15 @@
     }
   },
   {
+    "domain": "multitool",
+    "owner": {
+      "github": "MarckRamon"
+    },
+    "record": {
+      "CNAME": "88239962f47a8173.vercel-dns-017.com."
+    }
+  },
+  {
     "domain": "myown",
     "owner": {
       "github": "bpnschool55-source"
