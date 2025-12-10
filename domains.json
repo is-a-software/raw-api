@@ -441,15 +441,6 @@
     }
   },
   {
-    "domain": "kapa",
-    "owner": {
-      "github": "parthj000"
-    },
-    "record": {
-      "CNAME": "parth-j.vercel.app"
-    }
-  },
-  {
     "domain": "kartofwork",
     "owner": {
       "github": "MrKartof"
@@ -492,15 +483,6 @@
     },
     "record": {
       "CNAME": "3eda046845788e7d.vercel-dns-017.com."
-    }
-  },
-  {
-    "domain": "mapa",
-    "owner": {
-      "github": "parthj000"
-    },
-    "record": {
-      "CNAME": "parth-j.vercel.app"
     }
   },
   {
@@ -792,33 +774,6 @@
     }
   },
   {
-    "domain": "psycho",
-    "owner": {
-      "github": "ItzRealexit"
-    },
-    "record": {
-      "CNAME": "abhishekjaat.vercel.app"
-    }
-  },
-  {
-    "domain": "psychox",
-    "owner": {
-      "github": "ItzRealexit"
-    },
-    "record": {
-      "CNAME": "psychoXdevs.fun"
-    }
-  },
-  {
-    "domain": "quiz",
-    "owner": {
-      "github": "zaselalk"
-    },
-    "record": {
-      "CNAME": "zaselalk.github.io/JS-QuizApp"
-    }
-  },
-  {
     "domain": "raw",
     "owner": {
       "github": "priyanzsh"
@@ -852,15 +807,6 @@
     },
     "record": {
       "TXT": "p=MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDVlRiPLhe8WBPZBMl3fqFXKRoTP3LVy6VVrmH8OaUmMUAKRVQln2CflfbaLTCnJJfHKSGbnvn5+kwmE6NFoewliiYJeeqZFtObT7zccfg0FglnxCTZpRPpUMxiBImj2/IrPhzq9nepRy6r1SSoag5tD0U/9yzbCKHqFzkIjkLnKQIDAQAB"
-    }
-  },
-  {
-    "domain": "rexfordkofikoomson",
-    "owner": {
-      "github": "rexfordkode"
-    },
-    "record": {
-      "CNAME": "rexfordkofikoomson"
     }
   },
   {
