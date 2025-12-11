@@ -909,6 +909,15 @@
     }
   },
   {
+    "domain": "surething",
+    "owner": {
+      "github": "ConnorBerghoffer"
+    },
+    "record": {
+      "A": "1.1.1.1"
+    }
+  },
+  {
     "domain": "tanishq.portfolio",
     "owner": {
       "github": "TanishqKarnavat"
