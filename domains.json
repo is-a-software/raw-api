@@ -189,6 +189,15 @@
     }
   },
   {
+    "domain": "devgames",
+    "owner": {
+      "github": "danyx64YT"
+    },
+    "record": {
+      "CNAME": "danyx64yt.github.io"
+    }
+  },
+  {
     "domain": "devprofiles",
     "owner": {
       "github": "priyazsh"
