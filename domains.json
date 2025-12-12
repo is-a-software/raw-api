@@ -873,6 +873,15 @@
     }
   },
   {
+    "domain": "satanicbook",
+    "owner": {
+      "github": "drsatanic"
+    },
+    "record": {
+      "CNAME": "hashnode.network"
+    }
+  },
+  {
     "domain": "sceptrum",
     "owner": {
       "github": "saditya93"
