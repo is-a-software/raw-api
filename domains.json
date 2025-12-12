@@ -792,6 +792,15 @@
     }
   },
   {
+    "domain": "qr-generator",
+    "owner": {
+      "github": "Abhinavpatra"
+    },
+    "record": {
+      "CNAME": "    qr-beryl-two.vercel.app"
+    }
+  },
+  {
     "domain": "raw",
     "owner": {
       "github": "priyazsh"
