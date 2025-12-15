@@ -216,6 +216,15 @@
     }
   },
   {
+    "domain": "django",
+    "owner": {
+      "github": "TestCoper"
+    },
+    "record": {
+      "A": "192.168.10.10"
+    }
+  },
+  {
     "domain": "docs",
     "owner": {
       "github": "priyazsh"
