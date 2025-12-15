@@ -99,15 +99,6 @@
     }
   },
   {
-    "domain": "basicwebsite",
-    "owner": {
-      "github": "pygod7"
-    },
-    "record": {
-      "TXT": "vc-domain-verify=basicwebsite.is-a.software,3d84140752bd0986940b"
-    }
-  },
-  {
     "domain": "bikeapp",
     "owner": {
       "github": "sonawat"
@@ -222,15 +213,6 @@
     },
     "record": {
       "CNAME": "is-a-software.github.io"
-    }
-  },
-  {
-    "domain": "drthesmos",
-    "owner": {
-      "github": "truthwhisper"
-    },
-    "record": {
-      "CNAME": "truthwhisper.vercel.app"
     }
   },
   {
@@ -603,15 +585,6 @@
     }
   },
   {
-    "domain": "naman",
-    "owner": {
-      "github": "naman-0804"
-    },
-    "record": {
-      "TXT": "vc-domain-verify=naman.is-a.software,27ad2f5d54b5e11a8fa0"
-    }
-  },
-  {
     "domain": "neuro",
     "owner": {
       "github": "neurofumo"
@@ -783,24 +756,6 @@
     }
   },
   {
-    "domain": "qr",
-    "owner": {
-      "github": "Abhinavpatra"
-    },
-    "record": {
-      "CNAME": "qr-beryl-two.vercel.app"
-    }
-  },
-  {
-    "domain": "qr-generator",
-    "owner": {
-      "github": "Abhinavpatra"
-    },
-    "record": {
-      "CNAME": "    qr-beryl-two.vercel.app"
-    }
-  },
-  {
     "domain": "raw",
     "owner": {
       "github": "priyazsh"
@@ -870,15 +825,6 @@
     },
     "record": {
       "CNAME": "oshekharo.github.io"
-    }
-  },
-  {
-    "domain": "satanicbook",
-    "owner": {
-      "github": "drsatanic"
-    },
-    "record": {
-      "CNAME": "hashnode.network"
     }
   },
   {
@@ -978,15 +924,6 @@
     },
     "record": {
       "A": "134.122.6.172"
-    }
-  },
-  {
-    "domain": "that",
-    "owner": {
-      "github": "Stay-Toxicsec"
-    },
-    "record": {
-      "TXT": "pktriot=cec79a40b80bc81a195b1356ae7838065ab60f3599cd1846de7a999da4a6f26255dc48c9e7a8953cc24708877476773769d60544d4f56f767c6e072bac0cc64e7c615d3b51d3bc619382a022cc888c728f4f9b084d48b93556e922e2eb5a281477f0ee88fde7562f27800dfabe1eb504"
     }
   },
   {
