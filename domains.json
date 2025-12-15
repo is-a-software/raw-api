@@ -180,15 +180,6 @@
     }
   },
   {
-    "domain": "darknight",
-    "owner": {
-      "github": "dark-knight-77"
-    },
-    "record": {
-      "CNAME": "moveto-ls.vercel.app"
-    }
-  },
-  {
     "domain": "devgames",
     "owner": {
       "github": "danyx64YT"
