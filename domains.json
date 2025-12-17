@@ -828,6 +828,15 @@
     }
   },
   {
+    "domain": "rl",
+    "owner": {
+      "github": "TheUselessCreator"
+    },
+    "record": {
+      "CNAME": "theuselesscreator.github.io"
+    }
+  },
+  {
     "domain": "rrobles",
     "owner": {
       "github": "rroblsgo"
