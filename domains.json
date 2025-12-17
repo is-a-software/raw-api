@@ -369,6 +369,15 @@
     }
   },
   {
+    "domain": "global",
+    "owner": {
+      "github": "doxjosh"
+    },
+    "record": {
+      "A": "185.199.108.153"
+    }
+  },
+  {
     "domain": "gpay",
     "owner": {
       "github": "Awernox"
