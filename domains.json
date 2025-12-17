@@ -468,6 +468,15 @@
     }
   },
   {
+    "domain": "jixonix",
+    "owner": {
+      "github": "JessiV20"
+    },
+    "record": {
+      "CNAME": "jessiv20.github.io"
+    }
+  },
+  {
     "domain": "kartofwork",
     "owner": {
       "github": "MrKartof"
