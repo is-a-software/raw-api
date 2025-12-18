@@ -198,6 +198,15 @@
     }
   },
   {
+    "domain": "daydreaming",
+    "owner": {
+      "github": "Poochley"
+    },
+    "record": {
+      "A": "104.243.45.193"
+    }
+  },
+  {
     "domain": "devgames",
     "owner": {
       "github": "danyx64YT"
