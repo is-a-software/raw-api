@@ -927,6 +927,15 @@
     }
   },
   {
+    "domain": "snake2",
+    "owner": {
+      "github": "shumaqueraza"
+    },
+    "record": {
+      "CNAME": "snake2-35kv.onrender.com"
+    }
+  },
+  {
     "domain": "snakegame",
     "owner": {
       "github": "priyanshbot"
