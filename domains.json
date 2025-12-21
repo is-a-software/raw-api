@@ -513,6 +513,15 @@
     }
   },
   {
+    "domain": "lumecast",
+    "owner": {
+      "github": "shumaqueraza"
+    },
+    "record": {
+      "CNAME": "lumecast.onrender.com"
+    }
+  },
+  {
     "domain": "luxnote",
     "owner": {
       "github": "truthwhisper"
