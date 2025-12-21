@@ -36,6 +36,15 @@
     }
   },
   {
+    "domain": "anshumanjadiya1102",
+    "owner": {
+      "github": "anshumanjadiya1102"
+    },
+    "record": {
+      "CNAME": "anshumanjadiya1102.github.io"
+    }
+  },
+  {
     "domain": "api.expense-income",
     "owner": {
       "github": "nbn2000"
