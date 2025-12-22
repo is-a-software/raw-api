@@ -567,15 +567,6 @@
     }
   },
   {
-    "domain": "me",
-    "owner": {
-      "github": "aminkheddache-dotcom"
-    },
-    "record": {
-      "A": "192.168.1.1"
-    }
-  },
-  {
     "domain": "message",
     "owner": {
       "github": "pygod7"
