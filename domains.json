@@ -369,15 +369,6 @@
     }
   },
   {
-    "domain": "fvrto",
-    "owner": {
-      "github": "B2RT0SZM77"
-    },
-    "record": {
-      "CNAME": "b2rt0szm77.github.io"
-    }
-  },
-  {
     "domain": "githubroaster",
     "owner": {
       "github": "mohammad-abrar"
