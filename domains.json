@@ -243,6 +243,15 @@
     }
   },
   {
+    "domain": "dixo",
+    "owner": {
+      "github": "aryanshrai03"
+    },
+    "record": {
+      "TXT": "c2036969919ff6770a74da41f88557"
+    }
+  },
+  {
     "domain": "django",
     "owner": {
       "github": "TestCoper"
