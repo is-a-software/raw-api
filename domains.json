@@ -792,6 +792,15 @@
     }
   },
   {
+    "domain": "paper",
+    "owner": {
+      "github": "xtoazt"
+    },
+    "record": {
+      "CNAME": "whqle.github.io"
+    }
+  },
+  {
     "domain": "parsespy",
     "owner": {
       "github": "theprinceraj"
