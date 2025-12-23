@@ -180,6 +180,15 @@
     }
   },
   {
+    "domain": "codex",
+    "owner": {
+      "github": "aryanshrai03"
+    },
+    "record": {
+      "CNAME": "352a381ddded8543.vercel-dns-017.com."
+    }
+  },
+  {
     "domain": "coding-dairies",
     "owner": {
       "github": "visu-25"
