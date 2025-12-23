@@ -432,6 +432,15 @@
     }
   },
   {
+    "domain": "id-jawir",
+    "owner": {
+      "github": "Kyoura-DE"
+    },
+    "record": {
+      "A": "103.160.62.161"
+    }
+  },
+  {
     "domain": "ilyasabdat",
     "owner": {
       "github": "breabdat"
