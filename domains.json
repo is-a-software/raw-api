@@ -360,15 +360,6 @@
     }
   },
   {
-    "domain": "github-pages-challenge-aryanshrai03.thymoai",
-    "owner": {
-      "github": "aryanshrai03"
-    },
-    "record": {
-      "TXT": "b3257c560b4a5356240fa7a4b03a6f"
-    }
-  },
-  {
     "domain": "githubroaster",
     "owner": {
       "github": "mohammad-abrar"
