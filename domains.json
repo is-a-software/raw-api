@@ -63,6 +63,15 @@
     }
   },
   {
+    "domain": "aswinweather",
+    "owner": {
+      "github": "aswinthapa-py"
+    },
+    "record": {
+      "CNAME": "16bada6e917a2a03.vercel-dns-017.com."
+    }
+  },
+  {
     "domain": "avishkardevportfolio",
     "owner": {
       "github": "AvishkarMandlik"
