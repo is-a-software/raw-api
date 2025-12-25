@@ -1134,6 +1134,15 @@
     }
   },
   {
+    "domain": "videoeditingdracula",
+    "owner": {
+      "github": "Nosferatu-Dracula"
+    },
+    "record": {
+      "TXT": "https://github.com/Nosferatu-Dracula/VideoEditorSite"
+    }
+  },
+  {
     "domain": "void-57",
     "owner": {
       "github": "void-57"
