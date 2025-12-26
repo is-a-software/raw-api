@@ -684,6 +684,15 @@
     }
   },
   {
+    "domain": "nanaphy",
+    "owner": {
+      "github": "Jhubham567"
+    },
+    "record": {
+      "CNAME": "shubham.com"
+    }
+  },
+  {
     "domain": "neuro",
     "owner": {
       "github": "neurofumo"
