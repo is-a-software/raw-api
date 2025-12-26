@@ -1008,6 +1008,15 @@
     }
   },
   {
+    "domain": "shubham-santa",
+    "owner": {
+      "github": "Jhubham567"
+    },
+    "record": {
+      "CNAME": "shubham-santa.vercel.app"
+    }
+  },
+  {
     "domain": "smegrc",
     "owner": {
       "github": "gvhees"
