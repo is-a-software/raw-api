@@ -1170,6 +1170,15 @@
     }
   },
   {
+    "domain": "velx",
+    "owner": {
+      "github": "VoidMenu"
+    },
+    "record": {
+      "CNAME": "voidmenu.github.io"
+    }
+  },
+  {
     "domain": "verifyai",
     "owner": {
       "github": "HakkanShah"
