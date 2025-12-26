@@ -1206,6 +1206,15 @@
     }
   },
   {
+    "domain": "yogesh",
+    "owner": {
+      "github": "YogeshMankari35"
+    },
+    "record": {
+      "CNAME": "yogesh.com"
+    }
+  },
+  {
     "domain": "your-mom",
     "owner": {
       "github": "MAXVEL187"
