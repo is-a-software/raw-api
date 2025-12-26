@@ -549,6 +549,15 @@
     }
   },
   {
+    "domain": "liquidmods",
+    "owner": {
+      "github": "TLine797"
+    },
+    "record": {
+      "CNAME": "liquidmods.vercel.app"
+    }
+  },
+  {
     "domain": "lumecast",
     "owner": {
       "github": "shumaqueraza"
