@@ -549,15 +549,6 @@
     }
   },
   {
-    "domain": "liquidmods",
-    "owner": {
-      "github": "TLine797"
-    },
-    "record": {
-      "TXT": "tline797.github.io"
-    }
-  },
-  {
     "domain": "lumecast",
     "owner": {
       "github": "shumaqueraza"
