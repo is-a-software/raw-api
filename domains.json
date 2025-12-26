@@ -666,6 +666,15 @@
     }
   },
   {
+    "domain": "mouse",
+    "owner": {
+      "github": "Jhubham567"
+    },
+    "record": {
+      "CNAME": "shubham.com "
+    }
+  },
+  {
     "domain": "multitool",
     "owner": {
       "github": "MarckRamon"
