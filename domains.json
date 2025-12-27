@@ -963,15 +963,6 @@
     }
   },
   {
-    "domain": "retail-insights-assistant",
-    "owner": {
-      "github": "ImSanjayChintha"
-    },
-    "record": {
-      "CNAME": "retail-insights-assistant"
-    }
-  },
-  {
     "domain": "retailinsightsassistant",
     "owner": {
       "github": "ImSanjayChintha"
