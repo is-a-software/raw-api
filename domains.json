@@ -459,6 +459,15 @@
     }
   },
   {
+    "domain": "hjs",
+    "owner": {
+      "github": "jackylibo1975-art"
+    },
+    "record": {
+      "CNAME": "hjs"
+    }
+  },
+  {
     "domain": "huygd",
     "owner": {
       "github": "HuyHuynhQuocGD"
