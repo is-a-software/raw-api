@@ -99,15 +99,6 @@
     }
   },
   {
-    "domain": "bambi",
-    "owner": {
-      "github": "B2RT0SZM77"
-    },
-    "record": {
-      "CNAME": "b2rt0szm77.github.io"
-    }
-  },
-  {
     "domain": "basescript",
     "owner": {
       "github": "NishithP2004"
