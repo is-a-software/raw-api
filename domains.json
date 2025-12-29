@@ -936,6 +936,15 @@
     }
   },
   {
+    "domain": "railgun",
+    "owner": {
+      "github": "repyh"
+    },
+    "record": {
+      "CNAME": "railgun-website.vercel.app"
+    }
+  },
+  {
     "domain": "raw",
     "owner": {
       "github": "priyazsh"
