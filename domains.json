@@ -1306,6 +1306,15 @@
     }
   },
   {
+    "domain": "vite",
+    "owner": {
+      "github": "SEIFPROGRAMER"
+    },
+    "record": {
+      "CNAME": "de7670006ba75380.vercel-dns-017.com."
+    }
+  },
+  {
     "domain": "void-57",
     "owner": {
       "github": "void-57"
