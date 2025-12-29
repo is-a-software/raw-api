@@ -351,15 +351,6 @@
     }
   },
   {
-    "domain": "fartbin",
-    "owner": {
-      "github": "B2RT0SZM77"
-    },
-    "record": {
-      "CNAME": "b2rt0szm77.github.io"
-    }
-  },
-  {
     "domain": "firebase1._domainkey.mail",
     "owner": {
       "github": "priyazsh"
