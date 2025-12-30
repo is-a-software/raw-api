@@ -585,6 +585,15 @@
     }
   },
   {
+    "domain": "lunar",
+    "owner": {
+      "github": "sealgodreal"
+    },
+    "record": {
+      "CNAME": "sealgodreal.github.io"
+    }
+  },
+  {
     "domain": "luxnote",
     "owner": {
       "github": "truthwhisper"
