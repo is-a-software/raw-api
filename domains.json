@@ -585,6 +585,15 @@
     }
   },
   {
+    "domain": "lunar",
+    "owner": {
+      "github": "sealgodreal"
+    },
+    "record": {
+      "CNAME": "lunar.netlify.app"
+    }
+  },
+  {
     "domain": "luxnote",
     "owner": {
       "github": "truthwhisper"
