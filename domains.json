@@ -1224,6 +1224,15 @@
     }
   },
   {
+    "domain": "thedailyinsider",
+    "owner": {
+      "github": "salmaahmed2026"
+    },
+    "record": {
+      "CNAME": "thedailyinsider.netlify.app"
+    }
+  },
+  {
     "domain": "this",
     "owner": {
       "github": "Stay-Toxicsec"
