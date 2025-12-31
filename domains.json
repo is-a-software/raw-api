@@ -9,15 +9,6 @@
     }
   },
   {
-    "domain": "aitab",
-    "owner": {
-      "github": "devarshishimpi"
-    },
-    "record": {
-      "CNAME": "aitab.devarshi.dev"
-    }
-  },
-  {
     "domain": "alaric.cafe",
     "owner": {
       "github": "whosfrench0"
