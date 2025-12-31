@@ -234,6 +234,15 @@
     }
   },
   {
+    "domain": "devarshidev",
+    "owner": {
+      "github": "devarshishimpi"
+    },
+    "record": {
+      "CNAME": "devarshi.dev"
+    }
+  },
+  {
     "domain": "devgames",
     "owner": {
       "github": "danyx64YT"
