@@ -27,6 +27,15 @@
     }
   },
   {
+    "domain": "ankit",
+    "owner": {
+      "github": "Anujxype"
+    },
+    "record": {
+      "CNAME": "Ghyy"
+    }
+  },
+  {
     "domain": "api.expense-income",
     "owner": {
       "github": "nbn2000"
