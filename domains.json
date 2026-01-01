@@ -63,15 +63,6 @@
     }
   },
   {
-    "domain": "authnation",
-    "owner": {
-      "github": "drsatanic"
-    },
-    "record": {
-      "CNAME": "awenation.vercel.app."
-    }
-  },
-  {
     "domain": "avishkardevportfolio",
     "owner": {
       "github": "AvishkarMandlik"
