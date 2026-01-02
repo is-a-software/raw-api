@@ -630,6 +630,15 @@
     }
   },
   {
+    "domain": "jarkmate",
+    "owner": {
+      "github": "officialturbo"
+    },
+    "record": {
+      "CNAME": "priyazsh.github.io"
+    }
+  },
+  {
     "domain": "jixonix",
     "owner": {
       "github": "JessiV20"
