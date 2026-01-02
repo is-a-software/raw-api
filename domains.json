@@ -171,6 +171,15 @@
     }
   },
   {
+    "domain": "bravex",
+    "owner": {
+      "github": "SEIFPROGRAMER"
+    },
+    "record": {
+      "CNAME": "a850aa7d0f1eb1a1.vercel-dns-017.com."
+    }
+  },
+  {
     "domain": "c",
     "owner": {
       "github": "sixseries"
