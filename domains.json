@@ -270,6 +270,15 @@
     }
   },
   {
+    "domain": "discord",
+    "owner": {
+      "github": "nabil-devs"
+    },
+    "record": {
+      "CNAME": "novadev.biz"
+    }
+  },
+  {
     "domain": "dixo",
     "owner": {
       "github": "aryanshrai03"
