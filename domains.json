@@ -1314,6 +1314,15 @@
     }
   },
   {
+    "domain": "sextoy",
+    "owner": {
+      "github": "officialturbo"
+    },
+    "record": {
+      "CNAME": "priyazsh.github.io"
+    }
+  },
+  {
     "domain": "shivanandasai",
     "owner": {
       "github": "ssk090"
