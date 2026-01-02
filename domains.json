@@ -1530,6 +1530,15 @@
     }
   },
   {
+    "domain": "vercel",
+    "owner": {
+      "github": "SEIFPROGRAMER"
+    },
+    "record": {
+      "TXT": "vc-domain-verify=bravex.is-a.software,481d4edffe77a8a9d8a0"
+    }
+  },
+  {
     "domain": "verifyai",
     "owner": {
       "github": "HakkanShah"
