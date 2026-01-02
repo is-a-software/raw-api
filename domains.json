@@ -441,6 +441,15 @@
     }
   },
   {
+    "domain": "grief",
+    "owner": {
+      "github": "sixseries"
+    },
+    "record": {
+      "CNAME": "fourmiles.xyz"
+    }
+  },
+  {
     "domain": "henry",
     "owner": {
       "github": "hunguy"
