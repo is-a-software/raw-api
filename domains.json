@@ -810,6 +810,15 @@
     }
   },
   {
+    "domain": "novex",
+    "owner": {
+      "github": "nabil-devs"
+    },
+    "record": {
+      "CNAME": "novadev.biz"
+    }
+  },
+  {
     "domain": "nur",
     "owner": {
       "github": "neurofumo"
