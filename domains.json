@@ -819,6 +819,15 @@
     }
   },
   {
+    "domain": "novadev",
+    "owner": {
+      "github": "nabil-devs"
+    },
+    "record": {
+      "CNAME": "novadev.biz"
+    }
+  },
+  {
     "domain": "novex",
     "owner": {
       "github": "nabil-devs"
