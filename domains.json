@@ -909,6 +909,15 @@
     }
   },
   {
+    "domain": "nexora",
+    "owner": {
+      "github": "tasinone"
+    },
+    "record": {
+      "A": "185.199.108.153"
+    }
+  },
+  {
     "domain": "nigger",
     "owner": {
       "github": "officialturbo"
