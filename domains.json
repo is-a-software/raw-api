@@ -441,15 +441,6 @@
     }
   },
   {
-    "domain": "framex",
-    "owner": {
-      "github": "Kashan-2912"
-    },
-    "record": {
-      "CNAME": "40a0a7e791d5b5a8.vercel-dns-017.com."
-    }
-  },
-  {
     "domain": "fs",
     "owner": {
       "github": "MAXVEL187"
