@@ -486,6 +486,15 @@
     }
   },
   {
+    "domain": "host-txt",
+    "owner": {
+      "github": "SEIFPROGRAMER"
+    },
+    "record": {
+      "TXT": "vc-domain-verify=host.is-a.software,16cf74ea989fdcc2439c"
+    }
+  },
+  {
     "domain": "huygd",
     "owner": {
       "github": "HuyHuynhQuocGD"
