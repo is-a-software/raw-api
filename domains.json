@@ -486,6 +486,15 @@
     }
   },
   {
+    "domain": "host-a",
+    "owner": {
+      "github": "SEIFPROGRAMER"
+    },
+    "record": {
+      "A": "216.198.79.1"
+    }
+  },
+  {
     "domain": "host-txt",
     "owner": {
       "github": "SEIFPROGRAMER"
