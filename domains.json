@@ -1,5 +1,14 @@
 [
   {
+    "domain": "a",
+    "owner": {
+      "github": "sixseries"
+    },
+    "record": {
+      "CNAME": "fourmiles.xyz"
+    }
+  },
+  {
     "domain": "alaric.cafe",
     "owner": {
       "github": "whosfrench0"
