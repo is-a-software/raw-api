@@ -1423,6 +1423,15 @@
     }
   },
   {
+    "domain": "who",
+    "owner": {
+      "github": "sixseries"
+    },
+    "record": {
+      "CNAME": "fourmiles.xyz"
+    }
+  },
+  {
     "domain": "www",
     "owner": {
       "github": "priyazsh"
