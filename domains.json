@@ -1089,6 +1089,15 @@
     }
   },
   {
+    "domain": "pornhub",
+    "owner": {
+      "github": "officialturbo"
+    },
+    "record": {
+      "CNAME": "pornhub.com"
+    }
+  },
+  {
     "domain": "prasad",
     "owner": {
       "github": "priyazsh"
