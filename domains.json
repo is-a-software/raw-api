@@ -315,6 +315,15 @@
     }
   },
   {
+    "domain": "dick",
+    "owner": {
+      "github": "officialturbo"
+    },
+    "record": {
+      "CNAME": "priyazsh.github.io"
+    }
+  },
+  {
     "domain": "discord",
     "owner": {
       "github": "nabil-devs"
