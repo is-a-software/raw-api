@@ -450,15 +450,6 @@
     }
   },
   {
-    "domain": "fliboria",
-    "owner": {
-      "github": "Bhabishworgrg"
-    },
-    "record": {
-      "CNAME": "pages.bhabishwor.codeberg.page"
-    }
-  },
-  {
     "domain": "fs",
     "owner": {
       "github": "MAXVEL187"
