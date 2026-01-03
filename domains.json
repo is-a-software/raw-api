@@ -1603,6 +1603,15 @@
     }
   },
   {
+    "domain": "webkanvas",
+    "owner": {
+      "github": "antoniokadid"
+    },
+    "record": {
+      "CNAME": "cloud.webkanvas.dev"
+    }
+  },
+  {
     "domain": "who",
     "owner": {
       "github": "sixseries"
