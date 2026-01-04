@@ -936,6 +936,15 @@
     }
   },
   {
+    "domain": "newerax",
+    "owner": {
+      "github": "ahmedzerabib25-star"
+    },
+    "record": {
+      "CNAME": "newerax-agency.vercel.app"
+    }
+  },
+  {
     "domain": "nexora",
     "owner": {
       "github": "tasinone"
