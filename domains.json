@@ -455,7 +455,7 @@
       "github": "Bhabishworgrg"
     },
     "record": {
-      "CNAME": "legendary-faun-5921f5.netlify.app"
+      "CNAME": "bhabishwor.codeberg.page"
     }
   },
   {
@@ -936,21 +936,12 @@
     }
   },
   {
-    "domain": "newerax",
-    "owner": {
-      "github": "ahmedzerabib25-star"
-    },
-    "record": {
-      "CNAME": "newerax-agency.vercel.app"
-    }
-  },
-  {
     "domain": "nexora",
     "owner": {
       "github": "tasinone"
     },
     "record": {
-      "CNAME": "tasin.is-cool.dev"
+      "CNAME": "tasinone.github.io"
     }
   },
   {
