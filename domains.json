@@ -36,6 +36,15 @@
     }
   },
   {
+    "domain": "amo-pos",
+    "owner": {
+      "github": "arehmanbutt112"
+    },
+    "record": {
+      "CNAME": "ep-frontend-8nvh.onrender.com"
+    }
+  },
+  {
     "domain": "ankit",
     "owner": {
       "github": "Anujxype"
