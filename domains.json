@@ -1530,6 +1530,15 @@
     }
   },
   {
+    "domain": "upeshack",
+    "owner": {
+      "github": "Abhinav-kodes"
+    },
+    "record": {
+      "TXT": "https://hackathon-sage-ten.vercel.app/"
+    }
+  },
+  {
     "domain": "ved",
     "owner": {
       "github": "VedantAnand17"
