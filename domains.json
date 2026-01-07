@@ -1,23 +1,5 @@
 [
   {
-    "domain": "a",
-    "owner": {
-      "github": "sixseries"
-    },
-    "record": {
-      "CNAME": "fourmiles.xyz"
-    }
-  },
-  {
-    "domain": "alaric.cafe",
-    "owner": {
-      "github": "whosfrench0"
-    },
-    "record": {
-      "TXT": "vc-domain-verify=alaric.cafe.is-a.software,4d7a0d3e8c88747faac3"
-    }
-  },
-  {
     "domain": "algorithms",
     "owner": {
       "github": "saksham-shekher"
@@ -33,33 +15,6 @@
     },
     "record": {
       "CNAME": "amarevents.alwaysdata.net"
-    }
-  },
-  {
-    "domain": "amo-pos",
-    "owner": {
-      "github": "arehmanbutt112"
-    },
-    "record": {
-      "CNAME": "ep-frontend-8nvh.onrender.com"
-    }
-  },
-  {
-    "domain": "ankit",
-    "owner": {
-      "github": "Anujxype"
-    },
-    "record": {
-      "CNAME": "Ghyy"
-    }
-  },
-  {
-    "domain": "anshumanjadiya1102",
-    "owner": {
-      "github": "anshumanjadiya1102"
-    },
-    "record": {
-      "CNAME": "anshumanjadiya1102.github.io"
     }
   },
   {
@@ -81,30 +36,12 @@
     }
   },
   {
-    "domain": "app",
-    "owner": {
-      "github": "chinfosieeuw9-prog"
-    },
-    "record": {
-      "CNAME": "vitaljobs.nl"
-    }
-  },
-  {
     "domain": "avishkardevportfolio",
     "owner": {
       "github": "AvishkarMandlik"
     },
     "record": {
       "CNAME": "avishkar-mandlik-portfolio.netlify.app."
-    }
-  },
-  {
-    "domain": "b",
-    "owner": {
-      "github": "sixseries"
-    },
-    "record": {
-      "CNAME": "fourmiles.xyz"
     }
   },
   {
@@ -135,30 +72,12 @@
     }
   },
   {
-    "domain": "basescript",
-    "owner": {
-      "github": "NishithP2004"
-    },
-    "record": {
-      "CNAME": "bs-playground.nishithp.page"
-    }
-  },
-  {
     "domain": "best",
     "owner": {
       "github": "bell336"
     },
     "record": {
       "CNAME": "amdcome.pages.dev"
-    }
-  },
-  {
-    "domain": "bhandara",
-    "owner": {
-      "github": "priyanshbot"
-    },
-    "record": {
-      "A": "45.13.236.245"
     }
   },
   {
@@ -171,120 +90,12 @@
     }
   },
   {
-    "domain": "bookkeeping",
-    "owner": {
-      "github": "zgrummedical"
-    },
-    "record": {
-      "CNAME": "bookkeeping.zgrum.com"
-    }
-  },
-  {
     "domain": "boostify",
     "owner": {
       "github": "pygod7"
     },
     "record": {
       "CNAME": "dfddbb53c8d2392c.vercel-dns-017.com"
-    }
-  },
-  {
-    "domain": "bravex",
-    "owner": {
-      "github": "SEIFPROGRAMER"
-    },
-    "record": {
-      "CNAME": "a850aa7d0f1eb1a1.vercel-dns-017.com."
-    }
-  },
-  {
-    "domain": "c",
-    "owner": {
-      "github": "sixseries"
-    },
-    "record": {
-      "CNAME": "fourmiles.xyz"
-    }
-  },
-  {
-    "domain": "campusmarketplace",
-    "owner": {
-      "github": "arnoldmidalla"
-    },
-    "record": {
-      "CNAME": "2c4b8f2901fcb273.vercel-dns-017.com."
-    }
-  },
-  {
-    "domain": "casebook",
-    "owner": {
-      "github": "casebooks"
-    },
-    "record": {
-      "CNAME": "casebooks.netlify.app"
-    }
-  },
-  {
-    "domain": "centralmacatuba",
-    "owner": {
-      "github": "centralmacatuba"
-    },
-    "record": {
-      "CNAME": "centralmacatuba.eu.org"
-    }
-  },
-  {
-    "domain": "chadindev",
-    "owner": {
-      "github": "PingHuskar"
-    },
-    "record": {
-      "CNAME": "chadindev.in.th"
-    }
-  },
-  {
-    "domain": "charlie.kirk",
-    "owner": {
-      "github": "nabil-devs"
-    },
-    "record": {
-      "CNAME": "cname.vercel-dns-017.com"
-    }
-  },
-  {
-    "domain": "charliekirk",
-    "owner": {
-      "github": "nabil-devs"
-    },
-    "record": {
-      "CNAME": "cname.vercel-dns-017.com."
-    }
-  },
-  {
-    "domain": "clash-reward",
-    "owner": {
-      "github": "baa4ts"
-    },
-    "record": {
-      "CNAME": "clash-reward-frontend.pages.dev"
-    }
-  },
-  {
-    "domain": "codex",
-    "owner": {
-      "github": "aryanshrai03"
-    },
-    "record": {
-      "TXT": "vc-domain-verify=codex.is-a.software,747cfd5428fdd303a2fb"
-    }
-  },
-  {
-    "domain": "coding-dairies",
-    "owner": {
-      "github": "visu-25"
-    },
-    "record": {
-      "A": "192.168.31.112"
     }
   },
   {
@@ -315,15 +126,6 @@
     }
   },
   {
-    "domain": "devgames",
-    "owner": {
-      "github": "danyx64YT"
-    },
-    "record": {
-      "CNAME": "danyx64yt.github.io"
-    }
-  },
-  {
     "domain": "devprofiles",
     "owner": {
       "github": "priyazsh"
@@ -342,39 +144,12 @@
     }
   },
   {
-    "domain": "dick",
-    "owner": {
-      "github": "officialturbo"
-    },
-    "record": {
-      "CNAME": "priyazsh.github.io"
-    }
-  },
-  {
-    "domain": "discord",
-    "owner": {
-      "github": "nabil-devs"
-    },
-    "record": {
-      "CNAME": "novadev.biz"
-    }
-  },
-  {
     "domain": "dixo",
     "owner": {
       "github": "aryanshrai03"
     },
     "record": {
       "CNAME": "0fd8cb19091b4f86.vercel-dns-017.com"
-    }
-  },
-  {
-    "domain": "django",
-    "owner": {
-      "github": "TestCoper"
-    },
-    "record": {
-      "A": "192.168.10.10"
     }
   },
   {
@@ -414,15 +189,6 @@
     }
   },
   {
-    "domain": "eshanxmodz",
-    "owner": {
-      "github": "mdeshanjjkk"
-    },
-    "record": {
-      "CNAME": "eshan.mod"
-    }
-  },
-  {
     "domain": "expense-income",
     "owner": {
       "github": "nbn2000"
@@ -432,39 +198,12 @@
     }
   },
   {
-    "domain": "farharbor",
-    "owner": {
-      "github": "almalyuk"
-    },
-    "record": {
-      "CNAME": "rustdevils.ru"
-    }
-  },
-  {
     "domain": "farmbot",
     "owner": {
       "github": "DogIcing"
     },
     "record": {
       "CNAME": "a0e0f6efdfd0ecea.vercel-dns-017.com"
-    }
-  },
-  {
-    "domain": "firebase1._domainkey.mail",
-    "owner": {
-      "github": "priyazsh"
-    },
-    "record": {
-      "CNAME": "mail-mail-is--a-software.dkim1._domainkey.firebasemail.com"
-    }
-  },
-  {
-    "domain": "firebase2._domainkey.mail",
-    "owner": {
-      "github": "priyazsh"
-    },
-    "record": {
-      "CNAME": "mail-mail-is--a-software.dkim2._domainkey.firebasemail.com"
     }
   },
   {
@@ -513,102 +252,12 @@
     }
   },
   {
-    "domain": "gpay",
-    "owner": {
-      "github": "Awernox"
-    },
-    "record": {
-      "A": "188.243.123.229"
-    }
-  },
-  {
-    "domain": "grief",
-    "owner": {
-      "github": "sixseries"
-    },
-    "record": {
-      "CNAME": "fourmiles.xyz"
-    }
-  },
-  {
-    "domain": "henry",
-    "owner": {
-      "github": "hunguy"
-    },
-    "record": {
-      "CNAME": "h3nry.us"
-    }
-  },
-  {
     "domain": "here",
     "owner": {
       "github": "Stay-Toxicsec"
     },
     "record": {
       "CNAME": "6b1138646e38d35f.vercel-dns-017.com"
-    }
-  },
-  {
-    "domain": "hetz",
-    "owner": {
-      "github": "aminkheddache-dotcom"
-    },
-    "record": {
-      "A": "185.27.134.166"
-    }
-  },
-  {
-    "domain": "hingedev",
-    "owner": {
-      "github": "rahulkumarpahwa"
-    },
-    "record": {
-      "CNAME": "ns1.vercel-dns.com"
-    }
-  },
-  {
-    "domain": "hjs",
-    "owner": {
-      "github": "jackylibo1975-art"
-    },
-    "record": {
-      "CNAME": "hjs"
-    }
-  },
-  {
-    "domain": "host",
-    "owner": {
-      "github": "SEIFPROGRAMER"
-    },
-    "record": {
-      "CNAME": "6b8d9ff9ef3d35a7.vercel-dns-017.com."
-    }
-  },
-  {
-    "domain": "host-txt",
-    "owner": {
-      "github": "SEIFPROGRAMER"
-    },
-    "record": {
-      "TXT": "vc-domain-verify=host.is-a.software,16cf74ea989fdcc2439c"
-    }
-  },
-  {
-    "domain": "huygd",
-    "owner": {
-      "github": "HuyHuynhQuocGD"
-    },
-    "record": {
-      "AAAA": "2a11:6c7:f07:75::2"
-    }
-  },
-  {
-    "domain": "id-jawir",
-    "owner": {
-      "github": "Kyoura-DE"
-    },
-    "record": {
-      "A": "103.160.62.161"
     }
   },
   {
@@ -621,66 +270,12 @@
     }
   },
   {
-    "domain": "insights",
-    "owner": {
-      "github": "Abhinav-kodes"
-    },
-    "record": {
-      "A": "210.79.129.218"
-    }
-  },
-  {
-    "domain": "instagram",
-    "owner": {
-      "github": "nabil-devs"
-    },
-    "record": {
-      "CNAME": "cname.vercel-dns-017.com"
-    }
-  },
-  {
-    "domain": "it",
-    "owner": {
-      "github": "schizoverse"
-    },
-    "record": {
-      "CNAME": "schizoverse.github.io"
-    }
-  },
-  {
-    "domain": "itoady",
-    "owner": {
-      "github": "iToady1977"
-    },
-    "record": {
-      "A": "172.238.171.105"
-    }
-  },
-  {
     "domain": "jaiyankargupta",
     "owner": {
       "github": "jaiyankargupta"
     },
     "record": {
       "CNAME": "bdf5b4de90acd440.vercel-dns-017.com."
-    }
-  },
-  {
-    "domain": "jarkmate",
-    "owner": {
-      "github": "officialturbo"
-    },
-    "record": {
-      "CNAME": "priyazsh.github.io"
-    }
-  },
-  {
-    "domain": "jerkmate",
-    "owner": {
-      "github": "officialturbo"
-    },
-    "record": {
-      "CNAME": "priyazsh.github.io"
     }
   },
   {
@@ -693,42 +288,6 @@
     }
   },
   {
-    "domain": "k",
-    "owner": {
-      "github": "nabil-devs"
-    },
-    "record": {
-      "CNAME": "cname.vercel-dns-017.com"
-    }
-  },
-  {
-    "domain": "kartofwork",
-    "owner": {
-      "github": "MrKartof"
-    },
-    "record": {
-      "CNAME": "kartofwork.is-a.software"
-    }
-  },
-  {
-    "domain": "kirk",
-    "owner": {
-      "github": "nabil-devs"
-    },
-    "record": {
-      "CNAME": "cname.vercel-dns-017.com."
-    }
-  },
-  {
-    "domain": "kristiantokarim",
-    "owner": {
-      "github": "kristiantokarim"
-    },
-    "record": {
-      "CNAME": "honey-where-did-the-money-go"
-    }
-  },
-  {
     "domain": "legalmentortest",
     "owner": {
       "github": "asliddinburanov-prog"
@@ -738,57 +297,12 @@
     }
   },
   {
-    "domain": "lingkuma",
-    "owner": {
-      "github": "fishpigbird"
-    },
-    "record": {
-      "CNAME": "lingkuma.org"
-    }
-  },
-  {
     "domain": "liquidmods",
     "owner": {
       "github": "TLine797"
     },
     "record": {
       "CNAME": "tline797.github.io"
-    }
-  },
-  {
-    "domain": "localhost",
-    "owner": {
-      "github": "nabil-devs"
-    },
-    "record": {
-      "CNAME": "cname.vercel-dns-017.com."
-    }
-  },
-  {
-    "domain": "lumecast",
-    "owner": {
-      "github": "shumaqueraza"
-    },
-    "record": {
-      "CNAME": "lumecast.onrender.com"
-    }
-  },
-  {
-    "domain": "lunar",
-    "owner": {
-      "github": "sealgodreal"
-    },
-    "record": {
-      "CNAME": "sealgodreal.github.io"
-    }
-  },
-  {
-    "domain": "luxnote",
-    "owner": {
-      "github": "truthwhisper"
-    },
-    "record": {
-      "CNAME": "hashnode.network"
     }
   },
   {
@@ -846,24 +360,6 @@
     }
   },
   {
-    "domain": "mittiverse",
-    "owner": {
-      "github": "madhavansingh"
-    },
-    "record": {
-      "CNAME": "0670ae31225f119c.vercel-dns-017.com."
-    }
-  },
-  {
-    "domain": "mkmatter",
-    "owner": {
-      "github": "IotaSpencer"
-    },
-    "record": {
-      "CNAME": "mkmatter.iotaspencer.me"
-    }
-  },
-  {
     "domain": "mockai",
     "owner": {
       "github": "iFreaku"
@@ -891,15 +387,6 @@
     }
   },
   {
-    "domain": "mouse",
-    "owner": {
-      "github": "Jhubham567"
-    },
-    "record": {
-      "CNAME": "shubham.com "
-    }
-  },
-  {
     "domain": "multitool",
     "owner": {
       "github": "MarckRamon"
@@ -909,66 +396,12 @@
     }
   },
   {
-    "domain": "mygrief",
-    "owner": {
-      "github": "nabil-devs"
-    },
-    "record": {
-      "CNAME": "cname.vercel-dns-017.com."
-    }
-  },
-  {
-    "domain": "myown",
-    "owner": {
-      "github": "bpnschool55-source"
-    },
-    "record": {
-      "CNAME": "idk"
-    }
-  },
-  {
-    "domain": "n",
-    "owner": {
-      "github": "nabil-devs"
-    },
-    "record": {
-      "CNAME": "cname.vercel-dns-017.com."
-    }
-  },
-  {
-    "domain": "nanaphy",
-    "owner": {
-      "github": "Jhubham567"
-    },
-    "record": {
-      "CNAME": "shubham.com"
-    }
-  },
-  {
     "domain": "neuro",
     "owner": {
       "github": "neurofumo"
     },
     "record": {
       "CNAME": "nurox.pages.dev"
-    }
-  },
-  {
-    "domain": "nexora",
-    "owner": {
-      "github": "tasinone"
-    },
-    "record": {
-      "CNAME": "tasinone.github.io"
-    }
-  },
-  {
-    "domain": "nigger",
-    "owner": {
-      "github": "officialturbo"
-    },
-    "record": {
-      "CNAME": "pornhub.com"
     }
   },
   {
@@ -1008,33 +441,6 @@
     }
   },
   {
-    "domain": "nova",
-    "owner": {
-      "github": "nabil-devs"
-    },
-    "record": {
-      "CNAME": "cname.vercel-dns-017.com."
-    }
-  },
-  {
-    "domain": "novadev",
-    "owner": {
-      "github": "nabil-devs"
-    },
-    "record": {
-      "CNAME": "cname.vercel-dns-017.com."
-    }
-  },
-  {
-    "domain": "novex",
-    "owner": {
-      "github": "nabil-devs"
-    },
-    "record": {
-      "CNAME": "cname.vercel-dns-017.com."
-    }
-  },
-  {
     "domain": "nur",
     "owner": {
       "github": "neurofumo"
@@ -1049,7 +455,7 @@
       "github": "Kashan-2912"
     },
     "record": {
-      "CNAME": "7c3cec1f532f0978.vercel-dns-017.com."
+      "CNAME": "7c3cec1f532f0978.vercel-dns-017.com"
     }
   },
   {
@@ -1059,15 +465,6 @@
     },
     "record": {
       "CNAME": "officialrajdeepsingh.netlify.app"
-    }
-  },
-  {
-    "domain": "openbothost",
-    "owner": {
-      "github": "oyepriyansh"
-    },
-    "record": {
-      "CNAME": "589a650f66611301.vercel-dns-017.com."
     }
   },
   {
@@ -1089,25 +486,7 @@
     }
   },
   {
-    "domain": "panel",
-    "owner": {
-      "github": "iToady1977"
-    },
-    "record": {
-      "A": "172.238.171.105"
-    }
-  },
-  {
     "domain": "panel.naga6767",
-    "owner": {
-      "github": "Kyoura-DE"
-    },
-    "record": {
-      "A": "159.195.33.255"
-    }
-  },
-  {
-    "domain": "panelnaga",
     "owner": {
       "github": "Kyoura-DE"
     },
@@ -1125,30 +504,12 @@
     }
   },
   {
-    "domain": "parsespy",
-    "owner": {
-      "github": "theprinceraj"
-    },
-    "record": {
-      "CNAME": "c5024b8e3497d0d3.vercel-dns-017.com"
-    }
-  },
-  {
     "domain": "passgen",
     "owner": {
       "github": "MOHITYADAV31"
     },
     "record": {
       "CNAME": "2f8de60eda8fe7df.vercel-dns-017.com."
-    }
-  },
-  {
-    "domain": "patela",
-    "owner": {
-      "github": "patelg07"
-    },
-    "record": {
-      "A": "134.122.6.172"
     }
   },
   {
@@ -1170,57 +531,12 @@
     }
   },
   {
-    "domain": "pornhub",
-    "owner": {
-      "github": "officialturbo"
-    },
-    "record": {
-      "CNAME": "pornhub.com"
-    }
-  },
-  {
     "domain": "prasad",
     "owner": {
       "github": "priyazsh"
     },
     "record": {
       "CNAME": "priyazsh.github.io"
-    }
-  },
-  {
-    "domain": "pratik",
-    "owner": {
-      "github": "pratikdas018"
-    },
-    "record": {
-      "CNAME": "pratik-code-stride-delta.vercel.app"
-    }
-  },
-  {
-    "domain": "qr",
-    "owner": {
-      "github": "Abhinavpatra"
-    },
-    "record": {
-      "CNAME": "qr-download.vercel.app"
-    }
-  },
-  {
-    "domain": "quickpedia",
-    "owner": {
-      "github": "wikifamily"
-    },
-    "record": {
-      "A": "192.168.1.1"
-    }
-  },
-  {
-    "domain": "railgun",
-    "owner": {
-      "github": "repyh"
-    },
-    "record": {
-      "TXT": "vc-domain-verify=railgun.is-a.software,e031b7d92834f43e0079"
     }
   },
   {
@@ -1260,57 +576,12 @@
     }
   },
   {
-    "domain": "resu-mail",
-    "owner": {
-      "github": "Sid20rathi"
-    },
-    "record": {
-      "TXT": "vc-domain-verify=resu-mail.is-a.software,a9cde3c8251ed3347996"
-    }
-  },
-  {
-    "domain": "resumail",
-    "owner": {
-      "github": "Sid20rathi"
-    },
-    "record": {
-      "TXT": "vc-domain-verify=resu-mail.is-a.software,a9cde3c8251ed3347996"
-    }
-  },
-  {
     "domain": "retailinsightsassistant",
     "owner": {
       "github": "ImSanjayChintha"
     },
     "record": {
       "CNAME": "private-gcp-459717.web.app"
-    }
-  },
-  {
-    "domain": "rifan",
-    "owner": {
-      "github": "rifnganadha"
-    },
-    "record": {
-      "CNAME": "talentanusantara.com"
-    }
-  },
-  {
-    "domain": "rl",
-    "owner": {
-      "github": "TheUselessCreator"
-    },
-    "record": {
-      "CNAME": "theuselesscreator.github.io"
-    }
-  },
-  {
-    "domain": "rrobles",
-    "owner": {
-      "github": "rroblsgo"
-    },
-    "record": {
-      "CNAME": "03-astro-blog-rrobles.netlify.app"
     }
   },
   {
@@ -1323,15 +594,6 @@
     }
   },
   {
-    "domain": "sakellarios",
-    "owner": {
-      "github": "sakellarios"
-    },
-    "record": {
-      "CNAME": "sandbox.sakellarios.org"
-    }
-  },
-  {
     "domain": "saksham",
     "owner": {
       "github": "OshekharO"
@@ -1341,57 +603,12 @@
     }
   },
   {
-    "domain": "sautify",
-    "owner": {
-      "github": "wambugu71"
-    },
-    "record": {
-      "CNAME": "wambugu71.github.io"
-    }
-  },
-  {
     "domain": "sceptrum",
     "owner": {
       "github": "saditya93"
     },
     "record": {
       "CNAME": "harmonious-figolla-a6138b.netlify.app."
-    }
-  },
-  {
-    "domain": "seifbravex",
-    "owner": {
-      "github": "SEIFPROGRAMER"
-    },
-    "record": {
-      "TXT": "zoho-verification=zb82847403.zmverify.zoho.sa"
-    }
-  },
-  {
-    "domain": "sextoy",
-    "owner": {
-      "github": "officialturbo"
-    },
-    "record": {
-      "CNAME": "priyazsh.github.io"
-    }
-  },
-  {
-    "domain": "shivanandasai",
-    "owner": {
-      "github": "ssk090"
-    },
-    "record": {
-      "CNAME": "www.shivanandasai.xyz"
-    }
-  },
-  {
-    "domain": "shubham-santa",
-    "owner": {
-      "github": "Jhubham567"
-    },
-    "record": {
-      "CNAME": "shubham-santa.vercel.app"
     }
   },
   {
@@ -1431,48 +648,12 @@
     }
   },
   {
-    "domain": "stonks",
-    "owner": {
-      "github": "stopthegears"
-    },
-    "record": {
-      "CNAME": "stopthegears.github.io"
-    }
-  },
-  {
-    "domain": "subdomain-owner-verification",
-    "owner": {
-      "github": "AvishkarMandlik"
-    },
-    "record": {
-      "TXT": "a0b7bf00d7e61ca441108a080e0b3c25"
-    }
-  },
-  {
     "domain": "subscribetorubin",
     "owner": {
       "github": "pygod7"
     },
     "record": {
       "CNAME": "bbf1430c2847c6f4.vercel-dns-017.com."
-    }
-  },
-  {
-    "domain": "surething",
-    "owner": {
-      "github": "ConnorBerghoffer"
-    },
-    "record": {
-      "A": "1.1.1.1"
-    }
-  },
-  {
-    "domain": "tanishq.portfolio",
-    "owner": {
-      "github": "TanishqKarnavat"
-    },
-    "record": {
-      "CNAME": "tanishq.portfolio"
     }
   },
   {
@@ -1485,48 +666,12 @@
     }
   },
   {
-    "domain": "testmic",
-    "owner": {
-      "github": "0674011101ilias-netizen"
-    },
-    "record": {
-      "CNAME": "1"
-    }
-  },
-  {
-    "domain": "tests",
-    "owner": {
-      "github": "patelg07"
-    },
-    "record": {
-      "A": "134.122.6.172"
-    }
-  },
-  {
     "domain": "thedailyinsidernews",
     "owner": {
       "github": "salmaahmed2026"
     },
     "record": {
       "A": "185.199.108.153"
-    }
-  },
-  {
-    "domain": "this",
-    "owner": {
-      "github": "Stay-Toxicsec"
-    },
-    "record": {
-      "CNAME": "glistening-griffin-70d588.netlify.app"
-    }
-  },
-  {
-    "domain": "true",
-    "owner": {
-      "github": "Stay-Toxicsec"
-    },
-    "record": {
-      "CNAME": "stoic-night-05537.pktriot.xyz"
     }
   },
   {
@@ -1575,40 +720,12 @@
     }
   },
   {
-    "domain": "vercel",
-    "owner": {
-      "github": "SEIFPROGRAMER"
-    },
-    "record": {
-      "TXT": "vc-domain-verify=bravex.is-a.software,481d4edffe77a8a9d8a0"
-    }
-  },
-  {
     "domain": "verifyai",
     "owner": {
       "github": "HakkanShah"
     },
     "record": {
       "CNAME": "5a81d59aa7ddf69d.vercel-dns-017.com."
-    }
-  },
-  {
-    "domain": "veu",
-    "owner": {
-      "github": "chinfosieeuw9-prog"
-    },
-    "record": {
-      "CNAME": "vitaljobs.nl"
-    }
-  },
-  {
-    "domain": "vexel",
-    "owner": {
-      "github": "Priyansxu"
-    },
-    "record": {
-      "CNAME": "bc69006b0de0cc58.vercel-dns-017.com",
-      "TXT": "vc-domain-verify=vexel.is-a.software,85b42c4202dfb93f68f2"
     }
   },
   {
@@ -1621,15 +738,6 @@
     }
   },
   {
-    "domain": "videoeditingdracula",
-    "owner": {
-      "github": "Nosferatu-Dracula"
-    },
-    "record": {
-      "TXT": "https://github.com/Nosferatu-Dracula/VideoEditorSite"
-    }
-  },
-  {
     "domain": "vite",
     "owner": {
       "github": "SEIFPROGRAMER"
@@ -1639,57 +747,12 @@
     }
   },
   {
-    "domain": "void-57",
-    "owner": {
-      "github": "void-57"
-    },
-    "record": {
-      "CNAME": "void-57.dev"
-    }
-  },
-  {
-    "domain": "webkanvas",
-    "owner": {
-      "github": "antoniokadid"
-    },
-    "record": {
-      "CNAME": "webkanvas.dev"
-    }
-  },
-  {
-    "domain": "who",
-    "owner": {
-      "github": "sixseries"
-    },
-    "record": {
-      "CNAME": "fourmiles.xyz"
-    }
-  },
-  {
     "domain": "www",
     "owner": {
       "github": "priyazsh"
     },
     "record": {
       "CNAME": "0847c7d52365cc5b.vercel-dns-017.com."
-    }
-  },
-  {
-    "domain": "yeyenmulus",
-    "owner": {
-      "github": "tasyaku1"
-    },
-    "record": {
-      "CNAME": "msp7hutaw4gt861.static2.studio"
-    }
-  },
-  {
-    "domain": "yogesh",
-    "owner": {
-      "github": "YogeshMankari35"
-    },
-    "record": {
-      "CNAME": "yogesh.com"
     }
   },
   {
