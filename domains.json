@@ -117,6 +117,15 @@
     }
   },
   {
+    "domain": "deme",
+    "owner": {
+      "github": "davafvaca"
+    },
+    "record": {
+      "TXT": "sss"
+    }
+  },
+  {
     "domain": "dev2forge",
     "owner": {
       "github": "Dev2Forge"
