@@ -117,6 +117,16 @@
     }
   },
   {
+    "domain": "dev2forge",
+    "owner": {
+      "github": "tutosrive"
+    },
+    "record": {
+      "CNAME": "dev2forge.github.io",
+      "TXT": "561029c599652cf8ea19e44a1aba44"
+    }
+  },
+  {
     "domain": "devarshidev",
     "owner": {
       "github": "devarshishimpi"
