@@ -220,6 +220,15 @@
     }
   },
   {
+    "domain": "ezdc",
+    "owner": {
+      "github": "davafvaca"
+    },
+    "record": {
+      "TXT": "ccc"
+    }
+  },
+  {
     "domain": "farmbot",
     "owner": {
       "github": "DogIcing"
