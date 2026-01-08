@@ -463,15 +463,6 @@
     }
   },
   {
-    "domain": "objektify",
-    "owner": {
-      "github": "Kashan-2912"
-    },
-    "record": {
-      "CNAME": "7c3cec1f532f0978.vercel-dns-017.com"
-    }
-  },
-  {
     "domain": "officialrajdeepsingh",
     "owner": {
       "github": "officialrajdeepsingh"
