@@ -175,6 +175,15 @@
     }
   },
   {
+    "domain": "dls.cama",
+    "owner": {
+      "github": "davafvaca"
+    },
+    "record": {
+      "TXT": "ss"
+    }
+  },
+  {
     "domain": "docs",
     "owner": {
       "github": "priyazsh"
