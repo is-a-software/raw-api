@@ -787,6 +787,15 @@
     }
   },
   {
+    "domain": "www.kawaiianime",
+    "owner": {
+      "github": "mdforhad80"
+    },
+    "record": {
+      "CNAME": "ghs.google.com"
+    }
+  },
+  {
     "domain": "your-mom",
     "owner": {
       "github": "MAXVEL187"
