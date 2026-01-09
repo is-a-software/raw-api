@@ -319,6 +319,15 @@
     }
   },
   {
+    "domain": "i-contain-robot-dna",
+    "owner": {
+      "github": "sektanaymikon"
+    },
+    "record": {
+      "A": "51.222.141.36"
+    }
+  },
+  {
     "domain": "ilyasabdat",
     "owner": {
       "github": "breabdat"
