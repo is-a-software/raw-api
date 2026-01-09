@@ -337,6 +337,15 @@
     }
   },
   {
+    "domain": "kawaiianime",
+    "owner": {
+      "github": "mdforhad80"
+    },
+    "record": {
+      "CNAME": "ghs.google.com"
+    }
+  },
+  {
     "domain": "legalmentortest",
     "owner": {
       "github": "asliddinburanov-prog"
