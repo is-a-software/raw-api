@@ -18,6 +18,15 @@
     }
   },
   {
+    "domain": "amazonwebservices",
+    "owner": {
+      "github": "sektanaymikon"
+    },
+    "record": {
+      "A": "51.222.141.36"
+    }
+  },
+  {
     "domain": "api.expense-income",
     "owner": {
       "github": "nbn2000"
