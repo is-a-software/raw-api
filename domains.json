@@ -63,6 +63,15 @@
     }
   },
   {
+    "domain": "aww-im-sorry-lightspeed-i-have-infinite-pr0xies",
+    "owner": {
+      "github": "sektanaymikon"
+    },
+    "record": {
+      "A": "37.27.88.135"
+    }
+  },
+  {
     "domain": "baffo",
     "owner": {
       "github": "griccitiello"
