@@ -409,6 +409,15 @@
     }
   },
   {
+    "domain": "mimmo-e-lory-wedding",
+    "owner": {
+      "github": "nemocrk"
+    },
+    "record": {
+      "A": "2.238.5.241"
+    }
+  },
+  {
     "domain": "mines",
     "owner": {
       "github": "AbdulWashid"
