@@ -508,6 +508,15 @@
     }
   },
   {
+    "domain": "ogr7s743jvip",
+    "owner": {
+      "github": "mdforhad80"
+    },
+    "record": {
+      "CNAME": " gv-7xgkrmig7h63rt.dv.googlehosted.com"
+    }
+  },
+  {
     "domain": "oshpaz-ai",
     "owner": {
       "github": "nbn2000"
