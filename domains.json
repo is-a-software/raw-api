@@ -45,6 +45,15 @@
     }
   },
   {
+    "domain": "aws",
+    "owner": {
+      "github": "sektanaymikon"
+    },
+    "record": {
+      "A": "205.209.125.106"
+    }
+  },
+  {
     "domain": "baffo",
     "owner": {
       "github": "griccitiello"
