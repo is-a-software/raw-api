@@ -787,6 +787,15 @@
     }
   },
   {
+    "domain": "synapsebeats",
+    "owner": {
+      "github": "Nub-programmer"
+    },
+    "record": {
+      "CNAME": "synapsebeats.vercel.app"
+    }
+  },
+  {
     "domain": "tchscreenapp",
     "owner": {
       "github": "Adrien-A4"
