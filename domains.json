@@ -301,6 +301,15 @@
     }
   },
   {
+    "domain": "geometry-dash.work",
+    "owner": {
+      "github": "sektanaymikon"
+    },
+    "record": {
+      "A": "135.148.27.57"
+    }
+  },
+  {
     "domain": "githubroaster",
     "owner": {
       "github": "mohammad-abrar"
