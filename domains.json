@@ -1,5 +1,14 @@
 [
   {
+    "domain": ".",
+    "owner": {
+      "github": "tutosrive"
+    },
+    "record": {
+      "TXT": "google-site-verification=liJSvT9ws6XGH_PkUhiMpRmdrAADsir1AI0pgL7GgSg"
+    }
+  },
+  {
     "domain": "algorithms",
     "owner": {
       "github": "saksham-shekher"
