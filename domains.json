@@ -810,6 +810,15 @@
     }
   },
   {
+    "domain": "surveys.dev2forge",
+    "owner": {
+      "github": "tutosrive"
+    },
+    "record": {
+      "CNAME": "ghs.googlehosted.com"
+    }
+  },
+  {
     "domain": "synapsebeats",
     "owner": {
       "github": "Nub-programmer"
