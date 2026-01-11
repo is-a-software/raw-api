@@ -189,19 +189,6 @@
     }
   },
   {
-    "domain": "dev2forge",
-    "owner": {
-      "github": "Dev2Forge"
-    },
-    "record": {
-      "CNAME": "dev2forge.github.io",
-      "TXT": [
-        "561029c599652cf8ea19e44a1aba44",
-        "_github-pages-challenge-dev2forge=<TU_TOKEN_GH_PAGES>"
-      ]
-    }
-  },
-  {
     "domain": "devarshidev",
     "owner": {
       "github": "devarshishimpi"
