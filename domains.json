@@ -144,15 +144,6 @@
     }
   },
   {
-    "domain": "codetrackx",
-    "owner": {
-      "github": "Starlord87official"
-    },
-    "record": {
-      "A": "76.76.21.21"
-    }
-  },
-  {
     "domain": "covergenius",
     "owner": {
       "github": "theprinceraj"
