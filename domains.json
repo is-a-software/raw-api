@@ -1,14 +1,5 @@
 [
   {
-    "domain": "3j4hkv755nyt",
-    "owner": {
-      "github": "tutosrive"
-    },
-    "record": {
-      "CNAME": "gv-gwkh4ttxxwyhja.dv.googlehosted.com"
-    }
-  },
-  {
     "domain": "algorithms",
     "owner": {
       "github": "saksham-shekher"
