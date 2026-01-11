@@ -261,6 +261,15 @@
     }
   },
   {
+    "domain": "docs.dev2forge",
+    "owner": {
+      "github": "tutosrive"
+    },
+    "record": {
+      "CNAME": "dev2forge.github.io"
+    }
+  },
+  {
     "domain": "ecommerce",
     "owner": {
       "github": "alraakib"
