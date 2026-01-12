@@ -405,6 +405,15 @@
     }
   },
   {
+    "domain": "ikrdikhit",
+    "owner": {
+      "github": "ikrdikhit"
+    },
+    "record": {
+      "CNAME": "dikhit.pages.dev"
+    }
+  },
+  {
     "domain": "ilyasabdat",
     "owner": {
       "github": "breabdat"
