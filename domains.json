@@ -234,6 +234,15 @@
     }
   },
   {
+    "domain": "dikhit",
+    "owner": {
+      "github": "ikrdikhit"
+    },
+    "record": {
+      "CNAME": "dikhit.pages.dev"
+    }
+  },
+  {
     "domain": "dixo",
     "owner": {
       "github": "aryanshrai03"
