@@ -846,6 +846,15 @@
     }
   },
   {
+    "domain": "swell-history",
+    "owner": {
+      "github": "vpedrosa"
+    },
+    "record": {
+      "A": "84.247.130.197"
+    }
+  },
+  {
     "domain": "synapsebeats",
     "owner": {
       "github": "Nub-programmer"
