@@ -387,6 +387,15 @@
     }
   },
   {
+    "domain": "gitquest",
+    "owner": {
+      "github": "Kashan-2912"
+    },
+    "record": {
+      "CNAME": "8365acb13f4e96fd.vercel-dns-017.com."
+    }
+  },
+  {
     "domain": "glasschat",
     "owner": {
       "github": "iFreaku"
