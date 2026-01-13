@@ -855,6 +855,15 @@
     }
   },
   {
+    "domain": "techforges",
+    "owner": {
+      "github": "Sharavarora1212"
+    },
+    "record": {
+      "TXT": "https://sites.google.com/view/techforges/"
+    }
+  },
+  {
     "domain": "thedailyinsidernews",
     "owner": {
       "github": "salmaahmed2026"
