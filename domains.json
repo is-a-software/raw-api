@@ -414,6 +414,15 @@
     }
   },
   {
+    "domain": "googleslides",
+    "owner": {
+      "github": "averyrivera7919-tech"
+    },
+    "record": {
+      "CNAME": "google.slides"
+    }
+  },
+  {
     "domain": "here",
     "owner": {
       "github": "Stay-Toxicsec"
