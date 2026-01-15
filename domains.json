@@ -477,6 +477,15 @@
     }
   },
   {
+    "domain": "jotes",
+    "owner": {
+      "github": "Basim-Shahzad"
+    },
+    "record": {
+      "CNAME": "google.com"
+    }
+  },
+  {
     "domain": "kawaiianime",
     "owner": {
       "github": "mdforhad80"
