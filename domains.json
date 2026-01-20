@@ -153,15 +153,6 @@
     }
   },
   {
-    "domain": "clerk.seron",
-    "owner": {
-      "github": "Priyansxu"
-    },
-    "record": {
-      "CNAME": "frontend-api.clerk.services"
-    }
-  },
-  {
     "domain": "cloudflare.darknova.aws",
     "owner": {
       "github": "sektanaymikon"
