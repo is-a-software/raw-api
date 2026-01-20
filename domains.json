@@ -171,6 +171,15 @@
     }
   },
   {
+    "domain": "clkmail.seron",
+    "owner": {
+      "github": "Priyansxu"
+    },
+    "record": {
+      "CNAME": "mail.gm1nbjhq4koi.clerk.services"
+    }
+  },
+  {
     "domain": "cloudflare.darknova.aws",
     "owner": {
       "github": "sektanaymikon"
