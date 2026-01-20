@@ -9,6 +9,15 @@
     }
   },
   {
+    "domain": "accounts.seron",
+    "owner": {
+      "github": "Priyansxu"
+    },
+    "record": {
+      "CNAME": "accounts.clerk.services"
+    }
+  },
+  {
     "domain": "algorithms",
     "owner": {
       "github": "saksham-shekher"
