@@ -180,15 +180,6 @@
     }
   },
   {
-    "domain": "clk2.domainkey.seron",
-    "owner": {
-      "github": "Priyansxu"
-    },
-    "record": {
-      "CNAME": "dkim2.gm1nbjhq4koi.clerk.services"
-    }
-  },
-  {
     "domain": "clkmail.seron",
     "owner": {
       "github": "Priyansxu"
