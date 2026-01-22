@@ -9,6 +9,15 @@
     }
   },
   {
+    "domain": "3j4hkv755nyt.dev2forge",
+    "owner": {
+      "github": "tutosrive"
+    },
+    "record": {
+      "CNAME": "gv-gwkh4ttxxwyhja.dv.googlehosted.com"
+    }
+  },
+  {
     "domain": "accounts.seron",
     "owner": {
       "github": "Priyansxu"
