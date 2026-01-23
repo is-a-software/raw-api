@@ -225,15 +225,6 @@
     }
   },
   {
-    "domain": "codingchallenge",
-    "owner": {
-      "github": "aronkanabe"
-    },
-    "record": {
-      "CNAME": "41adacda-c6c7-408e-92e8-c44ebe4606d3.cfargotunnel.com"
-    }
-  },
-  {
     "domain": "covergenius",
     "owner": {
       "github": "theprinceraj"
