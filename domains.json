@@ -999,6 +999,15 @@
     }
   },
   {
+    "domain": "tabtab",
+    "owner": {
+      "github": "7aimez"
+    },
+    "record": {
+      "CNAME": "tabtabapp.onrender.com"
+    }
+  },
+  {
     "domain": "tchscreenapp",
     "owner": {
       "github": "Adrien-A4"
