@@ -747,6 +747,15 @@
     }
   },
   {
+    "domain": "nxd4elzqqoot",
+    "owner": {
+      "github": "mdforhad80"
+    },
+    "record": {
+      "CNAME": "gv-cge3urceqdfj3w.dv.googlehosted.com"
+    }
+  },
+  {
     "domain": "officialrajdeepsingh",
     "owner": {
       "github": "officialrajdeepsingh"
