@@ -963,6 +963,15 @@
     }
   },
   {
+    "domain": "streamflix",
+    "owner": {
+      "github": "mdforhad80"
+    },
+    "record": {
+      "CNAME": "ghs.google.com"
+    }
+  },
+  {
     "domain": "subscribetorubin",
     "owner": {
       "github": "pygod7"
