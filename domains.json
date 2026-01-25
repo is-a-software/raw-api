@@ -378,6 +378,15 @@
     }
   },
   {
+    "domain": "emrequality",
+    "owner": {
+      "github": "NightDHA"
+    },
+    "record": {
+      "CNAME": "emrequality"
+    }
+  },
+  {
     "domain": "ennbx",
     "owner": {
       "github": "FWEEaaaa1"
