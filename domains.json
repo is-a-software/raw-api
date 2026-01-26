@@ -1098,6 +1098,15 @@
     }
   },
   {
+    "domain": "theyomusic",
+    "owner": {
+      "github": "Shubhamnpk"
+    },
+    "record": {
+      "CNAME": "theyomusic.vercel.app"
+    }
+  },
+  {
     "domain": "thisaiwebsite",
     "owner": {
       "github": "ethembeldagli"
