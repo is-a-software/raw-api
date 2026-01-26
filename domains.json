@@ -873,6 +873,15 @@
     }
   },
   {
+    "domain": "quiz-app-laravel",
+    "owner": {
+      "github": "karanhb-pixel"
+    },
+    "record": {
+      "CNAME": "quiz-app-laravel"
+    }
+  },
+  {
     "domain": "raw",
     "owner": {
       "github": "priyazsh"
