@@ -783,6 +783,15 @@
     }
   },
   {
+    "domain": "openbio",
+    "owner": {
+      "github": "svnty"
+    },
+    "record": {
+      "CNAME": "openbio-os.github.io"
+    }
+  },
+  {
     "domain": "oshpaz-ai",
     "owner": {
       "github": "nbn2000"
