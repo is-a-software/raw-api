@@ -1080,6 +1080,15 @@
     }
   },
   {
+    "domain": "thisaiwebsite",
+    "owner": {
+      "github": "ethembeldagli"
+    },
+    "record": {
+      "CNAME": "aisite-1sn.pages.dev"
+    }
+  },
+  {
     "domain": "ues",
     "owner": {
       "github": "vinothkumar2"
