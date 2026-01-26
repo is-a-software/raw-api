@@ -1206,6 +1206,15 @@
     }
   },
   {
+    "domain": "yomusic",
+    "owner": {
+      "github": "Shubhamnpk"
+    },
+    "record": {
+      "CNAME": "theyomusic.vercel.app"
+    }
+  },
+  {
     "domain": "your-mom",
     "owner": {
       "github": "MAXVEL187"
