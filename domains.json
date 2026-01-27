@@ -711,6 +711,15 @@
     }
   },
   {
+    "domain": "myn8n",
+    "owner": {
+      "github": "matrly-swdev"
+    },
+    "record": {
+      "CNAME": "myn8n.loca.lt"
+    }
+  },
+  {
     "domain": "neuro",
     "owner": {
       "github": "neurofumo"
