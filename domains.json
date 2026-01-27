@@ -1267,5 +1267,14 @@
     "record": {
       "CNAME": "b6e7c84db676792c.vercel-dns-017.com."
     }
+  },
+  {
+    "domain": "zb68483585.proasia",
+    "owner": {
+      "github": "drmmpro"
+    },
+    "record": {
+      "CNAME": "domain.zoho.com"
+    }
   }
 ]
