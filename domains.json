@@ -972,6 +972,15 @@
     }
   },
   {
+    "domain": "skinfo",
+    "owner": {
+      "github": "7aimez"
+    },
+    "record": {
+      "CNAME": "skinfo.onrender.com"
+    }
+  },
+  {
     "domain": "smegrc",
     "owner": {
       "github": "gvhees"
