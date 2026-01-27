@@ -702,6 +702,15 @@
     }
   },
   {
+    "domain": "myautomation",
+    "owner": {
+      "github": "matrly-swdev"
+    },
+    "record": {
+      "CNAME": "myautomationtest"
+    }
+  },
+  {
     "domain": "neuro",
     "owner": {
       "github": "neurofumo"
