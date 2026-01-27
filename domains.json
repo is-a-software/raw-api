@@ -900,15 +900,6 @@
     }
   },
   {
-    "domain": "proadia",
-    "owner": {
-      "github": "drmmpro"
-    },
-    "record": {
-      "CNAME": "domain.zoho.com"
-    }
-  },
-  {
     "domain": "proasia",
     "owner": {
       "github": "drmmpro"
