@@ -900,6 +900,15 @@
     }
   },
   {
+    "domain": "proadia",
+    "owner": {
+      "github": "drmmpro"
+    },
+    "record": {
+      "CNAME": "domain.zoho.com"
+    }
+  },
+  {
     "domain": "quiz-app-laravel",
     "owner": {
       "github": "karanhb-pixel"
