@@ -1152,6 +1152,15 @@
     }
   },
   {
+    "domain": "this",
+    "owner": {
+      "github": "mcneds"
+    },
+    "record": {
+      "CNAME": "A"
+    }
+  },
+  {
     "domain": "thisaiwebsite",
     "owner": {
       "github": "ethembeldagli"
