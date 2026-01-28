@@ -972,6 +972,15 @@
     }
   },
   {
+    "domain": "rizua",
+    "owner": {
+      "github": "rizuashafiqi93"
+    },
+    "record": {
+      "CNAME": "rizuashafiqi93.github.io"
+    }
+  },
+  {
     "domain": "rubinyoutubeop",
     "owner": {
       "github": "pygod7"
