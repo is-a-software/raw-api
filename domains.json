@@ -1089,6 +1089,15 @@
     }
   },
   {
+    "domain": "swift",
+    "owner": {
+      "github": "gold-is-eepy-now"
+    },
+    "record": {
+      "CNAME": "gold-is-eepy-now.github.io"
+    }
+  },
+  {
     "domain": "synapsebeats",
     "owner": {
       "github": "Nub-programmer"
