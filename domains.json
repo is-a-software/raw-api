@@ -810,6 +810,15 @@
     }
   },
   {
+    "domain": "omnia",
+    "owner": {
+      "github": "tutosrive"
+    },
+    "record": {
+      "CNAME": "omnia-ak5.pages.dev"
+    }
+  },
+  {
     "domain": "openbio",
     "owner": {
       "github": "svnty"
