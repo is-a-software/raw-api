@@ -531,6 +531,15 @@
     }
   },
   {
+    "domain": "huiscool",
+    "owner": {
+      "github": "Poochley"
+    },
+    "record": {
+      "A": "149.56.128.250"
+    }
+  },
+  {
     "domain": "i-contain-robot-dna",
     "owner": {
       "github": "sektanaymikon"
