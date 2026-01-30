@@ -639,6 +639,15 @@
     }
   },
   {
+    "domain": "lynfera",
+    "owner": {
+      "github": "AmalJose664"
+    },
+    "record": {
+      "CNAME": "connectify-roan-five.vercel.app"
+    }
+  },
+  {
     "domain": "manstral",
     "owner": {
       "github": "zannbjir"
