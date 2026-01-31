@@ -549,6 +549,15 @@
     }
   },
   {
+    "domain": "hytalecom",
+    "owner": {
+      "github": "Novza-1"
+    },
+    "record": {
+      "TXT": "https://bloxd.io/"
+    }
+  },
+  {
     "domain": "i-contain-robot-dna",
     "owner": {
       "github": "sektanaymikon"
