@@ -1161,6 +1161,15 @@
     }
   },
   {
+    "domain": "studyos",
+    "owner": {
+      "github": "AbdulKarimBukhshAnsari"
+    },
+    "record": {
+      "CNAME": "study-os-ten.vercel.app"
+    }
+  },
+  {
     "domain": "subscribetorubin",
     "owner": {
       "github": "pygod7"
