@@ -549,6 +549,15 @@
     }
   },
   {
+    "domain": "homework.math",
+    "owner": {
+      "github": "Novza-1"
+    },
+    "record": {
+      "A": "172.67.68.39"
+    }
+  },
+  {
     "domain": "huiscool",
     "owner": {
       "github": "Poochley"
