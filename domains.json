@@ -657,6 +657,15 @@
     }
   },
   {
+    "domain": "math.study.cado.ro.cdn.cloudschool",
+    "owner": {
+      "github": "efsdf80-debug"
+    },
+    "record": {
+      "CNAME": "bloxd.io"
+    }
+  },
+  {
     "domain": "maxlol",
     "owner": {
       "github": "motionzlol"
