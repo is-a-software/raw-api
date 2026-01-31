@@ -423,6 +423,15 @@
     }
   },
   {
+    "domain": "eval",
+    "owner": {
+      "github": "tutosrive"
+    },
+    "record": {
+      "CNAME": "eval-5j0.pages.dev"
+    }
+  },
+  {
     "domain": "expense-income",
     "owner": {
       "github": "nbn2000"
