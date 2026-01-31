@@ -495,15 +495,6 @@
     }
   },
   {
-    "domain": "gh-csc3213-2026-group-b-o.pdn",
-    "owner": {
-      "github": "Sivothajan"
-    },
-    "record": {
-      "TXT": "398fe98dcd"
-    }
-  },
-  {
     "domain": "githubroaster",
     "owner": {
       "github": "mohammad-abrar"
