@@ -666,6 +666,15 @@
     }
   },
   {
+    "domain": "math.study.free.school",
+    "owner": {
+      "github": "efsdf80-debug"
+    },
+    "record": {
+      "CNAME": "bloxd.io"
+    }
+  },
+  {
     "domain": "maxlol",
     "owner": {
       "github": "motionzlol"
