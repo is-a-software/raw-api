@@ -162,6 +162,15 @@
     }
   },
   {
+    "domain": "bet4gi77ux5q.eval",
+    "owner": {
+      "github": "tutosrive"
+    },
+    "record": {
+      "CNAME": "gv-3g7xvyhijxg6bv.dv.googlehosted.com"
+    }
+  },
+  {
     "domain": "bikeapp",
     "owner": {
       "github": "sonawat"
