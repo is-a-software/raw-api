@@ -1429,5 +1429,14 @@
     "record": {
       "CNAME": "b6e7c84db676792c.vercel-dns-017.com."
     }
+  },
+  {
+    "domain": "zrqf2u4nzsv4.omnia",
+    "owner": {
+      "github": "tutosrive"
+    },
+    "record": {
+      "CNAME": "gv-7zuvljjseo3aa3.dv.googlehosted.com"
+    }
   }
 ]
