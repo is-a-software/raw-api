@@ -486,6 +486,15 @@
     }
   },
   {
+    "domain": "gallery",
+    "owner": {
+      "github": "Dilshad-99"
+    },
+    "record": {
+      "CNAME": "2c217cca9b9ddb67.vercel-dns-017.com."
+    }
+  },
+  {
     "domain": "geometry-dash.work",
     "owner": {
       "github": "sektanaymikon"
