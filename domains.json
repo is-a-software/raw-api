@@ -504,15 +504,6 @@
     }
   },
   {
-    "domain": "github-pages-challenge-csc3213-2026-group-b.pdn",
-    "owner": {
-      "github": "Sivothajan"
-    },
-    "record": {
-      "TXT": "dfedbb2e7ad1351fafcf57ec9b9149"
-    }
-  },
-  {
     "domain": "githubroaster",
     "owner": {
       "github": "mohammad-abrar"
