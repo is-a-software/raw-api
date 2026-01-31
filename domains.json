@@ -414,6 +414,15 @@
     }
   },
   {
+    "domain": "esta123",
+    "owner": {
+      "github": "Novza-1"
+    },
+    "record": {
+      "CNAME": "Bloxd.io"
+    }
+  },
+  {
     "domain": "expense-income",
     "owner": {
       "github": "nbn2000"
