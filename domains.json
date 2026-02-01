@@ -27,6 +27,15 @@
     }
   },
   {
+    "domain": "ahmed-momen",
+    "owner": {
+      "github": "C1ANCYSz"
+    },
+    "record": {
+      "CNAME": "ahmed-momen.vercel.app"
+    }
+  },
+  {
     "domain": "algorithms",
     "owner": {
       "github": "saksham-shekher"
