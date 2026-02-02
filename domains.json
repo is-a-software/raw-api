@@ -1,14 +1,5 @@
 [
   {
-    "domain": ".",
-    "owner": {
-      "github": "tutosrive"
-    },
-    "record": {
-      "TXT": "google-site-verification=liJSvT9ws6XGH_PkUhiMpRmdrAADsir1AI0pgL7GgSg"
-    }
-  },
-  {
     "domain": "3j4hkv755nyt.dev2forge",
     "owner": {
       "github": "tutosrive"
@@ -24,15 +15,6 @@
     },
     "record": {
       "CNAME": "accounts.clerk.services"
-    }
-  },
-  {
-    "domain": "ahmed-momen",
-    "owner": {
-      "github": "C1ANCYSz"
-    },
-    "record": {
-      "CNAME": "ahmed-momen.vercel.app"
     }
   },
   {
@@ -307,15 +289,6 @@
     }
   },
   {
-    "domain": "delhiescort",
-    "owner": {
-      "github": "Yash-Patel26"
-    },
-    "record": {
-      "CNAME": "empirerial-escort.vercel.app"
-    }
-  },
-  {
     "domain": "deme",
     "owner": {
       "github": "davafvaca"
@@ -583,15 +556,6 @@
     },
     "record": {
       "A": "185.199.108.153"
-    }
-  },
-  {
-    "domain": "googleslides",
-    "owner": {
-      "github": "averyrivera7919-tech"
-    },
-    "record": {
-      "CNAME": "google.slides"
     }
   },
   {
@@ -1207,15 +1171,6 @@
     }
   },
   {
-    "domain": "studyos",
-    "owner": {
-      "github": "AbdulKarimBukhshAnsari"
-    },
-    "record": {
-      "CNAME": "study-os-ten.vercel.app"
-    }
-  },
-  {
     "domain": "subscribetorubin",
     "owner": {
       "github": "pygod7"
@@ -1312,15 +1267,6 @@
     },
     "record": {
       "A": "185.199.108.153"
-    }
-  },
-  {
-    "domain": "theyomusic",
-    "owner": {
-      "github": "Shubhamnpk"
-    },
-    "record": {
-      "CNAME": "theyomusic.vercel.app"
     }
   },
   {
@@ -1438,15 +1384,6 @@
     },
     "record": {
       "CNAME": "ghs.google.com"
-    }
-  },
-  {
-    "domain": "yomusic",
-    "owner": {
-      "github": "Shubhamnpk"
-    },
-    "record": {
-      "CNAME": "theyomusic.vercel.app"
     }
   },
   {
