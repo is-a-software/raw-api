@@ -388,6 +388,15 @@
     }
   },
   {
+    "domain": "dravion",
+    "owner": {
+      "github": "RoboWhisperer"
+    },
+    "record": {
+      "CNAME": "dravion-bot.pages.dev"
+    }
+  },
+  {
     "domain": "ecommerce",
     "owner": {
       "github": "alraakib"
