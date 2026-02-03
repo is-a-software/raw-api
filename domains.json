@@ -568,6 +568,15 @@
     }
   },
   {
+    "domain": "hamazdev",
+    "owner": {
+      "github": "hamaz562006"
+    },
+    "record": {
+      "A": "5.175.136.27"
+    }
+  },
+  {
     "domain": "here",
     "owner": {
       "github": "Stay-Toxicsec"
