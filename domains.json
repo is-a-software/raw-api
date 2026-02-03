@@ -1135,15 +1135,6 @@
     }
   },
   {
-    "domain": "send.stream-scribe",
-    "owner": {
-      "github": "Kashan-2912"
-    },
-    "record": {
-      "TXT": "v=spf1 include:amazonses.com ~all"
-    }
-  },
-  {
     "domain": "seron",
     "owner": {
       "github": "Priyansxu"
