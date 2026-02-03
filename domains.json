@@ -1261,15 +1261,6 @@
     }
   },
   {
-    "domain": "tanveer-electrical-services",
-    "owner": {
-      "github": "arehmanbutt112"
-    },
-    "record": {
-      "CNAME": "tanveer-electrical-services.onrender.com"
-    }
-  },
-  {
     "domain": "taskmanager",
     "owner": {
       "github": "108charlotte"
