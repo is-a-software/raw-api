@@ -1225,15 +1225,6 @@
     }
   },
   {
-    "domain": "southspooncafe",
-    "owner": {
-      "github": "Starlord87official"
-    },
-    "record": {
-      "A": "185.158.133.1"
-    }
-  },
-  {
     "domain": "streamflix",
     "owner": {
       "github": "mdforhad80"
