@@ -63,6 +63,15 @@
     }
   },
   {
+    "domain": "anura",
+    "owner": {
+      "github": "Poochley"
+    },
+    "record": {
+      "A": "149.56.128.250"
+    }
+  },
+  {
     "domain": "api.expense-income",
     "owner": {
       "github": "nbn2000"
