@@ -9,6 +9,15 @@
     }
   },
   {
+    "domain": "aaappp",
+    "owner": {
+      "github": "7aimez"
+    },
+    "record": {
+      "CNAME": "aaappp-ece.pages.dev"
+    }
+  },
+  {
     "domain": "accounts.seron",
     "owner": {
       "github": "Priyansxu"
