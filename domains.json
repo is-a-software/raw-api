@@ -1027,6 +1027,15 @@
     }
   },
   {
+    "domain": "papermarket",
+    "owner": {
+      "github": "priyanshbot"
+    },
+    "record": {
+      "CNAME": "priyazsh.github.io"
+    }
+  },
+  {
     "domain": "passgen",
     "owner": {
       "github": "MOHITYADAV31"
