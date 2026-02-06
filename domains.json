@@ -1072,6 +1072,15 @@
     }
   },
   {
+    "domain": "pro03",
+    "owner": {
+      "github": "drmmpro"
+    },
+    "record": {
+      "AAAA": "2001:470:7030::30"
+    }
+  },
+  {
     "domain": "quiz-app-laravel",
     "owner": {
       "github": "karanhb-pixel"
