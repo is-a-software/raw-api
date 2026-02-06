@@ -208,6 +208,15 @@
     }
   },
   {
+    "domain": "chat",
+    "owner": {
+      "github": "IAmA14"
+    },
+    "record": {
+      "CNAME": "chat"
+    }
+  },
+  {
     "domain": "chatbot",
     "owner": {
       "github": "Kashan-2912"
