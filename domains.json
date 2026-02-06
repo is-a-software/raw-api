@@ -1072,15 +1072,6 @@
     }
   },
   {
-    "domain": "proasia",
-    "owner": {
-      "github": "drmmpro"
-    },
-    "record": {
-      "CNAME": "zb68483585.domain.zoho.com"
-    }
-  },
-  {
     "domain": "quiz-app-laravel",
     "owner": {
       "github": "karanhb-pixel"
