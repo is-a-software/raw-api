@@ -613,6 +613,15 @@
     }
   },
   {
+    "domain": "gom",
+    "owner": {
+      "github": "dcwhoever"
+    },
+    "record": {
+      "CNAME": "gom.is-a.software"
+    }
+  },
+  {
     "domain": "hamazdev",
     "owner": {
       "github": "hamaz562006"
