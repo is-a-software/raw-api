@@ -694,6 +694,15 @@
     }
   },
   {
+    "domain": "incog",
+    "owner": {
+      "github": "Poochley"
+    },
+    "record": {
+      "CNAME": "website22-latest.onrender.com"
+    }
+  },
+  {
     "domain": "it",
     "owner": {
       "github": "alraakib"
