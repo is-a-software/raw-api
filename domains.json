@@ -1369,6 +1369,15 @@
     }
   },
   {
+    "domain": "testing",
+    "owner": {
+      "github": "Hacker7766"
+    },
+    "record": {
+      "CNAME": "hacker7766.github.io"
+    }
+  },
+  {
     "domain": "thedailyinsidernews",
     "owner": {
       "github": "salmaahmed2026"
