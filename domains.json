@@ -1216,6 +1216,15 @@
     }
   },
   {
+    "domain": "school-crm-api",
+    "owner": {
+      "github": "prowider5565"
+    },
+    "record": {
+      "A": "77.237.245.47"
+    }
+  },
+  {
     "domain": "seron",
     "owner": {
       "github": "Priyansxu"
