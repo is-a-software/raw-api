@@ -604,6 +604,15 @@
     }
   },
   {
+    "domain": "joki",
+    "owner": {
+      "github": "qwer1892"
+    },
+    "record": {
+      "CNAME": "google.com"
+    }
+  },
+  {
     "domain": "jokowi",
     "owner": {
       "github": "qwer1892"
