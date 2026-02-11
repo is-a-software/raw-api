@@ -397,6 +397,15 @@
     }
   },
   {
+    "domain": "fgxd",
+    "owner": {
+      "github": "fg-xd"
+    },
+    "record": {
+      "CNAME": "fg-xd.github.io"
+    }
+  },
+  {
     "domain": "firstwebsite",
     "owner": {
       "github": "samitTech"
