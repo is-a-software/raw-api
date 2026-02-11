@@ -190,15 +190,6 @@
     }
   },
   {
-    "domain": "clerk.seron",
-    "owner": {
-      "github": "Priyansxu"
-    },
-    "record": {
-      "CNAME": "frontend-api.clerk.services"
-    }
-  },
-  {
     "domain": "clkmail.seron",
     "owner": {
       "github": "Priyansxu"
