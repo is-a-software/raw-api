@@ -541,6 +541,15 @@
     }
   },
   {
+    "domain": "hypros",
+    "owner": {
+      "github": "7aimez"
+    },
+    "record": {
+      "CNAME": "hypros.pages.dev"
+    }
+  },
+  {
     "domain": "i-contain-robot-dna",
     "owner": {
       "github": "sektanaymikon"
