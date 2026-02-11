@@ -163,6 +163,15 @@
     }
   },
   {
+    "domain": "bloxdpacks.fgxd",
+    "owner": {
+      "github": "fg-xd"
+    },
+    "record": {
+      "CNAME": "fg-xd.github.io"
+    }
+  },
+  {
     "domain": "boostify",
     "owner": {
       "github": "pygod7"
