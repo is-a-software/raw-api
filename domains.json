@@ -253,6 +253,15 @@
     }
   },
   {
+    "domain": "depdana",
+    "owner": {
+      "github": "TestCoper"
+    },
+    "record": {
+      "A": "188.121.118.73"
+    }
+  },
+  {
     "domain": "dev2forge",
     "owner": {
       "github": "tutosrive"
