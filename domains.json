@@ -1295,5 +1295,14 @@
     "record": {
       "CNAME": "b6e7c84db676792c.vercel-dns-017.com."
     }
+  },
+  {
+    "domain": "zoranbotarmy",
+    "owner": {
+      "github": "AlirezaLeopard"
+    },
+    "record": {
+      "A": "109.199.120.118"
+    }
   }
 ]
