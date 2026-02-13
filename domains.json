@@ -90,6 +90,15 @@
     }
   },
   {
+    "domain": "arc",
+    "owner": {
+      "github": "Crazygiscool"
+    },
+    "record": {
+      "CNAME": "stellar-graphs-606601.framer.app"
+    }
+  },
+  {
     "domain": "avishkardevportfolio",
     "owner": {
       "github": "AvishkarMandlik"
