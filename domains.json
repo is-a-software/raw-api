@@ -199,6 +199,15 @@
     }
   },
   {
+    "domain": "branzle",
+    "owner": {
+      "github": "kakokiads"
+    },
+    "record": {
+      "CNAME": "gateway.html4life.com"
+    }
+  },
+  {
     "domain": "chat",
     "owner": {
       "github": "IAmA14"
