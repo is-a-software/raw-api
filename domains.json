@@ -487,6 +487,15 @@
     }
   },
   {
+    "domain": "foods",
+    "owner": {
+      "github": "govind-anjana"
+    },
+    "record": {
+      "CNAME": "mandir-foods.vercel.app"
+    }
+  },
+  {
     "domain": "fs",
     "owner": {
       "github": "MAXVEL187"
