@@ -451,6 +451,15 @@
     }
   },
   {
+    "domain": "farrellid",
+    "owner": {
+      "github": "fidxteam"
+    },
+    "record": {
+      "CNAME": "7175fc2c8d03c6fc.vercel-dns-017.com."
+    }
+  },
+  {
     "domain": "fg",
     "owner": {
       "github": "fg-xd"
