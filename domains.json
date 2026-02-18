@@ -1261,6 +1261,15 @@
     }
   },
   {
+    "domain": "tmdb-sentiment",
+    "owner": {
+      "github": "lfaoliveira"
+    },
+    "record": {
+      "CNAME": "0.0.0.0"
+    }
+  },
+  {
     "domain": "ues",
     "owner": {
       "github": "vinothkumar2"
