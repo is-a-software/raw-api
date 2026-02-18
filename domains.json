@@ -604,6 +604,15 @@
     }
   },
   {
+    "domain": "hottrends",
+    "owner": {
+      "github": "salmaahmed2026"
+    },
+    "record": {
+      "A": "185.199.108.153"
+    }
+  },
+  {
     "domain": "huiscool",
     "owner": {
       "github": "Poochley"
