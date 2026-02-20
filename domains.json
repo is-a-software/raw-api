@@ -1171,6 +1171,15 @@
     }
   },
   {
+    "domain": "spicydevs",
+    "owner": {
+      "github": "ikrdikhit"
+    },
+    "record": {
+      "CNAME": "blank"
+    }
+  },
+  {
     "domain": "subscribetorubin",
     "owner": {
       "github": "pygod7"
