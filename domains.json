@@ -1261,6 +1261,15 @@
     }
   },
   {
+    "domain": "testpocht",
+    "owner": {
+      "github": "sskkalless-lgtm"
+    },
+    "record": {
+      "CNAME": "test"
+    }
+  },
+  {
     "domain": "thedailyinsidernews",
     "owner": {
       "github": "salmaahmed2026"
