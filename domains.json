@@ -99,6 +99,15 @@
     }
   },
   {
+    "domain": "arcady",
+    "owner": {
+      "github": "TypicallyOme"
+    },
+    "record": {
+      "CNAME": "typicallyome.github.io"
+    }
+  },
+  {
     "domain": "aurora",
     "owner": {
       "github": "0x7694C9"
