@@ -1018,6 +1018,15 @@
     }
   },
   {
+    "domain": "percept-network",
+    "owner": {
+      "github": "divyanshudhruv"
+    },
+    "record": {
+      "CNAME": "percept-network.vercel.app"
+    }
+  },
+  {
     "domain": "prasad",
     "owner": {
       "github": "priyazsh"
