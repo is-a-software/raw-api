@@ -1405,6 +1405,15 @@
     }
   },
   {
+    "domain": "zia-bot",
+    "owner": {
+      "github": "Ayan-cyber134"
+    },
+    "record": {
+      "CNAME": "zia-bot.netlify.app"
+    }
+  },
+  {
     "domain": "zoranbotarmy",
     "owner": {
       "github": "AlirezaLeopard"
