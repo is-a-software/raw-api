@@ -856,15 +856,6 @@
     }
   },
   {
-    "domain": "ndm",
-    "owner": {
-      "github": "micoms"
-    },
-    "record": {
-      "CNAME": "943cbebd22dd87b7.vercel-dns-017.com"
-    }
-  },
-  {
     "domain": "neuro",
     "owner": {
       "github": "neurofumo"
