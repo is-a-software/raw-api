@@ -1333,6 +1333,15 @@
     }
   },
   {
+    "domain": "thinking",
+    "owner": {
+      "github": "Poochley"
+    },
+    "record": {
+      "A": "51.222.206.184"
+    }
+  },
+  {
     "domain": "thisaiwebsite",
     "owner": {
       "github": "ethembeldagli"
