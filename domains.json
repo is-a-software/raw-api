@@ -1378,6 +1378,15 @@
     }
   },
   {
+    "domain": "vercel.me5years",
+    "owner": {
+      "github": "ilya-ui"
+    },
+    "record": {
+      "TXT": "vc-domain-verify=me5years.is-a.software,7491715a65e7bcd09d2b"
+    }
+  },
+  {
     "domain": "verifyai",
     "owner": {
       "github": "HakkanShah"
