@@ -793,6 +793,15 @@
     }
   },
   {
+    "domain": "me5years",
+    "owner": {
+      "github": "ilya-ui"
+    },
+    "record": {
+      "CNAME": "ilya.alwaysdata.net"
+    }
+  },
+  {
     "domain": "message",
     "owner": {
       "github": "pygod7"
