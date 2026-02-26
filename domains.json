@@ -739,15 +739,6 @@
     }
   },
   {
-    "domain": "kebab",
-    "owner": {
-      "github": "ethembeldagli"
-    },
-    "record": {
-      "CNAME": "f85ed751d9a8ea9f.vercel-dns-017.com."
-    }
-  },
-  {
     "domain": "legalmentortest",
     "owner": {
       "github": "asliddinburanov-prog"
