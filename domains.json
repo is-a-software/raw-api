@@ -766,6 +766,15 @@
     }
   },
   {
+    "domain": "liveforpublic",
+    "owner": {
+      "github": "jaivalgpandya-webpaging"
+    },
+    "record": {
+      "CNAME": "lazsj0xh.up.railway.app"
+    }
+  },
+  {
     "domain": "manstral",
     "owner": {
       "github": "zannbjir"
