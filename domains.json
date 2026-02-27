@@ -829,6 +829,15 @@
     }
   },
   {
+    "domain": "midvalestorage",
+    "owner": {
+      "github": "darkhorse68"
+    },
+    "record": {
+      "CNAME": "midvalestorage.lovable.app"
+    }
+  },
+  {
     "domain": "mimmo-e-lory-wedding",
     "owner": {
       "github": "nemocrk"
