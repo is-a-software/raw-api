@@ -730,15 +730,6 @@
     }
   },
   {
-    "domain": "kebab",
-    "owner": {
-      "github": "ethembeldagli"
-    },
-    "record": {
-      "CNAME": "kebab-website-3jj.pages.dev"
-    }
-  },
-  {
     "domain": "legalmentortest",
     "owner": {
       "github": "asliddinburanov-prog"
