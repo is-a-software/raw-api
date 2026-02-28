@@ -1360,6 +1360,15 @@
     }
   },
   {
+    "domain": "thinks",
+    "owner": {
+      "github": "Thisisanalthowcool"
+    },
+    "record": {
+      "A": "51.222.206.184"
+    }
+  },
+  {
     "domain": "thisaiwebsite",
     "owner": {
       "github": "ethembeldagli"
