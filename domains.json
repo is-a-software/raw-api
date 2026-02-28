@@ -1072,6 +1072,15 @@
     }
   },
   {
+    "domain": "planets",
+    "owner": {
+      "github": "Thisisanalthowcool"
+    },
+    "record": {
+      "A": "15.204.247.166"
+    }
+  },
+  {
     "domain": "pondering",
     "owner": {
       "github": "Thisisanalthowcool"
