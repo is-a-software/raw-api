@@ -406,6 +406,15 @@
     }
   },
   {
+    "domain": "earth",
+    "owner": {
+      "github": "Thisisanalthowcool"
+    },
+    "record": {
+      "A": "15.204.247.166"
+    }
+  },
+  {
     "domain": "emperornaedmcportfolio",
     "owner": {
       "github": "dinonaedytwastaken-netizen"
