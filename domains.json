@@ -1144,6 +1144,15 @@
     }
   },
   {
+    "domain": "prompt",
+    "owner": {
+      "github": "theOGVibeCoder"
+    },
+    "record": {
+      "CNAME": "gen-lang-client-0251371539"
+    }
+  },
+  {
     "domain": "quiz-app-laravel",
     "owner": {
       "github": "karanhb-pixel"
