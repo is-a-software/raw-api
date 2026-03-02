@@ -1234,6 +1234,15 @@
     }
   },
   {
+    "domain": "sap.tech",
+    "owner": {
+      "github": "Alriwna"
+    },
+    "record": {
+      "TXT": "sap.com"
+    }
+  },
+  {
     "domain": "sceptrum",
     "owner": {
       "github": "saditya93"
