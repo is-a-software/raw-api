@@ -730,6 +730,15 @@
     }
   },
   {
+    "domain": "jjs",
+    "owner": {
+      "github": "jhill6954-bit"
+    },
+    "record": {
+      "CNAME": "superhardalgebraproblems.com"
+    }
+  },
+  {
     "domain": "joki",
     "owner": {
       "github": "qwer1892"
