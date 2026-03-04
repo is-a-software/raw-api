@@ -1054,6 +1054,15 @@
     }
   },
   {
+    "domain": "software",
+    "owner": {
+      "github": "Thisisanalthowcool"
+    },
+    "record": {
+      "A": "149.56.128.250"
+    }
+  },
+  {
     "domain": "spacing",
     "owner": {
       "github": "Poochley"
