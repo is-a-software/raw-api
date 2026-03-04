@@ -9,30 +9,12 @@
     }
   },
   {
-    "domain": "aeon",
-    "owner": {
-      "github": "alraakib"
-    },
-    "record": {
-      "A": "217.217.248.189"
-    }
-  },
-  {
     "domain": "algorithms",
     "owner": {
       "github": "saksham-shekher"
     },
     "record": {
       "CNAME": "saksham-shekher.github.io"
-    }
-  },
-  {
-    "domain": "almustafaoptical",
-    "owner": {
-      "github": "arehmanbutt112"
-    },
-    "record": {
-      "CNAME": "ep-frontend-8nvh.onrender.com"
     }
   },
   {
@@ -63,15 +45,6 @@
     }
   },
   {
-    "domain": "anura",
-    "owner": {
-      "github": "Poochley"
-    },
-    "record": {
-      "A": "149.56.128.250"
-    }
-  },
-  {
     "domain": "api.expense-income",
     "owner": {
       "github": "nbn2000"
@@ -96,15 +69,6 @@
     },
     "record": {
       "CNAME": "cname.vercel-dns.com"
-    }
-  },
-  {
-    "domain": "arcady",
-    "owner": {
-      "github": "TypicallyOme"
-    },
-    "record": {
-      "CNAME": "typicallyome.github.io"
     }
   },
   {
@@ -154,48 +118,12 @@
     }
   },
   {
-    "domain": "baffo",
-    "owner": {
-      "github": "griccitiello"
-    },
-    "record": {
-      "A": "51.68.147.1"
-    }
-  },
-  {
-    "domain": "best",
-    "owner": {
-      "github": "bell336"
-    },
-    "record": {
-      "CNAME": "amdcome.pages.dev"
-    }
-  },
-  {
-    "domain": "bet4gi77ux5q.eval",
-    "owner": {
-      "github": "tutosrive"
-    },
-    "record": {
-      "CNAME": "gv-3g7xvyhijxg6bv.dv.googlehosted.com"
-    }
-  },
-  {
     "domain": "bikeapp",
     "owner": {
       "github": "sonawat"
     },
     "record": {
       "CNAME": "aniketbike.netlify.app."
-    }
-  },
-  {
-    "domain": "bloxdpacks.fgxd",
-    "owner": {
-      "github": "fg-xd"
-    },
-    "record": {
-      "CNAME": "fg-xd.github.io"
     }
   },
   {
@@ -208,30 +136,12 @@
     }
   },
   {
-    "domain": "branzile",
-    "owner": {
-      "github": "kakokiads"
-    },
-    "record": {
-      "CNAME": "gateway.html4life.com"
-    }
-  },
-  {
     "domain": "branzle",
     "owner": {
       "github": "kakokiads"
     },
     "record": {
       "CNAME": "gateway.html4life.com"
-    }
-  },
-  {
-    "domain": "chat",
-    "owner": {
-      "github": "IAmA14"
-    },
-    "record": {
-      "CNAME": "chat"
     }
   },
   {
@@ -250,15 +160,6 @@
     },
     "record": {
       "A": "51.222.141.36"
-    }
-  },
-  {
-    "domain": "codetrackx",
-    "owner": {
-      "github": "Starlord87official"
-    },
-    "record": {
-      "A": "185.158.133.1"
     }
   },
   {
@@ -295,15 +196,6 @@
     },
     "record": {
       "TXT": "MS=ms38531417"
-    }
-  },
-  {
-    "domain": "depdana",
-    "owner": {
-      "github": "TestCoper"
-    },
-    "record": {
-      "A": "188.121.118.73"
     }
   },
   {
@@ -424,15 +316,6 @@
     }
   },
   {
-    "domain": "esta123",
-    "owner": {
-      "github": "Novza-1"
-    },
-    "record": {
-      "A": "172.67.68.39"
-    }
-  },
-  {
     "domain": "eval",
     "owner": {
       "github": "tutosrive"
@@ -475,42 +358,6 @@
     },
     "record": {
       "CNAME": "a0e0f6efdfd0ecea.vercel-dns-017.com"
-    }
-  },
-  {
-    "domain": "farrellid",
-    "owner": {
-      "github": "fidxteam"
-    },
-    "record": {
-      "CNAME": "7175fc2c8d03c6fc.vercel-dns-017.com"
-    }
-  },
-  {
-    "domain": "fg",
-    "owner": {
-      "github": "fg-xd"
-    },
-    "record": {
-      "CNAME": "fg-xd.github.io"
-    }
-  },
-  {
-    "domain": "fgxd",
-    "owner": {
-      "github": "fg-xd"
-    },
-    "record": {
-      "CNAME": "fg-xd.github.io"
-    }
-  },
-  {
-    "domain": "firstwebsite",
-    "owner": {
-      "github": "samitTech"
-    },
-    "record": {
-      "CNAME": "6da197d8a2f82d6c.vercel-dns-017.com."
     }
   },
   {
@@ -595,15 +442,6 @@
     }
   },
   {
-    "domain": "global",
-    "owner": {
-      "github": "doxjosh"
-    },
-    "record": {
-      "A": "185.199.108.153"
-    }
-  },
-  {
     "domain": "gom",
     "owner": {
       "github": "dcwhoever"
@@ -628,15 +466,6 @@
     },
     "record": {
       "CNAME": "6b1138646e38d35f.vercel-dns-017.com"
-    }
-  },
-  {
-    "domain": "homework.math",
-    "owner": {
-      "github": "Novza-1"
-    },
-    "record": {
-      "A": "172.67.68.39"
     }
   },
   {
@@ -685,15 +514,6 @@
     }
   },
   {
-    "domain": "ilyasabdat",
-    "owner": {
-      "github": "breabdat"
-    },
-    "record": {
-      "A": "103.171.148.160"
-    }
-  },
-  {
     "domain": "imagehosting",
     "owner": {
       "github": "alraakib"
@@ -736,24 +556,6 @@
     },
     "record": {
       "CNAME": "superhardalgebraproblems.com"
-    }
-  },
-  {
-    "domain": "joki",
-    "owner": {
-      "github": "qwer1892"
-    },
-    "record": {
-      "CNAME": "google.com"
-    }
-  },
-  {
-    "domain": "jokowi",
-    "owner": {
-      "github": "qwer1892"
-    },
-    "record": {
-      "CNAME": "google.com"
     }
   },
   {
@@ -928,15 +730,6 @@
     }
   },
   {
-    "domain": "myautomation",
-    "owner": {
-      "github": "matrly-swdev"
-    },
-    "record": {
-      "CNAME": "myautomationtest"
-    }
-  },
-  {
     "domain": "ndmshop",
     "owner": {
       "github": "micoms"
@@ -961,15 +754,6 @@
     },
     "record": {
       "A": "159.195.33.255"
-    }
-  },
-  {
-    "domain": "noku",
-    "owner": {
-      "github": "zannbjir"
-    },
-    "record": {
-      "CNAME": "7213fd70729a31c3.vercel-dns-017.com."
     }
   },
   {
@@ -1000,30 +784,12 @@
     }
   },
   {
-    "domain": "nxd4elzqqoot",
-    "owner": {
-      "github": "mdforhad80"
-    },
-    "record": {
-      "CNAME": "gv-cge3urceqdfj3w.dv.googlehosted.com"
-    }
-  },
-  {
     "domain": "officialrajdeepsingh",
     "owner": {
       "github": "officialrajdeepsingh"
     },
     "record": {
       "CNAME": "officialrajdeepsingh.netlify.app"
-    }
-  },
-  {
-    "domain": "ogr7s743jvip",
-    "owner": {
-      "github": "mdforhad80"
-    },
-    "record": {
-      "CNAME": " gv-7xgkrmig7h63rt.dv.googlehosted.com"
     }
   },
   {
@@ -1060,15 +826,6 @@
     },
     "record": {
       "A": "15.204.247.166"
-    }
-  },
-  {
-    "domain": "paper",
-    "owner": {
-      "github": "xtoazt"
-    },
-    "record": {
-      "CNAME": "xtoazt.github.io"
     }
   },
   {
@@ -1243,24 +1000,6 @@
     }
   },
   {
-    "domain": "rizua",
-    "owner": {
-      "github": "rizuashafiqi93"
-    },
-    "record": {
-      "CNAME": "rizuashafiqi93.github.io"
-    }
-  },
-  {
-    "domain": "saksham",
-    "owner": {
-      "github": "OshekharO"
-    },
-    "record": {
-      "CNAME": "oshekharo.github.io"
-    }
-  },
-  {
     "domain": "sap.tech",
     "owner": {
       "github": "Alriwna"
@@ -1288,15 +1027,6 @@
     }
   },
   {
-    "domain": "seron",
-    "owner": {
-      "github": "Priyansxu"
-    },
-    "record": {
-      "CNAME": "edge.redirect.pizza"
-    }
-  },
-  {
     "domain": "skinfo",
     "owner": {
       "github": "7aimez"
@@ -1321,15 +1051,6 @@
     },
     "record": {
       "A": "15.204.247.166"
-    }
-  },
-  {
-    "domain": "spicydevs",
-    "owner": {
-      "github": "ikrdikhit"
-    },
-    "record": {
-      "CNAME": "blank"
     }
   },
   {
@@ -1402,33 +1123,6 @@
     },
     "record": {
       "CNAME": "6a7970bfbdd5cb8f.vercel-dns-017.com."
-    }
-  },
-  {
-    "domain": "testing",
-    "owner": {
-      "github": "Hacker7766"
-    },
-    "record": {
-      "CNAME": "hacker7766.github.io"
-    }
-  },
-  {
-    "domain": "testpocht",
-    "owner": {
-      "github": "sskkalless-lgtm"
-    },
-    "record": {
-      "CNAME": "test"
-    }
-  },
-  {
-    "domain": "thedailyinsidernews",
-    "owner": {
-      "github": "salmaahmed2026"
-    },
-    "record": {
-      "A": "185.199.108.153"
     }
   },
   {
@@ -1537,15 +1231,6 @@
     },
     "record": {
       "CNAME": "de7670006ba75380.vercel-dns-017.com."
-    }
-  },
-  {
-    "domain": "weather",
-    "owner": {
-      "github": "alraakib"
-    },
-    "record": {
-      "CNAME": "217.217.248.189"
     }
   },
   {
