@@ -1252,15 +1252,6 @@
     }
   },
   {
-    "domain": "vercel.is-a.software",
-    "owner": {
-      "github": "sbr69"
-    },
-    "record": {
-      "TXT": "vc-domain-verify=chanda-dedo.is-a.software,676e4eca4d4606224562"
-    }
-  },
-  {
     "domain": "verifyai",
     "owner": {
       "github": "HakkanShah"
