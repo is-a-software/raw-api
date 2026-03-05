@@ -667,6 +667,15 @@
     }
   },
   {
+    "domain": "manishprakkash",
+    "owner": {
+      "github": "ManishPrakkash"
+    },
+    "record": {
+      "CNAME": "Io"
+    }
+  },
+  {
     "domain": "manstral",
     "owner": {
       "github": "zannbjir"
