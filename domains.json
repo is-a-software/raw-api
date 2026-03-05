@@ -469,6 +469,15 @@
     }
   },
   {
+    "domain": "glph-01",
+    "owner": {
+      "github": "prothesmos"
+    },
+    "record": {
+      "A": "192.168.100.1"
+    }
+  },
+  {
     "domain": "gom",
     "owner": {
       "github": "dcwhoever"
