@@ -145,6 +145,15 @@
     }
   },
   {
+    "domain": "chanda-dedo",
+    "owner": {
+      "github": "sbr69"
+    },
+    "record": {
+      "CNAME": "chanda-dedo"
+    }
+  },
+  {
     "domain": "chatbot",
     "owner": {
       "github": "Kashan-2912"
