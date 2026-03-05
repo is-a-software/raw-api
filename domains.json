@@ -577,6 +577,15 @@
     }
   },
   {
+    "domain": "io",
+    "owner": {
+      "github": "ManishPrakkash"
+    },
+    "record": {
+      "CNAME": "manishprakkash"
+    }
+  },
+  {
     "domain": "jaiyankargupta",
     "owner": {
       "github": "jaiyankargupta"
