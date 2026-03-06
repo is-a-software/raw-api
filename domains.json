@@ -1126,6 +1126,15 @@
     }
   },
   {
+    "domain": "smiledent",
+    "owner": {
+      "github": "mauriciokoller87"
+    },
+    "record": {
+      "CNAME": "example"
+    }
+  },
+  {
     "domain": "snake2",
     "owner": {
       "github": "shumaqueraza"
