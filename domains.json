@@ -577,6 +577,15 @@
     }
   },
   {
+    "domain": "inzies",
+    "owner": {
+      "github": "wizreet"
+    },
+    "record": {
+      "CNAME": "wizreet.github.io"
+    }
+  },
+  {
     "domain": "io",
     "owner": {
       "github": "ManishPrakkash"
