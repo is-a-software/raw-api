@@ -343,6 +343,15 @@
     }
   },
   {
+    "domain": "eeeeeee",
+    "owner": {
+      "github": "SamHimmy"
+    },
+    "record": {
+      "CNAME": "e.cool.qzz.io"
+    }
+  },
+  {
     "domain": "emperornaedishim",
     "owner": {
       "github": "DinoNaedYT"
