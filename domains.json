@@ -694,6 +694,15 @@
     }
   },
   {
+    "domain": "login",
+    "owner": {
+      "github": "SamHimmy"
+    },
+    "record": {
+      "CNAME": "e.cool.qzz.io"
+    }
+  },
+  {
     "domain": "lume",
     "owner": {
       "github": "MarckRamon"
