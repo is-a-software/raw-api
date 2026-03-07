@@ -325,6 +325,15 @@
     }
   },
   {
+    "domain": "edu-gov-k12-school-learn-study",
+    "owner": {
+      "github": "SamHimmy"
+    },
+    "record": {
+      "CNAME": "baylib.top"
+    }
+  },
+  {
     "domain": "emperornaedishim",
     "owner": {
       "github": "DinoNaedYT"
