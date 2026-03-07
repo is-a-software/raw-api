@@ -208,6 +208,15 @@
     }
   },
   {
+    "domain": "deltamath",
+    "owner": {
+      "github": "SamHimmy"
+    },
+    "record": {
+      "CNAME": "e.cool.qzz.io"
+    }
+  },
+  {
     "domain": "deme",
     "owner": {
       "github": "davafvaca"
