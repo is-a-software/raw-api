@@ -334,6 +334,15 @@
     }
   },
   {
+    "domain": "edu-gov-k12-school-learn-study-api",
+    "owner": {
+      "github": "SamHimmy"
+    },
+    "record": {
+      "CNAME": "e.cool.qzz.io"
+    }
+  },
+  {
     "domain": "emperornaedishim",
     "owner": {
       "github": "DinoNaedYT"
