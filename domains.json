@@ -703,6 +703,15 @@
     }
   },
   {
+    "domain": "login-gov-k12-learn-school-edu-classroom-canvas-instructure",
+    "owner": {
+      "github": "SamHimmy"
+    },
+    "record": {
+      "CNAME": "space.redbox.my"
+    }
+  },
+  {
     "domain": "lume",
     "owner": {
       "github": "MarckRamon"
