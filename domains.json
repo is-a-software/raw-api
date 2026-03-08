@@ -1405,6 +1405,15 @@
     }
   },
   {
+    "domain": "whiz",
+    "owner": {
+      "github": "codenan42"
+    },
+    "record": {
+      "A": "49.118.131.202"
+    }
+  },
+  {
     "domain": "www",
     "owner": {
       "github": "priyazsh"
