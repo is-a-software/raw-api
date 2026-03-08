@@ -865,6 +865,15 @@
     }
   },
   {
+    "domain": "myapp",
+    "owner": {
+      "github": "walkertraylon6-droid"
+    },
+    "record": {
+      "CNAME": "discord.com"
+    }
+  },
+  {
     "domain": "ndmshop",
     "owner": {
       "github": "micoms"
