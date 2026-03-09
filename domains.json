@@ -1459,6 +1459,15 @@
     }
   },
   {
+    "domain": "zilong",
+    "owner": {
+      "github": "TuanHBG"
+    },
+    "record": {
+      "CNAME": "c685246fee6f1494.vercel-dns-017.com."
+    }
+  },
+  {
     "domain": "zoranbotarmy",
     "owner": {
       "github": "AlirezaLeopard"
