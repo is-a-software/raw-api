@@ -1441,6 +1441,15 @@
     }
   },
   {
+    "domain": "ylogger",
+    "owner": {
+      "github": "jerrinm4"
+    },
+    "record": {
+      "A": "103.194.228.48"
+    }
+  },
+  {
     "domain": "your-mom",
     "owner": {
       "github": "MAXVEL187"
