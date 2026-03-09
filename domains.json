@@ -1234,6 +1234,15 @@
     }
   },
   {
+    "domain": "supgit",
+    "owner": {
+      "github": "thomasboom"
+    },
+    "record": {
+      "CNAME": "b345fde8c10576cf.vercel-dns-017.com."
+    }
+  },
+  {
     "domain": "swell-history",
     "owner": {
       "github": "vpedrosa"
