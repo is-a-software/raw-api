@@ -1234,6 +1234,15 @@
     }
   },
   {
+    "domain": "spicy",
+    "owner": {
+      "github": "ikrdikhit"
+    },
+    "record": {
+      "CNAME": "dikhit.pages.dev"
+    }
+  },
+  {
     "domain": "spicydevs",
     "owner": {
       "github": "ikrdikhit"
