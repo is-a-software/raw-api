@@ -1,5 +1,14 @@
 [
   {
+    "domain": "a",
+    "owner": {
+      "github": "ikrdikhit"
+    },
+    "record": {
+      "CNAME": "dikhit.pages.dev"
+    }
+  },
+  {
     "domain": "aaappp",
     "owner": {
       "github": "7aimez"
