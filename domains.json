@@ -1,5 +1,14 @@
 [
   {
+    "domain": "7",
+    "owner": {
+      "github": "juice123453"
+    },
+    "record": {
+      "CNAME": "7"
+    }
+  },
+  {
     "domain": "a",
     "owner": {
       "github": "ikrdikhit"
