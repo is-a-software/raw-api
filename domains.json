@@ -217,6 +217,15 @@
     }
   },
   {
+    "domain": "course.html",
+    "owner": {
+      "github": "Gojo-Satoru11"
+    },
+    "record": {
+      "CNAME": "index.html"
+    }
+  },
+  {
     "domain": "covergenius",
     "owner": {
       "github": "theprinceraj"
