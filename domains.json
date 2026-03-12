@@ -1243,15 +1243,6 @@
     }
   },
   {
-    "domain": "slot777.company",
-    "owner": {
-      "github": "mifdanrahmajaya-afk"
-    },
-    "record": {
-      "CNAME": "slot777.company.is-a.software"
-    }
-  },
-  {
     "domain": "smiledent",
     "owner": {
       "github": "mauriciokoller87"
