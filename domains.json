@@ -108,6 +108,15 @@
     }
   },
   {
+    "domain": "attops",
+    "owner": {
+      "github": "abhinavvt54"
+    },
+    "record": {
+      "CNAME": "alex.ns.cloudflare.com"
+    }
+  },
+  {
     "domain": "aurora",
     "owner": {
       "github": "0x7694C9"
