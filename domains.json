@@ -99,6 +99,15 @@
     }
   },
   {
+    "domain": "atops",
+    "owner": {
+      "github": "abhinavvt54"
+    },
+    "record": {
+      "CNAME": "app"
+    }
+  },
+  {
     "domain": "aurora",
     "owner": {
       "github": "0x7694C9"
