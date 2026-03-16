@@ -1486,6 +1486,15 @@
     }
   },
   {
+    "domain": "unblockware",
+    "owner": {
+      "github": "sealgodreal"
+    },
+    "record": {
+      "CNAME": "unblockware.pages.dev"
+    }
+  },
+  {
     "domain": "unspoken",
     "owner": {
       "github": "pygod7"
