@@ -622,6 +622,15 @@
     }
   },
   {
+    "domain": "google.com",
+    "owner": {
+      "github": "aszombie704"
+    },
+    "record": {
+      "CNAME": "google"
+    }
+  },
+  {
     "domain": "hello",
     "owner": {
       "github": "pygod7"
