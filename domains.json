@@ -352,6 +352,15 @@
     }
   },
   {
+    "domain": "discord.com",
+    "owner": {
+      "github": "aszombie704"
+    },
+    "record": {
+      "CNAME": "discord.com"
+    }
+  },
+  {
     "domain": "dixo",
     "owner": {
       "github": "aryanshrai03"
