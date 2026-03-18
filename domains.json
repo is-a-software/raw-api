@@ -1378,6 +1378,15 @@
     }
   },
   {
+    "domain": "starride",
+    "owner": {
+      "github": "vinay7225"
+    },
+    "record": {
+      "CNAME": "starride.ride"
+    }
+  },
+  {
     "domain": "subscribetorubin",
     "owner": {
       "github": "pygod7"
