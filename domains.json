@@ -640,6 +640,15 @@
     }
   },
   {
+    "domain": "harshrajsinhraulji",
+    "owner": {
+      "github": "harshrajsinhraulji"
+    },
+    "record": {
+      "CNAME": "harshrajsinhraulji.vercel.app"
+    }
+  },
+  {
     "domain": "hello",
     "owner": {
       "github": "pygod7"
