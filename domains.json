@@ -99,6 +99,15 @@
     }
   },
   {
+    "domain": "artist",
+    "owner": {
+      "github": "harshrajsinhraulji"
+    },
+    "record": {
+      "CNAME": "artist-portfolio-lac-six.vercel.app"
+    }
+  },
+  {
     "domain": "atops",
     "owner": {
       "github": "abhinavvt54"
