@@ -1567,6 +1567,15 @@
     }
   },
   {
+    "domain": "uninc",
+    "owner": {
+      "github": "mrinmoyin"
+    },
+    "record": {
+      "CNAME": "uninc.mrinmoyin.github.io"
+    }
+  },
+  {
     "domain": "unspoken",
     "owner": {
       "github": "pygod7"
