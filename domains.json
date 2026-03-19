@@ -1000,6 +1000,15 @@
     }
   },
   {
+    "domain": "mzr",
+    "owner": {
+      "github": "MZR1111"
+    },
+    "record": {
+      "CNAME": "youtube.com"
+    }
+  },
+  {
     "domain": "ndmshop",
     "owner": {
       "github": "micoms"
