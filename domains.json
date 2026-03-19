@@ -1666,6 +1666,15 @@
     }
   },
   {
+    "domain": "zaid.myname",
+    "owner": {
+      "github": "MZR1111"
+    },
+    "record": {
+      "CNAME": "tiktok.com"
+    }
+  },
+  {
     "domain": "zia-bot",
     "owner": {
       "github": "Ayan-cyber134"
