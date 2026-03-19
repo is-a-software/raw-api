@@ -1657,6 +1657,15 @@
     }
   },
   {
+    "domain": "zaid",
+    "owner": {
+      "github": "MZR1111"
+    },
+    "record": {
+      "CNAME": "daydreamx.pro"
+    }
+  },
+  {
     "domain": "zia-bot",
     "owner": {
       "github": "Ayan-cyber134"
