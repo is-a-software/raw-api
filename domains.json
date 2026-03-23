@@ -523,6 +523,15 @@
     }
   },
   {
+    "domain": "fengyun",
+    "owner": {
+      "github": "tutu35996"
+    },
+    "record": {
+      "CNAME": "tutu35996.github.io"
+    }
+  },
+  {
     "domain": "fliboria",
     "owner": {
       "github": "Bhabishworgrg"
