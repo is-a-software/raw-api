@@ -649,6 +649,15 @@
     }
   },
   {
+    "domain": "groupstats",
+    "owner": {
+      "github": "IamRoshanIngle"
+    },
+    "record": {
+      "CNAME": "w-a-t.netlify.app"
+    }
+  },
+  {
     "domain": "harshrajsinhraulji",
     "owner": {
       "github": "harshrajsinhraulji"
