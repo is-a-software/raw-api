@@ -181,6 +181,15 @@
     }
   },
   {
+    "domain": "bloxcraft-ubg",
+    "owner": {
+      "github": "bloxcraft-ubg"
+    },
+    "record": {
+      "CNAME": "bloxcraft-ubg.pages.dev"
+    }
+  },
+  {
     "domain": "boostify",
     "owner": {
       "github": "pygod7"
