@@ -1279,6 +1279,15 @@
     }
   },
   {
+    "domain": "regexhub",
+    "owner": {
+      "github": "andrewe11er"
+    },
+    "record": {
+      "A": "212.224.93.153"
+    }
+  },
+  {
     "domain": "relivemusic",
     "owner": {
       "github": "relivemusic"
