@@ -1585,6 +1585,15 @@
     }
   },
   {
+    "domain": "unblocked",
+    "owner": {
+      "github": "bloxcraft-ubg"
+    },
+    "record": {
+      "CNAME": "ported.pages.dev"
+    }
+  },
+  {
     "domain": "unblockware",
     "owner": {
       "github": "sealgodreal"
