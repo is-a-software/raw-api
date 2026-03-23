@@ -550,6 +550,15 @@
     }
   },
   {
+    "domain": "fuda",
+    "owner": {
+      "github": "tutu35996"
+    },
+    "record": {
+      "CNAME": "tutu35996.github.io"
+    }
+  },
+  {
     "domain": "funday-manit",
     "owner": {
       "github": "tGupta24"
