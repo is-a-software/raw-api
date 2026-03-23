@@ -577,6 +577,15 @@
     }
   },
   {
+    "domain": "games",
+    "owner": {
+      "github": "bloxcraft-ubg"
+    },
+    "record": {
+      "CNAME": "ported.pages.dev"
+    }
+  },
+  {
     "domain": "geometry-dash.work",
     "owner": {
       "github": "sektanaymikon"
