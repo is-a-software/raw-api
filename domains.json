@@ -217,6 +217,15 @@
     }
   },
   {
+    "domain": "canva",
+    "owner": {
+      "github": "oar707621"
+    },
+    "record": {
+      "CNAME": "Google.com"
+    }
+  },
+  {
     "domain": "chanda-dedo",
     "owner": {
       "github": "sbr69"
