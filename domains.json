@@ -1693,15 +1693,6 @@
     }
   },
   {
-    "domain": "x8v2m9q1b4r7",
-    "owner": {
-      "github": "sealgodreal"
-    },
-    "record": {
-      "CNAME": "sealgodreal.github.io"
-    }
-  },
-  {
     "domain": "ylogger",
     "owner": {
       "github": "jerrinm4"
