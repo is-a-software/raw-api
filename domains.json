@@ -658,6 +658,15 @@
     }
   },
   {
+    "domain": "goog.le",
+    "owner": {
+      "github": "oar707621"
+    },
+    "record": {
+      "CNAME": "Google.com"
+    }
+  },
+  {
     "domain": "google.com",
     "owner": {
       "github": "aszombie704"
