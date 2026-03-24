@@ -1693,6 +1693,15 @@
     }
   },
   {
+    "domain": "x8v2m9q1b4r7",
+    "owner": {
+      "github": "sealgodreal"
+    },
+    "record": {
+      "CNAME": "nebulaunblocking.vercel.app"
+    }
+  },
+  {
     "domain": "ylogger",
     "owner": {
       "github": "jerrinm4"
