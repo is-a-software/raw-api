@@ -1594,15 +1594,6 @@
     }
   },
   {
-    "domain": "unblockware",
-    "owner": {
-      "github": "sealgodreal"
-    },
-    "record": {
-      "CNAME": "unblockware.pages.dev"
-    }
-  },
-  {
     "domain": "uninc",
     "owner": {
       "github": "mrinmoyin"
