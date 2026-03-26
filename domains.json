@@ -1621,15 +1621,6 @@
     }
   },
   {
-    "domain": "unisat-mempool-demo",
-    "owner": {
-      "github": "cabalinos"
-    },
-    "record": {
-      "CNAME": "unisat-mempool-demo.pages.dev"
-    }
-  },
-  {
     "domain": "unspoken",
     "owner": {
       "github": "pygod7"
