@@ -541,6 +541,15 @@
     }
   },
   {
+    "domain": "financeaiapi",
+    "owner": {
+      "github": "MULIYWKOLNIK"
+    },
+    "record": {
+      "CNAME": "financeaiapi"
+    }
+  },
+  {
     "domain": "fliboria",
     "owner": {
       "github": "Bhabishworgrg"
