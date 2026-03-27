@@ -1117,6 +1117,15 @@
     }
   },
   {
+    "domain": "oci",
+    "owner": {
+      "github": "SyntaxSugarRush"
+    },
+    "record": {
+      "A": "92.4.140.160"
+    }
+  },
+  {
     "domain": "officialrajdeepsingh",
     "owner": {
       "github": "officialrajdeepsingh"
