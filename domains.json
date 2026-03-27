@@ -865,6 +865,15 @@
     }
   },
   {
+    "domain": "lewda",
+    "owner": {
+      "github": "myrachane"
+    },
+    "record": {
+      "CNAME": "cominsoon-zeta.vercel.app"
+    }
+  },
+  {
     "domain": "liquidmods",
     "owner": {
       "github": "TLine797"
