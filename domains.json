@@ -1378,6 +1378,15 @@
     }
   },
   {
+    "domain": "shaurya.com",
+    "owner": {
+      "github": "sk0009141-prog"
+    },
+    "record": {
+      "CNAME": "Shaurya.com"
+    }
+  },
+  {
     "domain": "skinfo",
     "owner": {
       "github": "7aimez"
