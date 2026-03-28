@@ -1693,6 +1693,15 @@
     }
   },
   {
+    "domain": "vali-ai",
+    "owner": {
+      "github": "huzaifbhai36-a11y"
+    },
+    "record": {
+      "CNAME": "vallai.netlify.app"
+    }
+  },
+  {
     "domain": "ved",
     "owner": {
       "github": "VedantAnand17"
