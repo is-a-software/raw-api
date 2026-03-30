@@ -1162,6 +1162,15 @@
     }
   },
   {
+    "domain": "nowgg",
+    "owner": {
+      "github": "SamHimmy"
+    },
+    "record": {
+      "A": "69.164.251.212"
+    }
+  },
+  {
     "domain": "nur",
     "owner": {
       "github": "neurofumo"
