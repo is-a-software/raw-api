@@ -226,6 +226,15 @@
     }
   },
   {
+    "domain": "canvas-lms",
+    "owner": {
+      "github": "SamHimmy"
+    },
+    "record": {
+      "CNAME": "d.cool.qzz.io"
+    }
+  },
+  {
     "domain": "chanda-dedo",
     "owner": {
       "github": "sbr69"
