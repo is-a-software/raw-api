@@ -802,6 +802,15 @@
     }
   },
   {
+    "domain": "insulation-project",
+    "owner": {
+      "github": "Dinesh-Saman"
+    },
+    "record": {
+      "CNAME": "insulation-project.netlify.app"
+    }
+  },
+  {
     "domain": "insulation-project.com",
     "owner": {
       "github": "Dinesh-Saman"
