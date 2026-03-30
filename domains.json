@@ -973,6 +973,15 @@
     }
   },
   {
+    "domain": "master-shin",
+    "owner": {
+      "github": "Temp-9292"
+    },
+    "record": {
+      "CNAME": "temp-9292.github.io"
+    }
+  },
+  {
     "domain": "matter",
     "owner": {
       "github": "Poochley"
