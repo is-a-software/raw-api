@@ -172,15 +172,6 @@
     }
   },
   {
-    "domain": "bdtools",
-    "owner": {
-      "github": "itszubariel"
-    },
-    "record": {
-      "CNAME": "bdtools.netlify.app"
-    }
-  },
-  {
     "domain": "bikeapp",
     "owner": {
       "github": "sonawat"
