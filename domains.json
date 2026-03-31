@@ -1315,15 +1315,6 @@
     }
   },
   {
-    "domain": "pisgahbisdac",
-    "owner": {
-      "github": "papaL3xa"
-    },
-    "record": {
-      "CNAME": "71ce80-some-dns-record.com"
-    }
-  },
-  {
     "domain": "pkgx",
     "owner": {
       "github": "amitgoesbrr"
