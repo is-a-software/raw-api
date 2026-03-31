@@ -820,6 +820,15 @@
     }
   },
   {
+    "domain": "innks",
+    "owner": {
+      "github": "deUseruser"
+    },
+    "record": {
+      "CNAME": "innks.netlify.app"
+    }
+  },
+  {
     "domain": "insulation-project",
     "owner": {
       "github": "Dinesh-Saman"
