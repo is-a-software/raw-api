@@ -856,6 +856,15 @@
     }
   },
   {
+    "domain": "its",
+    "owner": {
+      "github": "deUseruser"
+    },
+    "record": {
+      "CNAME": "innks.netlify.app"
+    }
+  },
+  {
     "domain": "iverychan597",
     "owner": {
       "github": "ivery-chan"
