@@ -226,6 +226,15 @@
     }
   },
   {
+    "domain": "bypass.innks",
+    "owner": {
+      "github": "deUseruser"
+    },
+    "record": {
+      "CNAME": "innks.netlify.app"
+    }
+  },
+  {
     "domain": "canva",
     "owner": {
       "github": "oar707621"
