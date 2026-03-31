@@ -856,6 +856,15 @@
     }
   },
   {
+    "domain": "iverychan597",
+    "owner": {
+      "github": "ivery-chan"
+    },
+    "record": {
+      "CNAME": "ivery-language-center.pages.dev"
+    }
+  },
+  {
     "domain": "jaiyankargupta",
     "owner": {
       "github": "jaiyankargupta"
