@@ -1486,6 +1486,15 @@
     }
   },
   {
+    "domain": "shin",
+    "owner": {
+      "github": "Agent9292"
+    },
+    "record": {
+      "CNAME": "agent9292.github.io"
+    }
+  },
+  {
     "domain": "skinfo",
     "owner": {
       "github": "7aimez"
