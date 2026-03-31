@@ -1315,6 +1315,15 @@
     }
   },
   {
+    "domain": "pisgahbisdac",
+    "owner": {
+      "github": "papaL3xa"
+    },
+    "record": {
+      "CNAME": "papal3xa.github.io"
+    }
+  },
+  {
     "domain": "pkgx",
     "owner": {
       "github": "amitgoesbrr"
