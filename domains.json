@@ -523,6 +523,15 @@
     }
   },
   {
+    "domain": "em3407.mindful-moments",
+    "owner": {
+      "github": "kakkartushar1"
+    },
+    "record": {
+      "CNAME": "u61994605.wl106.sendgrid.net"
+    }
+  },
+  {
     "domain": "emperornaedishim",
     "owner": {
       "github": "DinoNaedYT"
