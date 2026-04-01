@@ -1972,6 +1972,15 @@
     }
   },
   {
+    "domain": "www.mindful-moments",
+    "owner": {
+      "github": "kakkartushar1"
+    },
+    "record": {
+      "CNAME": "mindful-moments.is-a.software"
+    }
+  },
+  {
     "domain": "ylogger",
     "owner": {
       "github": "jerrinm4"
