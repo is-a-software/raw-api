@@ -1450,6 +1450,15 @@
     }
   },
   {
+    "domain": "qnloft",
+    "owner": {
+      "github": "qnloft"
+    },
+    "record": {
+      "CNAME": "tempe-mail.qnloft.workers.dev"
+    }
+  },
+  {
     "domain": "quiz-app-laravel",
     "owner": {
       "github": "karanhb-pixel"
