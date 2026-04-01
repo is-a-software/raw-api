@@ -1495,6 +1495,15 @@
     }
   },
   {
+    "domain": "rmlux",
+    "owner": {
+      "github": "lateefah-al"
+    },
+    "record": {
+      "CNAME": "lateefah-al.github.io"
+    }
+  },
+  {
     "domain": "sap.tech",
     "owner": {
       "github": "Alriwna"
