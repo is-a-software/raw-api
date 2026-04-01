@@ -1540,6 +1540,15 @@
     }
   },
   {
+    "domain": "s1.domainkey.mindful-moments",
+    "owner": {
+      "github": "kakkartushar1"
+    },
+    "record": {
+      "CNAME": "s1.domainkey.u61994605.wl106.sendgrid.net"
+    }
+  },
+  {
     "domain": "sap.tech",
     "owner": {
       "github": "Alriwna"
