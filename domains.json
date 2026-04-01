@@ -27,6 +27,15 @@
     }
   },
   {
+    "domain": "agent9292",
+    "owner": {
+      "github": "Agent9292"
+    },
+    "record": {
+      "CNAME": "agent9292.github.io"
+    }
+  },
+  {
     "domain": "algorithms",
     "owner": {
       "github": "saksham-shekher"
