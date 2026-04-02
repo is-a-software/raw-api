@@ -334,15 +334,6 @@
     }
   },
   {
-    "domain": "daboiz.thisismath.rewards01",
-    "owner": {
-      "github": "TGS1-DOW"
-    },
-    "record": {
-      "CNAME": "Sites.google.com"
-    }
-  },
-  {
     "domain": "daydreaming",
     "owner": {
       "github": "Poochley"
