@@ -1775,15 +1775,6 @@
     }
   },
   {
-    "domain": "test.timr",
-    "owner": {
-      "github": "TGS1-DOW"
-    },
-    "record": {
-      "CNAME": "Target.example.com"
-    }
-  },
-  {
     "domain": "test123",
     "owner": {
       "github": "vanmanhgaming2k9"
