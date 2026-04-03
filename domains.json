@@ -1505,15 +1505,6 @@
     }
   },
   {
-    "domain": "rajadev.is-a.software",
-    "owner": {
-      "github": "Tommylegen"
-    },
-    "record": {
-      "CNAME": "be3070a2-890c-4f5c-8672-b953df0c1630.cfargotunnel.com"
-    }
-  },
-  {
     "domain": "raw",
     "owner": {
       "github": "priyazsh"
