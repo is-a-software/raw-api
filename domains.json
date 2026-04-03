@@ -1496,15 +1496,6 @@
     }
   },
   {
-    "domain": "railway-challenge-ultrahubobf",
-    "owner": {
-      "github": "ultrahubteam-dot"
-    },
-    "record": {
-      "TXT": "railway-verify=b4047d3b751741769cb834e6cca05b3d87506f37cd8cf7880bcec846f2ebae29"
-    }
-  },
-  {
     "domain": "rajadev",
     "owner": {
       "github": "Tommylegen"
