@@ -1937,15 +1937,6 @@
     }
   },
   {
-    "domain": "vercel.tabbypaw",
-    "owner": {
-      "github": "zhengjynicolas"
-    },
-    "record": {
-      "CNAME": "a541ba98df44d12c.vercel-dns-017.com."
-    }
-  },
-  {
     "domain": "verifyai",
     "owner": {
       "github": "HakkanShah"
