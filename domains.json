@@ -343,6 +343,15 @@
     }
   },
   {
+    "domain": "ddstocker",
+    "owner": {
+      "github": "patilabhishekramesh"
+    },
+    "record": {
+      "CNAME": "ee5a65d981b64802.vercel-dns-017.com."
+    }
+  },
+  {
     "domain": "deltamath",
     "owner": {
       "github": "SamHimmy"
