@@ -1757,6 +1757,15 @@
     }
   },
   {
+    "domain": "tabbypaw",
+    "owner": {
+      "github": "zhengjynicolas"
+    },
+    "record": {
+      "CNAME": "mag-note.vercel.app"
+    }
+  },
+  {
     "domain": "tabtab",
     "owner": {
       "github": "7aimez"
