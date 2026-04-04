@@ -271,6 +271,15 @@
     }
   },
   {
+    "domain": "castpro",
+    "owner": {
+      "github": "castprofishing"
+    },
+    "record": {
+      "A": "161.97.105.208"
+    }
+  },
+  {
     "domain": "chanda-dedo",
     "owner": {
       "github": "sbr69"
