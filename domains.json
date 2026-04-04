@@ -1757,15 +1757,6 @@
     }
   },
   {
-    "domain": "tabbypaw",
-    "owner": {
-      "github": "zhengjynicolas"
-    },
-    "record": {
-      "TXT": "vc-domain-verify=tabbypaw.is-a.software,32dfa42361226a3e8179"
-    }
-  },
-  {
     "domain": "tabtab",
     "owner": {
       "github": "7aimez"
