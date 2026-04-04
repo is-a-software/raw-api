@@ -1766,15 +1766,6 @@
     }
   },
   {
-    "domain": "tabbypaw",
-    "owner": {
-      "github": "zhengjynicolas"
-    },
-    "record": {
-      "A": "216.198.79.1"
-    }
-  },
-  {
     "domain": "tabtab",
     "owner": {
       "github": "7aimez"
