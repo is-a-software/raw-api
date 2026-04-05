@@ -1586,15 +1586,6 @@
     }
   },
   {
-    "domain": "rm",
-    "owner": {
-      "github": "rrahan"
-    },
-    "record": {
-      "CNAME": "reminiscence-one.vercel.app"
-    }
-  },
-  {
     "domain": "rmlux",
     "owner": {
       "github": "lateefah-al"
