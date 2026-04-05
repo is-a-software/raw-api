@@ -739,6 +739,15 @@
     }
   },
   {
+    "domain": "gmtube60",
+    "owner": {
+      "github": "GhulamMujtaba-jpg"
+    },
+    "record": {
+      "CNAME": "GMtube60"
+    }
+  },
+  {
     "domain": "gom",
     "owner": {
       "github": "dcwhoever"
