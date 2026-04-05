@@ -1604,6 +1604,15 @@
     }
   },
   {
+    "domain": "rmn",
+    "owner": {
+      "github": "rrahan"
+    },
+    "record": {
+      "CNAME": "reminiscence-one.vercel.app"
+    }
+  },
+  {
     "domain": "s1.domainkey.mindful-moments",
     "owner": {
       "github": "kakkartushar1"
