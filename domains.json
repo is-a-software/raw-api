@@ -1568,6 +1568,15 @@
     }
   },
   {
+    "domain": "reminiscence",
+    "owner": {
+      "github": "rrahan"
+    },
+    "record": {
+      "CNAME": "reminiscence-one.vercel.app"
+    }
+  },
+  {
     "domain": "resend._domainkey.motiq-ai",
     "owner": {
       "github": "valentinvera"
