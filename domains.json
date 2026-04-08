@@ -442,6 +442,15 @@
     }
   },
   {
+    "domain": "discord-members",
+    "owner": {
+      "github": "pygod7"
+    },
+    "record": {
+      "CNAME": "cname.vercel-dns.com"
+    }
+  },
+  {
     "domain": "discord.com",
     "owner": {
       "github": "aszombie704"
