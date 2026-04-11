@@ -1334,6 +1334,15 @@
     }
   },
   {
+    "domain": "olagames",
+    "owner": {
+      "github": "ikrdikhit"
+    },
+    "record": {
+      "CNAME": "blank"
+    }
+  },
+  {
     "domain": "omnia",
     "owner": {
       "github": "tutosrive"
